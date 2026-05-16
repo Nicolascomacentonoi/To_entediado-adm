@@ -1,0 +1,5350 @@
+{
+  "animes": [
+    {
+      "nome": [
+        "100-man no Inochi no Ue ni Ore wa Tatteiru",
+        "I'm Standing on a Million Lives"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2020",
+      "generos": [
+        "isekai",
+        "fantasia",
+        "aventura",
+        "ação",
+        "comédia",
+        "drama",
+        "romance"
+      ],
+      "sinopse": "Yuusuke é transportado para outro mundo, descobre que algumas colegas de classe já estavam lá e que ele terá que completar missões para salvar seu mundo, “mas, será que vale realmente a pena salvar esse mundo?”",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Maho Film",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "86",
+      "episodios": 23,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/04/2021",
+      "generos": [
+        "sci-fi",
+        "militar",
+        "drama",
+        "mecha",
+        "distopia"
+      ],
+      "sinopse": "Em meio de uma guerra contra uma nação fantasma, a República utiliza de robôs “não tripulados” para conter os ataques dos robôs automáticos que prometem serem desativados em 2 anos, enquanto isso esses “drones” se sacrificam na linha de frente mantendo uma vivência pacífica e próspera na República. Porém a nova comandante se indigna com a verdade por trás dos drones que na verdade são pilotados por uma parcela populacional oprimida pela cor de sua pel- cabelo",
+      "recomendacao": "Veja",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Toaru Majutsu no Index",
+        "A Certain Magical Index"
+      ],
+      "episodios": 74,
+      "temporadas": "3 + 1 filme",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2008",
+      "generos": [
+        "sci-fi",
+        "Magia",
+        "Paranormal",
+        "ação",
+        "comédia",
+        "harém",
+        "ecchi"
+      ],
+      "sinopse": "Em um mundo de constante conflito entre Magia e Ciência, Kamijo é apenas um azarado adolescente que acaba se deparando com uma estranha garota que se diz ser a portadora de mil grimórios mágicos e está sendo perseguida por isso. Agora Kamijo usará sua peculiar mão direita capaz de anular qualquer tipo de poder para mostrar que só usa poderzinho quem não se garante no soco",
+      "recomendacao": "Média prioridade",
+      "onde_ver": null,
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Toaru Kagaku no Accelerator",
+        "A Certain Scientific Accelerator"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2019",
+      "generos": [
+        "sci-fi",
+        "Magia",
+        "Paranormal",
+        "ação",
+        "comédia",
+        "ecchi"
+      ],
+      "sinopse": "Depois de… tomar um tiro na cabeça. Accelarator, o sper (paranormal) mais forte da cidade académica, agora se encontra no meio de uma reabilitação para conseguir usar seus poderes em potencia maxima novamente. Porém, assim como qualquer adolescente de 2013, não será isso que impedirá a vontade desse rapaz de ser Edgy e “farmar aura” usando um dos poderes mais interessantes que eu já vi: manipulação de vetores.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Aharen-san wa Hakarenai",
+        "Aharen-san is Indecipherable"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/04/2022",
+      "generos": [
+        "comédia romântica",
+        "slice of life",
+        "maus entendidos e problemas de comunicação"
+      ],
+      "sinopse": "Nosso caro protagonista não é muito popular devido seu rosto de delinquente e sua péssima capacidade comunicativa. Porém tudo muda quando ele conhece uma garota que possui capacidades comunicativas ainda piores que a dele, além de péssima capacidade de medir espaços pessoais",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Aho Girl",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2017",
+      "generos": [
+        "comédia romântica",
+        "fem-protag",
+        "slice of life",
+        "Brainrot"
+      ],
+      "sinopse": "Uma garota dodoi que fica enchendo o saco de um garoto normal",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomedéa",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Akame ga Kill!",
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/07/2014",
+      "generos": [
+        "ação",
+        "drama",
+        "romance",
+        "shuonen",
+        "good vibes",
+        "distopia"
+      ],
+      "sinopse": "Tatsumi é um espadachim do interior que sonhava em ir para capital e se tornar um grande cavaleiro. Porém ao chegar, ele se depara com a tremenda crueldade e corrupção da capital. Agora com seu coração justo, Tatsumi se junta a uma organização rebelde que busca exterminar esses lixos",
+      "recomendacao": "Veja",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "White Fox",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Akira",
+      "episodios": 1,
+      "temporadas": "1 filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "16/07/1988",
+      "generos": [
+        "sci-fi",
+        "drama",
+        "ação",
+        "sobrenatural",
+        "distopia"
+      ],
+      "sinopse": "“Meu amigo conseguiu super poderes e ficou maluco, mas foda-se minha moto é muito foda.”",
+      "recomendacao": "Veja",
+      "onde_ver": "Netflix",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+        "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/01/2024",
+      "generos": [
+        "isekai",
+        "fantasia",
+        "comédia",
+        "magia",
+        "romance",
+        "fem-protag"
+      ],
+      "sinopse": "Uma universitária japonesa repentinamente acorda dentro de um jogo otome (date simulator pra garota), porém como a vilã destinada a um final trágico. Com isso em mente, ela busca se fortalecer melhorando sua magia. Porém sua paranóia a leva longe demais.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Nippon Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+        "I'm the Villainess, So I'm Taming the Final Boss"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2022",
+      "generos": [
+        "isekai",
+        "fantasia",
+        "comédia",
+        "fem-protag",
+        "magia",
+        "romance"
+      ],
+      "sinopse": "Em busca de evitar seu destino trágico, Aileen, uma ex japonsesa comum, busca abrigo no casteo do rei demônio. Assim sendo capaz de evitar o trágico final de ambosm enquanto desfrutam de um estranho romance",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ENGI",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Amagi Brilliant Park",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2014",
+      "generos": [
+        "adiministração",
+        "comédia",
+        "fantasia",
+        "drama",
+        "ecchi"
+      ],
+      "sinopse": "Seiya era apenas um rapaz narcisista, isso até ele ser subitamente ameaçado e obrigado para a gerenciar um parque de diversão mágico.",
+      "recomendacao": "Veja",
+      "onde_ver": "",
+      "Estudio": "Kyoto Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+        "An Archdemon's Dilemma: How to Love Your Elf Bride"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2024",
+      "generos": [
+        "fofo",
+        "comédia romântica",
+        "fantasia",
+        "drama"
+      ],
+      "sinopse": "Uma história de romance entre o Rei demônio e uma pobre elfa que ele “resgatou” com dinheiro. Agora ele terá a difícil tarefa de ensinar a garota sobre a felicidade.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Zero-G",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Angel Beats!",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/04/2010",
+      "generos": [
+        "drama",
+        "ação",
+        "mistério",
+        "romance",
+        "comédia"
+      ],
+      "sinopse": "Yuzuru subitamente acorda em sua escola mas percebe algo estranho, pessoas armadas que alegam lutar contra anjos para evitar o pós vida. Diante dessa realidade chocante, o rapaz busca entender a situação enquanto cativa interesse pelo anjo.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "P.A. Works",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Satsuriku no Tenshi",
+        "Angels of Death"
+      ],
+      "episodios": 16,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2018",
+      "generos": [
+        "Tensão",
+        "ação",
+        "mistério",
+        "drama"
+      ],
+      "sinopse": "Rachel é uma jovem garota que acorda no porão de um edifício abandonado. Sem memórias ou direitos humanos, ela explora o lugar até encontrar um psicopata sádico chamado Isaac, que desiste de matá la por sua falta de emoções, alegando que apenas mata pessoas no ápice do desespero. Então ele decide acompanhar a garota na jornada para fugir do prédio e recuperar suas emoções para finalmente conseguir matá-la com prazer. infelizmente, ele não é o único maníaco do recinto.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ao no Exorcist",
+        "Blue Exorcist"
+      ],
+      "episodios": 73,
+      "temporadas": 5,
+      "porcentagem_dublado": 66,
+      "data_de_lancamento": "17/04/2011",
+      "generos": [
+        "shounen",
+        "sobrenatural"
+      ],
+      "sinopse": "Rin era apenas um jovem comum que foi criado por um padre e se tornou um jovem gentil, mas violento. Porém sua pacata vida é interrompida depois que alguém da sua família morre e ele descobre que tem poderes sobrenaturais especiais e agora ele vai entrar em uma organização de pessoas com poderes sobrenaturais para caçar pessoas más que querem o poder dele… eu acho que já ouvi isso em algum lugar.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Ao Oni The Animation",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2016",
+      "generos": [
+        "comédia",
+        "violência",
+        "brainrot"
+      ],
+      "sinopse": "Paródia de comédia de um joguinho de terror antigo que ficou popular um tempo atrás.",
+      "recomendacao": "Só veja se você conhece o jogo",
+      "onde_ver": "",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Arifureta Shokugyou de Sekai Saikyou",
+        "Arifureta: From Commonplace to World's Strongest"
+      ],
+      "episodios": 38,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/07/2019",
+      "generos": [
+        "isekai",
+        "harem",
+        "fantasia",
+        "ação",
+        "ecchi",
+        "romance",
+        "comédia",
+        "cgi"
+      ],
+      "sinopse": "Nagumo era apenas um estudante de baixo rank, isso até toda sua turma ser magicamente convocada em outro mundo e ser coagida a interpretar o papel de “heróis”. Porém Nagumo recebe um poder bem merda, e para surpresa de ninguém,  ele é traído e usado de isca na primeira oportunidade. Porém como isso é um isekai genérico, ele desperta e volta mais edgy que o próprio Shadow The Hedgehog .",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "asread., EMT Squared",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Around 40 Otoko no Isekai Tsuuhan",
+        "Around 40 Yaman: Ossan no Isekai Mail Order"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2024",
+      "generos": [
+        "isekai",
+        "slice of life",
+        "fantasia",
+        "romance",
+        "ecchi",
+        "harém",
+        "comédia"
+      ],
+      "sinopse": "Kenichi no auge de seus trinta e muitos anos é magicamente teleportado para outro mundo. Logo após isso, ele descobre que possui a capacidade de usar a Shoppe por telepatia e comprar itens de seu mundo sem precisar pagar frete ou imposto (gritos de inveja). Com esse poder, Konichi decide se tornar um mercante e… ter um harém, é óbvio.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Comet",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ansatsu Kyoushitsu",
+        "Assassination Classroom"
+      ],
+      "episodios": 47,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "10/01/2015",
+      "generos": [
+        "shounen",
+        "educativo",
+        "ação",
+        "super poderes"
+      ],
+      "sinopse": "O que pode ser mais  difícil: o ensino médio ou assassinar um ser onipotente? “Me matem até a formatura ou eu destruirei a terra” foram as palavras de seu novo professor amarelo e excêntrico.",
+      "recomendacao": "VEJA IMEDIATAMENTE",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shingeki no Kyojin",
+        "Attack on Titan"
+      ],
+      "episodios": 99,
+      "temporadas": "5 + 1 filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/04/2013",
+      "generos": [
+        "distopia",
+        "drama",
+        "ação",
+        "militar",
+        "super poderes",
+        "suspense",
+        "good vibes"
+      ],
+      "sinopse": "Em um mundo dominado por titãs assassinos, a humanidade é forçada a se isolar dentro de muralhas colossais para se proteger. Dentro dessas muralhas os soldados são divididos em 3 esquadrões: polícia, defesa da muralha e o mais perigoso de todos: o esquadrão de exploração, um esquadrão composto basicamente por suicidas que sonham com a liberdade. E falando de sui- sonhador, Eren é um jovem soldado movido por sua determinação inabalável de exterminar os titãs e alcançar a liberdade dos humanos.",
+      "recomendacao": "Veja",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Wit Studio, MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Barakamon",
+      "episodios": 12,
+      "temporadas": "1",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2014",
+      "generos": [
+        "Comédia",
+        "artes",
+        "drama",
+        "fofo",
+        "family friendly"
+      ],
+      "sinopse": "Handa é um orgulhoso calígrafo que possui um temperamento complicado, e por isso ele foi isolado em uma remota vila na puta que pariu. Tentando se concentrar em seu treinamento, Handa percebe que essa tarefa será impossível dependendo de seus vizinhos… complicados.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kinema Citrus",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Baki",
+      "episodios": 128,
+      "temporadas": "7 + 1 filme",
+      "porcentagem_dublado": 71,
+      "data_de_lancamento": "26/06/2018",
+      "generos": [
+        "ação",
+        "porrada"
+      ],
+      "sinopse": "Quando eu crescer eu quero ser que nem o meu pai”, o problema é quando o seu pai é o ser humano mais forte do mundo e também um baita de um cuzão. Mas isso não impedirá Baki de seguir em sua jornada para se tornar o mais forte, mesmo que pra isso ele tenha que quebrar algumas leis da natureza.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Netflix",
+      "Estudio": "TMS Entertainment, Netflix Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Beastars",
+      "episodios": 36,
+      "temporadas": "3",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "10/10/2019",
+      "generos": [
+        "furry",
+        "drama",
+        "suspense",
+        "ação",
+        "romance",
+        "cgi"
+      ],
+      "sinopse": "Similar à premissa de Zootopia, este mundo é sustentado por um frágil acordo de paz entre herbivoros e carnivoros. Frágil o suficiente para que um único incidente envolvendo “caça” acabe com essa paz e ressuscite a segregação e desconfiança entre as partes. Nesse contexto, nosso protagonista Legoshi tente seu melhor para reconquistar a confiança dos herbívoros quanto aos carnívoros para assim finalmente ele poder ficar com a garota mais rodada da escola.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Netflix",
+      "Estudio": "Orange",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Beelzebub",
+      "episodios": 60,
+      "temporadas": "1",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/01/2011",
+      "generos": [
+        "Shounen",
+        "slice of life",
+        "paternal",
+        "super poderes",
+        "sobrenatural"
+      ],
+      "sinopse": "O filho de rei demônio se cativa pela maldade de Oga, um delinquente famoso do ensino médio, e passa a enxergá-lo como seu novo pai. Assim como todo pai juvenil, Oga tenta escapar de seu destino de ser pai solteiro se livrando do moleque. Porém essa não será uma tarefa fácil, considerando que ele terá que achar um guerreiro à altura para substituí-lo.",
+      "recomendacao": "Veja",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Benriya Saitou-san, Isekai ni Iku",
+        "Handyman Saitou in Another World"
+      ],
+      "episodios": 12,
+      "temporadas": "1",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2023",
+      "generos": [
+        "isekai",
+        "comédia",
+        "fantasia",
+        "ação"
+      ],
+      "sinopse": "Isekai do técnico de manutenção que entra numa party de rpg.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "LIDENFILMS",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Berserk",
+      "episodios": 64,
+      "temporadas": "3",
+      "porcentagem_dublado": 33,
+      "data_de_lancamento": "07/10/1997",
+      "generos": [
+        "fantasia",
+        "violência",
+        "aventura",
+        "good vibes",
+        "ação",
+        "drama",
+        "romance"
+      ],
+      "sinopse": "Movido pelo ódio e determinação, Guts, um famoso mercenário, vaga pelas terras médias enfrentando demônios e todo tipo de obstáculos para conseguir sua vingança contra seu melhor amigo e recuperar a sanidade de sua amada.",
+      "recomendacao": "VEJA IMEDIATAMENTE ( o mangá) ",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "OLM, GEMBA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Black Cat",
+      "episodios": 23,
+      "temporadas": "1",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/10/2005",
+      "generos": [
+        "ação",
+        "romance",
+        "comédia",
+        "drama",
+        "super poderes"
+      ],
+      "sinopse": "Heartnet é temido como o maior assassino da organização mais poderosa no submundo. Porém seus dias de assassino acabam quando ele se apaixona por uma garota desconhecida que o ensina sobre os prazeres da vida de um “gato de rua”. Agora aposentado, Heartnet não passa de um pistoleiro mercenário que tenta proteger sua liberdade junto de seus amigos contra criminosos terríveis.",
+      "recomendacao": "Veja",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Gonzo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Black Clover",
+      "episodios": 170,
+      "temporadas": "4 + 1 filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/10/2017",
+      "generos": [
+        "shounen",
+        "fantasia",
+        "comédia",
+        "ação",
+        "harem",
+        "ecchi",
+        "Magia"
+      ],
+      "sinopse": "Movido por um amor impossível, Asta sonha em se tornar o Rei mago mesmo desprovido de qualquer magia. Porém sua vida muda completamente após ser escolhido por um misterioso grimório, cujo a única capacidade é invocar espadas anti-magias. Mas isso é mais do que o suficiente para guiar Asta até a guilda mais problemática das terras médias, afinal “Só lança feitiço quem não se garante no corpo a corpo”.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Bleach"
+      ],
+      "episodios": 396,
+      "temporadas": "18 + 4 filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2004",
+      "generos": [
+        "shounen",
+        "sobrenatural",
+        "super poderes"
+      ],
+      "sinopse": "Ichigo, um estiloso delinquente do ensino médio, é frequentemente pertubado por suas peculiar capacidade de ver espíritos. Um dia, seu estranho poder o faz conhecer Rukia, uma ceifeira de almas que revela a existência de shinigamis que protegem as almas humanas de criaturas corrompidas. Então, para proteger aqueles que ama, Ichigo é forçado a se tornar um Shinigami estagiário.",
+      "recomendacao": "Veja",
+      "onde_ver": "Disney+",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Blood Lad",
+      "episodios": 10,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/07/2013",
+      "generos": [
+        "comédia",
+        "sobrenatural",
+        "ação",
+        "romance",
+        "ecchi"
+      ],
+      "sinopse": "Staz é um poderoso vampiro que governa o inferno, lar de todo tipo de seres mágicos. Porém o mesmo é fascinado com os humanos e sua cultura, sendo viciado em jogos, animes e coisas do tipo. Felizmente para aliviar seu tédio, Staz se encontra uma humana, que misteriosamente morreu e ficou presa no inferno. Agora ambos se juntaram em uma jornada para levar de volta para Terra.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Blue Lock"
+      ],
+      "episodios": 38,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/10/2022",
+      "generos": [
+        "esporte"
+      ],
+      "sinopse": "Futebol é apenas um esporte, mas para alguns, é algo muito maior. A iniciativa Blue Lock é um projeto do ministério do esporte japonês para criar uma seleção capaz de vencer o imbatível Vasco, reunindo jovens de todo país e os submetendo à vivenciar o maior dos desafios: Sobreviver ao Big Brother Brasil (edição futebol). Apenas aqueles com mentalidades egoístas e com talento serão capazes de se juntar à seleção.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "8bit",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Blue Period"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2021",
+      "generos": [
+        "artes",
+        "drama",
+        "educativo"
+      ],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Seven Arcs",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "BNA: Brand New Animal"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/04/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Trigger",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Boku no Hero Academia",
+        "My Hero Academia"
+      ],
+      "episodios": 159,
+      "temporadas": "7 + 4 filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+      "episodios": 10,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomedéa",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Bokutachi no Remake",
+        "Remake Our Life!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Bokutachi wa Benkyou ga Dekinai",
+        "We Never Learn"
+      ],
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/04/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Arvo Animation, Silver",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "01/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ENGI",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Boushoku no Berserk",
+        "Berserk of Gluttony"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Satelight",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Btooom!",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Bungou Stray Dogs",
+        "Bungo Stray Dogs"
+      ],
+      "episodios": 60,
+      "temporadas": "5 + 1 filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Busou Shoujo Machiavellianism",
+        "Armed Girl's Machiavellism"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/04/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Carnival Phantasm",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/08/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Type-Moon",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shinchou Yuusha",
+        "Cautious Hero: The Hero is Overpowered but Overly Cautious"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "White Fox",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Chain Chronicle: Haecceitas no Hikari",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Graphinica",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Chainsaw Man",
+        "Chainsaw Man"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/10/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Charlotte",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "P.A. Works",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Chiyu Mahou no Machigatta Tsukaikata",
+        "The Wrong Way to Use Healing Magic"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "10/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Comet",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Chuunibyou demo Koi ga Shitai!",
+        "Love, Chunibyo & Other Delusions"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kyoto Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Code Geass: Hangyaku no Lelouch",
+        "Code Geass: Lelouch of the Rebellion"
+      ],
+      "episodios": 75,
+      "temporadas": "3 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/10/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Sunrise",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Code:Breaker",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kinema Citrus",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Cowboy Bebop",
+      "episodios": 26,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/04/1998",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Sunrise",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dagashi Kashi",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "feel.",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Dandadan",
+        "Dandadan"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/10/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Science SARU",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Danganronpa: The Animation",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+        "I Can't Understand What My Husband Is Saying"
+      ],
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Seven",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+        "Is It Wrong to Try to Make Friends with the Opposite Sex?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Nomad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Danshi Koukousei no Nichijou",
+        "Daily Lives of High School Boys"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Sunrise",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Dark Gathering",
+        "Dark Gathering"
+      ],
+      "episodios": 25,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/07/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Yokohama Animation Laboratory",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Darwin's Game",
+      "episodios": 11,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "DMM pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Date A Live",
+      "episodios": 50,
+      "temporadas": "5 + filmes",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/04/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Production IMS",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dead Mount Death Play",
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/04/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Geek Toys",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shinda Account",
+        "Dead Account"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "C2C",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Deadman Wonderland",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "17/04/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Manglobe",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "Death March to the Parallel World Rhapsody"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Death Note",
+      "episodios": 37,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/10/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Deatte 5-byou de Battle",
+        "Battle Game in 5 Seconds"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "14/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Ekachi Epilka",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Demi-chan wa Kataritai",
+        "Interviews with Monster Girls"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Devil May Cry",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "14/06/2007",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Diabolik Lovers",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "16/09/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Zexcs",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kusuriya no Hitorigoto",
+        "The Apothecary Diaries"
+      ],
+      "episodios": 48,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "22/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "OLM",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+        "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dorohedoro",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "13/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dr. Stone",
+      "episodios": 59,
+      "temporadas": "4 + especiais",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dragon Ball",
+      "episodios": 921,
+      "temporadas": "Dragon Ball + Z + GT + Super + Daima",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "26/02/1986",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Toei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Dragon Crisis!",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Dumbbell Nan Kilo Moteru?",
+        "How Heavy Are the Dumbbells You Lift?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      ],
+      "episodios": 64,
+      "temporadas": "5 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Dungeon Meshi",
+        "Delicious in Dungeon"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Trigger",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Edens Zero",
+        "Edens Zero"
+      ],
+      "episodios": 50,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Emiya-san Chi no Kyou no Gohan",
+        "Today's Menu for the Emiya Family"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "25/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ufotable",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Enen no Shouboutai",
+        "Fire Force"
+      ],
+      "episodios": 48,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "David Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Boku dake ga Inai Machi",
+        "Erased"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/01/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Eromanga-sensei",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/04/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shin Seiki Evangelion",
+        "Neon Genesis Evangelion"
+      ],
+      "episodios": 26,
+      "temporadas": "1 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/10/1995",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Gainax",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Fairy Tail",
+      "episodios": 328,
+      "temporadas": "9 + sequels",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/10/2009",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "A-1 Pictures, Bridge",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Fate/stay night",
+        "Fate/stay night"
+      ],
+      "episodios": 74,
+      "temporadas": "Várias rotas + filmes",
+      "porcentagem_dublado": 33,
+      "data_de_lancamento": "07/01/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Fate/Zero",
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ufotable",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Fate/strange Fake",
+      "episodios": 1,
+      "temporadas": "1 especial",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "31/12/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Fate/kaleid liner Prisma Illya",
+      "episodios": 39,
+      "temporadas": "4 + filmes",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Fate/Extra Last Encore",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "27/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Shaft",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sousou no Frieren",
+        "Frieren: Beyond Journey's End"
+      ],
+      "episodios": 28,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "29/09/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Full Metal Panic!",
+      "episodios": 49,
+      "temporadas": 4,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/01/2002",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Gonzo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+        "Fullmetal Alchemist: Brotherhood"
+      ],
+      "episodios": 64,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/04/2009",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Fumetsu no Anata e",
+        "To Your Eternity"
+      ],
+      "episodios": 40,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Gabriel DropOut",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gachiakuta",
+        "Gachiakuta"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gakuen Babysitters",
+        "School Babysitters"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Gamers!",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "13/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pine Jam",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+        "Gate"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Getsuyoubi no Tawawa",
+        "Tawawa on Monday"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Gokumi",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Giji Harem",
+        "Pseudo Harem"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Quad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yin zhi Shouwang Zhe",
+        "Gin no Guardian / Silver Guardian"
+      ],
+      "episodios": 23,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Haoliners Animation League",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Gintama",
+      "episodios": 367,
+      "temporadas": "10 + filmes",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Sunrise",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Gleipnir",
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/04/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pine Jam",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Goblin Slayer",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "White Fox",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gokushufudou",
+        "The Way of the Househusband"
+      ],
+      "episodios": 15,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Golden Boy",
+      "episodios": 6,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "28/10/1995",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gotoubun no Hanayome",
+        "The Quintessential Quintuplets"
+      ],
+      "episodios": 36,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/01/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Bibury Animation Studios",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Grand Blue",
+        "Grand Blue Dreaming"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "14/07/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Zero-G",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Great Pretender",
+      "episodios": 23,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/06/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Wit Studio",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Grisaia no Kajitsu",
+        "The Fruit of Grisaia"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/10/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Eight Bit",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "GTO: Great Teacher Onizuka",
+        "Great Teacher Onizuka"
+      ],
+      "episodios": 43,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "30/06/1999",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gunjou no Magmel",
+        "Magmel of the Sea Blue"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/04/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tengen Toppa Gurren Lagann",
+        "Gurren Lagann"
+      ],
+      "episodios": 27,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "01/04/2007",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Gainax",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Gyakuten Saiban",
+        "Ace Attorney"
+      ],
+      "episodios": 47,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hagure Yuusha no Estetica",
+        "Aesthetica of a Rogue Hero"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Arms",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hajime no Ippo",
+        "Fighting Spirit"
+      ],
+      "episodios": 127,
+      "temporadas": "3 + especiais",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2000",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Jigokuraku",
+        "Hell's Paradise"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "01/04/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Handa-kun",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/07/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomedéa",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Haiyore! Nyaruko-san",
+        "Nyaruko: Crawling with Love!"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/04/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "DLE",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hajimete no Gal",
+        "My First Girlfriend is a Gal"
+      ],
+      "episodios": 10,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hataraku Maou-sama!",
+        "The Devil is a Part-Timer!"
+      ],
+      "episodios": 37,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "White Fox",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hataage! Kemono Michi",
+        "Kemono Michi: Rise Up"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ENGI",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hidan no Aria",
+        "Aria the Scarlet Ammo"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "14/04/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "High School DxD",
+      "episodios": 53,
+      "temporadas": 4,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/01/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "TNK",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "High Score Girl",
+        "High Score Girl"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "14/07/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Higurashi no Naku Koro ni",
+        "When They Cry"
+      ],
+      "episodios": 102,
+      "temporadas": "Várias séries",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Highschool of the Dead",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/07/2010",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hime-sama 'Goumon' no Jikan desu",
+        "Princess Sessions Torture"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Asahi Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Horimiya",
+        "Horimiya"
+      ],
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "10/01/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kenka Dokugaku",
+        "How to Fight"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Hunter x Hunter",
+        "Hunter x Hunter"
+      ],
+      "episodios": 148,
+      "temporadas": "1 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Nippon Animation, Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ichiban Ushiro no Daimaou",
+        "Demon King Daimao"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/04/2010",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Artland",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ijiranaide, Nagatoro-san",
+        "Don't Toy With Me, Miss Nagatoro"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Telecom Animation Film",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Inou-Battle wa Nichijou-kei no Naka de",
+        "When Supernatural Battles Became Commonplace"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Trigger",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Isekai Cheat Magician",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Encourage Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+        "How NOT to Summon a Demon Lord"
+      ],
+      "episodios": 22,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Tatsunoko Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Mokushiroku Mynoghra",
+        "Apocalypse Bringer Mynoghra"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomidea",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Ojisan",
+        "Uncle from Another World"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "AtelierPontdarc",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Isekai Quartet",
+      "episodios": 36,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/04/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Shikkaku",
+        "No Longer Allowed in Another World"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Gokumi",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Suicide Squad Isekai",
+        "Suicide Squad Isekai"
+      ],
+      "episodios": 10,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "27/06/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Hulu/Disney+/Max",
+      "Estudio": "WIT Studio",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Shokudou",
+        "Restaurant to Another World"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai Izakaya: Koto Aiteria no Izakaya Nobu",
+        "Isekai Izakaya: Japanese Food From Another World"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "13/04/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Aic Spirits, Macademia Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Isekai wa Smartphone to Tomo ni.",
+        "In Another World With My Smartphone"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Production Reed",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Island",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "01/07/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "feel.",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Jahy-sama wa Kujikenai!",
+        "The Great Jahy Will Not Be Defeated!"
+      ],
+      "episodios": 20,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "30/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Jaku-Chara Tomozaki-kun",
+        "Bottom-Tier Character Tomozaki"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Pine Jam",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Jin Tian Kai Shi Zuo Ming Xing",
+      "episodios": 17,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "20/02/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Haoliners Animation League",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Jitsu wa Watashi wa",
+        "Actually, I Am..."
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "JoJo no Kimyou na Bouken",
+        "JoJo's Bizarre Adventure"
+      ],
+      "episodios": 190,
+      "temporadas": "6 partes",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "David Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Jujutsu Kaisen",
+        "Jujutsu Kaisen"
+      ],
+      "episodios": 47,
+      "temporadas": "2 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/10/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "K",
+        "K Project"
+      ],
+      "episodios": 39,
+      "temporadas": "2 + filmes",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "GoHands",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kage no Jitsuryokusha ni Naritakute!",
+        "The Eminence in Shadow"
+      ],
+      "episodios": 32,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Nexus",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kaguya-sama wa Kokurasetai",
+        "Kaguya-sama: Love Is War"
+      ],
+      "episodios": 37,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/01/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kai Byoui Ramune",
+        "Mysterious Disease Specialist Ramune"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Shin-Ei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kaiju No. 8",
+        "Kaiju No. 8"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "13/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Production I.G",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+        "Chronicles of the Going Home Club"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Yokohama Animation Lab",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Kakegurui",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "01/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kakkou no Iinazuke",
+        "A Couple of Cuckoos"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "23/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Shin-Ei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kamisama ni Natta Hi",
+        "The Day I Became a God"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/10/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "P.A. Works",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kanojo, Okarishimasu",
+        "Rent-A-Girlfriend"
+      ],
+      "episodios": 48,
+      "temporadas": 4,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/07/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Karakai Jouzu no Takagi-san",
+        "Teasing Master Takagi-san"
+      ],
+      "episodios": 36,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Shin-Ei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kawaii dake ja Nai Shikimori-san",
+        "Shikimori's Not Just a Cutie"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+        "Hensuki: Are You Willing to Fall in Love with a Pervert, as Long as She's a Cutie?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "13/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Geek Toys",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Kaze no Stigma",
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/04/2007",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Gonzo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+        "Our Dating Story: The Experienced You and The Inexperienced Me"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bibury Animation Studios",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kekkai Sensen",
+        "Blood Blockade Battlefront"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "BONES",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kemono Jihen",
+        "Monster Incidents"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Ajia-Do",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Kengan Ashura",
+      "episodios": 36,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "31/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Larx Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kenja no Mago",
+        "Wise Man's Grandchild"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/04/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kimetsu no Yaiba",
+        "Demon Slayer"
+      ],
+      "episodios": 63,
+      "temporadas": "5 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/04/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "ufotable",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+        "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bibury Animation CG",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "Our Last Crusade or the Rise of a New World"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/10/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kishuku Gakkou no Juliet",
+        "Boarding School Juliet"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Dogakobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Koi wa Sekai Seifuku no Ato de",
+        "Love After World Domination"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Toei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Kiznaiver",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Trigger",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kobayashi-san Chi no Maid Dragon",
+        "Miss Kobayashi's Dragon Maid"
+      ],
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kyoto Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Koi to Senkyo to Chocolate",
+        "Love, Election and Chocolate"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "AIC Build",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Komi-san wa, Comyushou desu.",
+        "Komi Can't Communicate"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/10/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "OLM",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kono Bijutsubu ni wa Mondai ga Aru!",
+        "This Art Club Has a Problem!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/07/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "feel.",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kono Subarashii Sekai ni Shukufuku wo!",
+        "KonoSuba: God's Blessing on This Wonderful World!"
+      ],
+      "episodios": 32,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "14/01/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+        "I'll Become a Villainess Who Goes Down in History"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Comet",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kubo-san wa Mob wo Yurusanai",
+        "Kubo Won't Let Me Be Invisible"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/01/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Quad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kyokou Suiri",
+        "In/Spectre"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kyoukai no Kanata",
+        "Beyond the Boundary"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kyoto Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Lazarus",
+        "Lazarus"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/04/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Max",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shiguang Dailiren",
+        "Link Click"
+      ],
+      "episodios": 23,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "30/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Haoliners Animation League",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Lookism",
+      "episodios": 8,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/12/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Mir",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Loop 7-Kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
+        "7th Time Loop"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Platinum Vision",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Made in Abyss",
+        "Made in Abyss"
+      ],
+      "episodios": 25,
+      "temporadas": "2 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kinema Citrus",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mairimashita! Iruma-kun",
+        "Welcome to Demon School! Iruma-kun"
+      ],
+      "episodios": 63,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/10/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bandai Namco Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Make Heroine ga Oosugiru!",
+        "Too Many Losing Heroines!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "13/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Maou-sama, Retry!",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Ekachi Epilka",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Maoyu",
+        "Maoyu: Archenemy and Hero"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/01/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomedéa",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Masamune-kun no Revenge",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/01/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Marriagetoxin",
+        "Marriagetoxin"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lay-duce",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mashle",
+        "Mashle: Magic and Muscles"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/04/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mato Seihei no Slave",
+        "Chained Soldier"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Arvo Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+        "Medaka Kuroiwa is Impervious to My Charms"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Megalo Box",
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/04/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Nippon TV",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Megami-ryou no Ryoubo-kun.",
+        "Mother of the Goddess' Dormitory"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Arvo Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mieruko-chan",
+        "Mieruko-chan"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Passione",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mikadono Sanshimai wa Angai, Choroi.",
+        "The Three Sisters of the Mikadono Family Are Surprisingly Easygoing"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "drop",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mirai Nikki",
+        "Future Diary"
+      ],
+      "episodios": 26,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/10/2011",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Asread",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mob Psycho 100",
+        "Mob Psycho 100"
+      ],
+      "episodios": 37,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/07/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Monogatari Series",
+        "Monogatari Series"
+      ],
+      "episodios": 119,
+      "temporadas": "Várias temporadas",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2009",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Shaft",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Monster Musume no Iru Nichijou",
+        "Monster Musume: Everyday Life with Monster Girls"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Munou na Nana",
+        "Talentless Nana"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Satelight",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Murenase! Seton Gakuen",
+        "Seton Academy: Join the Pack!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Musaigen no Phantom World",
+        "Myriad Colors Phantom World"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kyoto Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "Mushoku Tensei: Jobless Reincarnation"
+      ],
+      "episodios": 47,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/01/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Studio Bind",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Nakanohito Genome [Jikkyouchuu]",
+        "The Ones Within"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Wolfsbane",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Nanatsu no Taizai",
+        "The Seven Deadly Sins"
+      ],
+      "episodios": 100,
+      "temporadas": "5 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "A-1 Pictures, Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Nanbaka",
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/10/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Satelight",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Naruto",
+        "Naruto"
+      ],
+      "episodios": 720,
+      "temporadas": "Naruto + Shippuden + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/10/2002",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+        "And You Thought There Is Never a Girl Online?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Project No.9",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Nige Jouzu no Wakagimi",
+        "The Elusive Samurai"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "C2C",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "No Game No Life",
+        "No Game No Life"
+      ],
+      "episodios": 12,
+      "temporadas": "1 + filme",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/04/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Noragami",
+        "Noragami"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/01/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "One Piece",
+        "One Piece"
+      ],
+      "episodios": 1130,
+      "temporadas": "1 (em curso)",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "20/10/1999",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Toei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "One Punch Man",
+        "One Punch Man"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Madhouse, J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Orient",
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/01/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A.C.G.T.",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+        "I Love My Little Sister but She's Not My Little Sister"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Encourage Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+        "Oreimo / My Little Sister Can't Be This Cute"
+      ],
+      "episodios": 32,
+      "temporadas": "2 + especiais",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2010",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "AIC Build",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+        "Oreshura"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/01/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore wo Suki nano wa Omae dake ka yo",
+        "Oresuki: Are You the Only One Who Loves Me?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Connect",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore wa Subete wo 'Parry' suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+        "I Parry Everything"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "LIDENFILMS",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Oroka na Tenshi wa Akuma to Odoru",
+        "The Foolish Angel Dances with the Devil"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "ENGI",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Oshi no Ko",
+        "Oshi no Ko"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "12/04/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+        "The Angel Next Door Spoils Me Rotten"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "Trapped in a Dating Sim"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Encourage Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ousama Ranking",
+        "Ranking of Kings"
+      ],
+      "episodios": 23,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "15/10/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Wit Studio",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Overlord",
+        "Overlord"
+      ],
+      "episodios": 52,
+      "temporadas": 4,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Owari no Seraph",
+        "Seraph of the End"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "WIT Studio",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Paripi Koumei",
+        "Ya Boy Kongming!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lidenfilms",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Platinum End",
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/10/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Signal.MD",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Plunderer",
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Geek Toys",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Pocket Monsters",
+        "Pokémon"
+      ],
+      "episodios": 1300,
+      "temporadas": "Várias séries",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "01/04/1997",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "OLM",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+        "The Useless Discipline Committee Member and the JK With An Improper Skirt Length"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Quad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Prison School",
+        "Prison School"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Quanzhi Fashi",
+        "Full-Time Magister"
+      ],
+      "episodios": 87,
+      "temporadas": "6",
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "01/09/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Foch Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Radiant",
+      "episodios": 42,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ragna Crimson",
+        "Ragna Crimson"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "01/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Raise wa Tanin ga Ii",
+        "Yakuza Fiancé: Raise wa Tanin ga Ii"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/10/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Rakudai Kishi no Cavalry",
+        "Chivalry of a Failed Knight"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ranma ½",
+        "Ranma ½"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/10/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Ranma ½ (2024): MAPPA; Ranma ½ (1989): Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shuumatsu no Walküre",
+        "Record of Ragnarok"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "17/06/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Graphinica",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Renai Boukun",
+        "Love Tyrant"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/04/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Zexcs",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "Re:Zero - Starting Life in Another World"
+      ],
+      "episodios": 75,
+      "temporadas": "3 + OVAs",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "White Fox",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Rikei ga Koi ni Ochita no de Shoumeishitemita.",
+        "Science Fell in Love, So I Tried to Prove It"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Rokka no Yuusha",
+        "Rokka: Braves of the Six Flowers"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Passione",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Rokudenashi Majutsu Koushi to Akashic Records",
+        "Akashic Records of Bastard Magic Instructor"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lidenfilms",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Niwatori Fighter",
+        "Rooster Fighter"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Hatena",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Rosario + Vampire",
+      "episodios": 26,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/01/2008",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Gonzo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ryuuou no Oshigoto!",
+        "The Ryuo's Work is Never Done!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Project No.9",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "RWBY",
+      "episodios": 138,
+      "temporadas": 9,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "18/07/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Rooster Teeth",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sabikui Bisco",
+        "Rust-Eater Bisco"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/01/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "OZ",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Saiki Kusuo no Ψ-nan",
+        "The Disastrous Life of Saiki K."
+      ],
+      "episodios": 144,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/07/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Saikin Yatotta Maid ga Ayashii",
+        "The Maid I Hired Recently is Mysterious"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/07/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Nomad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Saikyou no Shienshoku 'Wajutsushi' de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+        "I'm the Most Powerful Guy and I Run the Strongest Clan"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Hornets",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Saikyou Onmyouji no Isekai Tenseiki",
+        "The Reincarnation of the Strongest Exorcist in Another World"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "11/01/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lapin Track",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sakamoto Days",
+        "Sakamoto Days"
+      ],
+      "episodios": 22,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sakamoto Desu Ga?",
+        "Haven't You Heard? I'm Sakamoto"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/04/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Deen",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sakurasou no Pet na Kanojo",
+        "The Pet Girl of Sakurasou"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "09/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "School Days",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2007",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "TNK",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Seihantai na Kimi to Boku",
+        "My Girlfriend's Child"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Quad",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "Rascal Does Not Dream of Bunny Girl Senpai"
+      ],
+      "episodios": 13,
+      "temporadas": "1 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sentai Red Isekai de Boukensha ni Naru",
+        "Sentai Red Isekai de Boukensha ni Naru"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Telecom Animation Film",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yuusha Shoukei",
+        "Sentenced to Be a Hero"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "EMT Squared",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sentouin, Hakenshimasu!",
+        "Combatants Will Be Dispatched!"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Servamp",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2016",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shangri-la Frontier",
+        "Shangri-La Frontier"
+      ],
+      "episodios": 50,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "01/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "C2C",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shikanoko Nokonoko Koshitantan",
+        "My Deer Friend Nokotan"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+        "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shinigami Bocchan to Kuro Maid",
+        "The Duke of Death and His Maid"
+      ],
+      "episodios": 36,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Shokugeki no Souma",
+        "Food Wars!"
+      ],
+      "episodios": 86,
+      "temporadas": 5,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Ore dake Level Up na Ken",
+        "Solo Leveling"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sono Bisque Doll wa Koi wo Suru",
+        "My Dress-Up Darling"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/01/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Soredemo Ayumu wa Yosetekuru",
+        "When Will Ayumu Make His Move?"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Soul Eater",
+        "Soul Eater"
+      ],
+      "episodios": 51,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/04/2008",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sousou no Frieren",
+        "Frieren: Beyond Journey's End"
+      ],
+      "episodios": 28,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "29/09/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Spy x Family",
+        "Spy x Family"
+      ],
+      "episodios": 37,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "WIT Studio, CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Suki na Ko ga Megane wo Wasureta",
+        "The Girl I Like Forgot Her Glasses"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/07/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Geek Toys",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Strike the Blood",
+      "episodios": 47,
+      "temporadas": 4,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Silver Link",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Sword Art Online",
+        "Sword Art Online"
+      ],
+      "episodios": 96,
+      "temporadas": "4 + filmes",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/07/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "A-1 Pictures",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Takopi no Genzai",
+        "Takopi's Original Sin"
+      ],
+      "episodios": 6,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "28/06/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Science SARU",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tate no Yuusha no Nariagari",
+        "The Rising of the Shield Hero"
+      ],
+      "episodios": 62,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/01/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kinema Citrus",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tejina-senpai",
+        "Magical Sempai"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Shin-Ei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Temple",
+        "Temple"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "13/04/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Asahi Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tensei Shitara Slime Datta Ken",
+        "That Time I Got Reincarnated as a Slime"
+      ],
+      "episodios": 76,
+      "temporadas": "3 + filme",
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Eight Bit",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+        "The Reincarnated Prince and the Magic Book"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/01/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "TMS Entertainment",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yakusoku no Neverland",
+        "The Promised Neverland"
+      ],
+      "episodios": 23,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/01/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Xian Wang de Richang Shenghuo",
+        "The Daily Life of the Immortal King"
+      ],
+      "episodios": 60,
+      "temporadas": 4,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "31/01/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Haoliners Animation League",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "The God of High School",
+        "The God of High School"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/07/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "To Be Hero X",
+        "To Be Hero X"
+      ],
+      "episodios": 26,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/04/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Kamikaze Douga",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Toaru Kagaku no Accelerator",
+        "A Certain Scientific Accelerator"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "To Love-Ru",
+        "To Love-Ru"
+      ],
+      "episodios": 64,
+      "temporadas": 4,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/04/2008",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Xebec",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tojima Tojima",
+        "Tojima Wants to Be a Kamen Rider"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Seven",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "Alya Sometimes Hides Her Feelings in Russian"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tokyo Ghoul",
+        "Tokyo Ghoul"
+      ],
+      "episodios": 48,
+      "temporadas": 4,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/07/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Pierrot",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tokyo Revengers",
+        "Tokyo Revengers"
+      ],
+      "episodios": 50,
+      "temporadas": 3,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "11/04/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Liden Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tomo-chan wa Onnanoko!",
+        "Tomo-chan is a Girl!"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/01/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lay-duce",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tonikaku Kawaii",
+        "TONIKAWA: Over the Moon for You"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/10/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Ezo'la",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tonari no Kaibutsu-kun",
+        "My Little Monster"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "02/10/2012",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Toradora!",
+        "Toradora!"
+      ],
+      "episodios": 25,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/10/2008",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Trigun",
+      "episodios": 26,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "02/04/1998",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Madhouse",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": "Trigun Stampede",
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/01/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Orange",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tougen Anki",
+        "Tougen Anki: Legend of the Cursed Blood"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/07/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Doga Kobo",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tsue to Tsurugi no Wistoria",
+        "Wistoria: Wand and Sword"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "10/07/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Ezoʼla",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tsuredure Children",
+        "Tsuredure Children"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Comix Wave Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Tsuki ga Michibiku Isekai Douchuu",
+        "Tsukimichi: Moonlit Fantasy"
+      ],
+      "episodios": 37,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "07/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "C2C",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Undead Unluck",
+        "Undead Unluck"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "06/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Disney+, Hulu",
+      "Estudio": "David Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Uzaki-chan wa Asobitai!",
+        "Uzaki-chan Wants to Hang Out!"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/07/2020",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Engi",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Uzumaki",
+        "Uzumaki: Spiral into Horror"
+      ],
+      "episodios": 4,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "29/09/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Max",
+      "Estudio": "Drive",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Vanitas no Karte",
+        "The Case Study of Vanitas"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "03/07/2021",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll, Netflix",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Vigilante: Boku no Hero Academia Illegals",
+        "My Hero Academia: Vigilantes"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/04/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Bones",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Vinland Saga",
+        "Vinland Saga"
+      ],
+      "episodios": 48,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "08/07/2019",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix, Crunchyroll",
+      "Estudio": "Wit Studio",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Watashi no Oshi wa Akuyaku Reijou.",
+        "I'm in Love with the Villainess"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/10/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Diomedéa",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Suddenly Became a Princess One Day",
+        "Who Made Me a Princess"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Synergy SP",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Witch Watch",
+        "Witch Watch"
+      ],
+      "episodios": 25,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "05/04/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix",
+      "Estudio": "Toei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Wind Breaker",
+        "Wind Breaker"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "04/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "CloverWorks",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "World Trigger",
+        "World Trigger"
+      ],
+      "episodios": 102,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/10/2014",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Toei Animation",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "My Teen Romantic Comedy SNAFU / OreGairu"
+      ],
+      "episodios": 38,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/04/2013",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Brain's Base",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yamada-kun to 7-nin no Majo",
+        "Yamada-kun and the Seven Witches"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/04/2015",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Liden Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yao Jing Zhong Zhi Shou Ce",
+        "The Demonic Encyclopedia"
+      ],
+      "episodios": 16,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "10/02/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "",
+      "Estudio": "Haoliners Animation League",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yofukashi no Uta",
+        "Call of the Night"
+      ],
+      "episodios": 25,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "08/07/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Liden Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "Classroom of the Elite"
+      ],
+      "episodios": 38,
+      "temporadas": 3,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "12/07/2017",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lerche",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yozakura-san Chi no Daisakusen",
+        "Mission: Yozakura Family"
+      ],
+      "episodios": 24,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "07/04/2024",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Tatsunoko Production",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yumemiru Danshi wa Genjitsushugisha",
+        "The Dreaming Boy is a Realist"
+      ],
+      "episodios": 13,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "05/07/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Project No.9",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yuragi-sou no Yuuna-san",
+        "Yuuna and the Haunted Hot Springs"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "14/07/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Xebec",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yuusha Party no Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+        "There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/01/2025",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Yokohama Animation Lab",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Yuusha, Yamemasu",
+        "I'm Quitting Heroing"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "06/04/2022",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "Lay-duce",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Zero no Tsukaima",
+        "The Familiar of Zero"
+      ],
+      "episodios": 49,
+      "temporadas": 4,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "03/07/2006",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "J.C.Staff",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "Zom 100: Bucket List of the Dead"
+      ],
+      "episodios": 12,
+      "temporadas": 1,
+      "porcentagem_dublado": 100,
+      "data_de_lancamento": "09/07/2023",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Netflix, Crunchyroll",
+      "Estudio": "Bug Films",
+      "Cla.Ind:": ""
+    },
+    {
+      "nome": [
+        "Zombieland Saga",
+        "Zombieland Saga"
+      ],
+      "episodios": 24,
+      "temporadas": 2,
+      "porcentagem_dublado": 0,
+      "data_de_lancamento": "04/10/2018",
+      "generos": [],
+      "sinopse": "",
+      "recomendacao": "",
+      "onde_ver": "Crunchyroll",
+      "Estudio": "MAPPA",
+      "Cla.Ind:": ""
+    }
+  ]
+}
