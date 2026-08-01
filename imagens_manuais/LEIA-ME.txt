@@ -1,0 +1,10 @@
+Essa pasta guarda as capas dos animes que não existem na AniList.
+
+Como usar:
+1. Salva a imagem da capa aqui dentro (ex: nome_do_anime.jpg)
+2. No database.json, no anime correspondente, preenche:
+   "manual_capa": "imagens_manuais/nome_do_anime.jpg"
+
+Formatos aceitos: .jpg, .jpeg, .png, .webp
+Dica de tamanho: capas de anime costumam ser verticais (proporção 2:3),
+tipo 300x450px ou maior, pra não ficar borrada no card.

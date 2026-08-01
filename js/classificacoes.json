@@ -1,0 +1,10 @@
+{
+  "classificacoes": [
+    { "Nome": "Livre", "Descrição": "Chama a fámilia toda, ta tranquilo" },
+    { "Nome": "10", "Descrição": "Animes um pouco mais maduros, mas ainda assim tranquilos" },
+    { "Nome": "12", "Descrição": "Animes um pouco mais violentos" },
+    { "Nome": "14", "Descrição": "Animes um pouco mais safadinhos" },
+    { "Nome": "16", "Descrição": "Animes mais sérios, violentos e de maior conotação sexual" },
+    { "Nome": "18", "Descrição": "Tirem as crianças e os adultos da sala" }
+  ]
+}

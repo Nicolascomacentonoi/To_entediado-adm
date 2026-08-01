@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tô Entediado</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // aplica o tema salvo antes de renderizar, pra não piscar
+  if (localStorage.getItem('to_entediado_theme') === 'light') {
+    document.documentElement.classList.add('light');
+  }
+</script>
+</head>
+<body class="page-fade bg-[var(--color-bg)] text-[var(--color-text)] min-h-screen flex flex-col items-center justify-center px-6 relative">
+
+  <div class="absolute top-5 right-5 flex gap-2">
+    <button id="themeToggle" class="theme-toggle" type="button">☀️</button>
+    <button id="infoToggle" class="theme-toggle" type="button" title="Sobre essa página">ⓘ</button>
+  </div>
+
+  <div class="text-center max-w-xl w-full">
+    <h1 class="font-display text-7xl sm:text-8xl tracking-wide mb-2">Tô Entediado</h1>
+    
+
+    <form id="searchForm" class="flex gap-2 mb-8">
+      <input
+        id="searchInput"
+        type="text"
+        placeholder="Buscar um anime específico..."
+        class="flex-1 border rounded-lg px-4 py-3 text-sm focus:outline-none transition-colors"
+      >
+      <button type="submit" class="theme-toggle" aria-label="Buscar">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+      </button>
+    </form>
+
+    <a href="catalogo.html" id="catalogoBtn" class="inline-block font-semibold rounded-lg px-8 py-3 transition-colors" style="background: var(--color-accent); color: #0a0a0a;">
+      Ir para o catálogo
+    </a>
+  </div>
+
+  <!-- Modal de info -->
+  <div id="infoOverlay" class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[70] flex items-center justify-center p-4">
+    <div class="rounded-xl max-w-md w-full p-6 relative" style="background: var(--color-surface);">
+      <button id="infoClose" class="absolute top-3 right-3 theme-toggle w-8 h-8">✕</button>
+      <h3 class="font-display text-2xl tracking-wide mb-3">Sobre essa página</h3>
+      <p id="infoText" class="text-sm opacity-90 leading-relaxed whitespace-pre-line"></p>
+    </div>
+  </div>
+
+<script>
+  // Texto explicativo dessa página, mostrado no botão de info (ⓘ). Preencha à vontade.
+  const INFO_TEXT = `Um catálogo informativo de animes com o objetivo de te guiar até o anime ideal para tirar você do tédio.
+
+Todos os animes aqui foram avaliados pessoalmente por mim, no auge da minha experiência com esse tipo de conteúdo — então pode confiar na minha opinião.
+
+Vale ressaltar que o rank de prioridade não leva em conta apenas se um anime é bom ou ruim, mas o quanto eu acho que você deveria priorizar assisti-lo. Animes originais e interessantes ganham prioridade, enquanto animes nichados e genéricos são rebaixados.
+
+E lembre-se: sua opinião importa. Se discordar de algo ou tiver alguma sugestão, entre em contato comigo. Boa sorte pra me encontrar.`;
+</script>
+<script src="js/theme.js"></script>
+<script>
+  document.getElementById('searchForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const termo = document.getElementById('searchInput').value.trim();
+    const url = termo ? `catalogo.html?busca=${encodeURIComponent(termo)}` : 'catalogo.html';
+    navigateWithFade(url);
+  });
+  document.getElementById('catalogoBtn').addEventListener('click', (e) => {
+    e.preventDefault();
+    navigateWithFade('catalogo.html');
+  });
+</script>
+</body>
+</html>

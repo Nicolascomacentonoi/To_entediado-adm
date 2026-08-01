@@ -1,0 +1,234 @@
+{
+  "generos": [
+    {
+      "Nome": "administração",
+      "Descrição": "Gerenciando e evoluindo uma cidade ou franquia",
+      "Imagem": ""
+    },
+    {
+      "Nome": "artes",
+      "Descrição": "Animes inspiradores para futuros artistas, ou não",
+      "Imagem": ""
+    },
+    {
+      "Nome": "aventura",
+      "Descrição": "Explorando novos lugares e descobrindo novos problemas",
+      "Imagem": ""
+    },
+    {
+      "Nome": "ação",
+      "Descrição": "Adrenalina, violência e muitos efeitos visuais",
+      "Imagem": ""
+    },
+    {
+      "Nome": "brainrot",
+      "Descrição": "Comédia pra quem já está com o cérebro derretido",
+      "Imagem": ""
+    },
+    {
+      "Nome": "cgi",
+      "Descrição": "Uma das formas de animação mais amaldiçoadas já criadas, mas às vezes não é tão ruim",
+      "Imagem": ""
+    },
+    {
+      "Nome": "comédia",
+      "Descrição": "KKKKKKKKKKKKKKKKKKKKKKKKKK",
+      "Imagem": ""
+    },
+    {
+      "Nome": "comédia romântica",
+      "Descrição": "KKKKKKK que casal bão ",
+      "Imagem": ""
+    },
+    {
+      "Nome": "culinária",
+      "Descrição": "Pratos deliciosos de dar água na boca",
+      "Imagem": ""
+    },
+    {
+      "Nome": "delinquente",
+      "Descrição": "Jovens desajustados brigando para comprovar quem tem o menor pinto",
+      "Imagem": ""
+    },
+    {
+      "Nome": "distopia",
+      "Descrição": "Mundos distorcidos, sociedades opressoras e apocalipses. Basicamente o Brasil",
+      "Imagem": ""
+    },
+    {
+      "Nome": "drama",
+      "Descrição": "Histórias profundas e emocionantes... quase sempre",
+      "Imagem": ""
+    },
+    {
+      "Nome": "ecchi",
+      "Descrição": "Safadezas e fanservices censurados ou leves (tirem as crianças da sala... e os pais)",
+      "Imagem": ""
+    },
+    {
+      "Nome": "educativo",
+      "Descrição": "Animes que agregam conhecimento e cultura",
+      "Imagem": ""
+    },
+        {
+      "Nome": "escolar",
+      "Descrição": "O ambiente mais tóxico e degradante da humanidade. Saudades",
+      "Imagem": ""
+    },
+    {
+      "Nome": "esporte",
+      "Descrição": "Animes... só que sobre esportes (EU NÃO GOSTO TA BOM?)",
+      "Imagem": ""
+    },
+    {
+      "Nome": "family friendly",
+      "Descrição": "Podem trazer as crianças pra sala... e os pais também",
+      "Imagem": ""
+    },
+    {
+      "Nome": "fantasia",
+      "Descrição": "Mundos fictícios cheios de magia, criaturas estranhas e muita mentirada",
+      "Imagem": ""
+    },
+    {
+      "Nome": "fem-protag",
+      "Descrição": "Enfim a lacração. Será que japonês consegue escrever uma protagonista feminina decente?",
+      "Imagem": ""
+    },
+    {
+      "Nome": "fofo",
+      "Descrição": "Chega de tristeza, vamo esquenta esse coraçãozinho",
+      "Imagem": ""
+    },
+    {
+      "Nome": "furry",
+      "Descrição": "",
+      "Imagem": "imagens_generos/DDdesgosto.png"
+    },
+    {
+      "Nome": "good vibes",
+      "Descrição": "Animes que COM CERTEZA NÃO SÃO NEM UM POUCO PESADOS.",
+      "Imagem": ""
+    },
+    {
+      "Nome": "harém",
+      "Descrição": "Sim-Sim, com certeza 5 garotas estão apaixonadas por esse cara, eu acredito",
+      "Imagem": ""
+    },
+    {
+      "Nome": "isekai",
+      "Descrição": "Já se imaginou sair da sua rotina chata para subitamente explorar um mundo e fantasia? Pff, esquisitão",
+      "Imagem": ""
+    },
+    {
+      "Nome": "jogos mortais",
+      "Descrição": "Arriscando a vida em jogos perigosos para o entretenimento de terceiros, basicamente um programa do Faustão",
+      "Imagem": ""
+    },
+        {
+      "Nome": "jogos mentais",
+      "Descrição": "Trapaças, mentiras, estratégias e reviravoltas",
+      "Imagem": ""
+    },
+    {
+      "Nome": "magia",
+      "Descrição": "Eu sei que quase todos tem magia, mas esses tem o FOCO no desenvolvimento dela",
+      "Imagem": ""
+    },
+    {
+      "Nome": "mecha",
+      "Descrição": "Homens de hoje em dia só pensam em uma coisa... e é pilotar robôs gigantes",
+      "Imagem": ""
+    },
+    {
+      "Nome": "meia-irmã é incesto?",
+      "Descrição": "sim",
+      "Imagem": "imagens_generos/Cabo a graca.jpg"
+    },
+    {
+      "Nome": "militar",
+      "Descrição": "Animes mais sérios, que retratam o dia a dia de soldados e cariocas",
+      "Imagem": ""
+    },
+    {
+      "Nome": "mistério",
+      "Descrição": "hmmmm, vou ter que ver um vídeo do core explicando teorias",
+      "Imagem": ""
+    },
+    {
+      "Nome": "neo shounen",
+      "Descrição": "...sua pacata vida é interrompida depois que alguém próximo morre e ele descobre que tem poderes sobrenaturais especiais e agora ele vai entrar em uma organização caçadora de criaturas sobrenaturais para lutar contra pessoas que querem o poder dele",
+      "Imagem": ""
+    },
+    {
+      "Nome": "paranormal",
+      "Descrição": "Eu juro que faz sentido, mas não consigo explicar",
+      "Imagem": ""
+    },
+    {
+      "Nome": "paternal",
+      "Descrição": "Propagandas japonesas de controle de natalidade",
+      "Imagem": ""
+    },
+    {
+      "Nome": "porrada",
+      "Descrição": "Só usa arma e magia quem não se garante no soco",
+      "Imagem": ""
+    },
+    {
+      "Nome": "romance",
+      "Descrição": "Provando que o amor ainda existe no século da putaria",
+      "Imagem": ""
+    },
+    {
+      "Nome": "romeu e julieta",
+      "Descrição": "Duas famílias/facções rivais, dois protagonistas apaixonados um pelo outro. Shakespeare, praticamente",
+      "Imagem": ""
+    },
+    {
+      "Nome": "sci-fi",
+      "Descrição": "Ficção científica (Só isso mesmo)",
+      "Imagem": ""
+    },
+    {
+      "Nome": "shounen",
+      "Descrição": "Checklist: Ação, poderzinho, comédia, desenvolvimento de personagem, drama e o protagonista treina pra ficar mais forte",
+      "Imagem": ""
+    },
+    {
+      "Nome": "slice of life",
+      "Descrição": "Aff, bora relaxa que o caba não é de ferro",
+      "Imagem": ""
+    },
+    {
+      "Nome": "sobrenatural",
+      "Descrição": "Fantasmas, assombrações, fenômenos inexplicáveis e, é claro, poderes estranhos",
+      "Imagem": ""
+    },
+    {
+      "Nome": "super poderes",
+      "Descrição": "Mecânicas de poder que fogem do padrão",
+      "Imagem": ""
+    },
+    {
+      "Nome": "tensão",
+      "Descrição": "Eu me recuso a chamar isso de terror, mas é uma tentativa",
+      "Imagem": ""
+    },
+    {
+      "Nome": "viagem no tempo",
+      "Descrição": "its Rewind time",
+      "Imagem": ""
+    },
+    {
+      "Nome": "videogames",
+      "Descrição": "Para quem é true gamer",
+      "Imagem": ""
+    },
+    {
+      "Nome": "violência",
+      "Descrição": "Cenas e ação que podem acabar ficando gráficas de mais",
+      "Imagem": ""
+    }
+  ]
+}

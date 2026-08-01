@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catálogo — Tô Entediado</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="css/style.css">
+<script>
+  if (localStorage.getItem('to_entediado_theme') === 'light') {
+    document.documentElement.classList.add('light');
+  }
+</script>
+</head>
+<body class="page-fade bg-[var(--color-bg)] text-[var(--color-text)] min-h-screen">
+
+  <header class="sticky top-0 z-30 backdrop-blur border-b px-4 sm:px-8 py-4" style="background: color-mix(in srgb, var(--color-bg) 90%, transparent); border-color: color-mix(in srgb, var(--color-text) 15%, transparent);">
+    <div class="max-w-7xl mx-auto flex flex-col gap-4">
+      <div class="flex items-center justify-between gap-3">
+        <a href="index.html" id="logoLink" data-fade-link class="font-display text-3xl tracking-wide">Tô Entediado</a>
+        <div class="flex items-center gap-3">
+          <span id="resultCount" class="text-xs opacity-60"></span>
+          <button id="themeToggle" class="theme-toggle" type="button">☀️</button>
+          <button id="infoToggle" class="theme-toggle" type="button" title="Sobre essa página">ⓘ</button>
+        </div>
+      </div>
+
+      <div class="flex flex-wrap gap-2 items-center">
+        <input id="searchInput" type="text" placeholder="Buscar título ou estúdio..."
+          class="flex-1 min-w-[160px] border rounded-lg px-3 py-2 text-sm focus:outline-none">
+
+        <select id="sortSelect" class="border rounded-lg px-2 py-2 text-sm">
+          <option value="alfabetica">Ordem alfabética</option>
+          <option value="prioridade">Prioridade</option>
+          <option value="episodios">Episódios</option>
+          <option value="lancamento">Data de lançamento</option>
+        </select>
+        <button id="invertSortBtn" class="theme-toggle" type="button" title="Inverter ordenação">↓</button>
+
+        <details>
+          <summary class="border rounded-lg px-3 py-2 text-sm cursor-pointer list-none select-none" style="border-color: color-mix(in srgb, var(--color-text) 25%, transparent);">
+            Filtro <span id="filtroActiveCount" class="opacity-60"></span> ▾
+          </summary>
+          <div class="genre-panel w-full mt-2 max-h-96 overflow-y-auto space-y-5">
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Prioridade</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique pra incluir na busca, de novo pra remover. </p>
+              <div id="prioridadeChips" class="flex flex-wrap gap-2"></div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Gêneros</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique 1x pra exigir o gênero, 2x pra excluir, 3x pra limpar. </p>
+              <div id="genreChips" class="flex flex-wrap gap-2"></div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Dublagem</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique pra incluir na busca, de novo pra remover.</p>
+              <div id="dublagemChips" class="flex flex-wrap gap-2"></div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Status</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique pra incluir na busca, de novo pra remover.</p>
+              <div id="statusChips" class="flex flex-wrap gap-2"></div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Classificação indicativa</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique pra incluir na busca, de novo pra remover.</p>
+              <div id="classificacaoChips" class="flex flex-wrap gap-2"></div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold opacity-80 mb-1">Onde ver</p>
+              <p class="text-[11px] opacity-60 mb-2">Clique pra incluir na busca, de novo pra remover.</p>
+              <div id="ondeVerChips" class="flex flex-wrap gap-2"></div>
+            </div>
+          </div>
+        </details>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-8 py-6">
+    <p id="loading" class="text-center opacity-70 py-16">Carregando catálogo e buscando dados atualizados na AniList...</p>
+    <div id="grid" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-4"></div>
+  </main>
+
+  <!-- Modal -->
+  <div id="modalOverlay" class="hidden fixed inset-0 bg-black/80 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+    <div id="modalBox" class="rounded-xl max-w-2xl w-full max-h-[85vh] overflow-y-auto relative" style="background: var(--color-surface);">
+      <button id="modalClose" class="absolute top-3 right-3 theme-toggle w-8 h-8">✕</button>
+      <div class="flex flex-col sm:flex-row gap-5 p-6">
+        <img id="modalCapa" class="w-40 rounded-lg object-cover self-start mx-auto sm:mx-0" alt="">
+        <div class="flex-1">
+          <h2 id="modalTitulo" class="font-display text-3xl tracking-wide mb-1"></h2>
+          <p id="modalRecomendacao" class="text-sm font-semibold mb-1"></p>
+          <p id="modalAvisoManual" class="hidden text-[11px] opacity-60 mb-3"></p>
+          <p id="modalSinopse" class="text-sm opacity-90 mb-4 leading-relaxed"></p>
+          <div class="grid grid-cols-2 gap-3 text-xs opacity-90">
+            <div id="rowEpisodios"><span class="opacity-60">Episódios:</span> <span id="modalEpisodios"></span></div>
+            <div id="rowStatus"><span class="opacity-60">Status:</span> <span id="modalStatus"></span></div>
+            <div id="rowFilmes"><span class="opacity-60">Filmes:</span> <span id="modalFilmes"></span></div>
+            <div id="rowDublagem"><span class="opacity-60">Dublagem:</span> <span id="modalDublagem"></span></div>
+            <div id="rowLancamento"><span class="opacity-60">Lançamento:</span> <span id="modalLancamento"></span></div>
+            <div id="rowEstudio"><span class="opacity-60">Estúdio:</span> <span id="modalEstudio"></span></div>
+            <div id="rowClassificacao"><span class="opacity-60">Classificação:</span> <span id="modalClassificacao"></span></div>
+            <div id="rowGeneros" class="col-span-2"><span class="opacity-60">Gêneros:</span> <span id="modalGeneros"></span></div>
+            <div id="rowOndeVer" class="col-span-2"><span class="opacity-60">Onde ver:</span> <span id="modalOndeVer"></span></div>
+          </div>
+        </div>
+      </div>
+      <button id="ordemBtn" type="button" class="hidden absolute bottom-3 right-3 rounded-lg px-3 py-2 text-xs font-semibold" style="background: var(--color-accent); color: #0a0a0a;">
+        📺 Ordem
+      </button>
+    </div>
+  </div>
+
+  <!-- Painel de ordem de assistir (lateral no desktop, gaveta inferior no mobile) -->
+  <div id="ordemPanel" class="ordem-panel">
+    <div class="flex items-center justify-between p-4 border-b" style="border-color: color-mix(in srgb, var(--color-text) 15%, transparent);">
+      <h3 class="font-display text-xl tracking-wide">Ordem de assistir</h3>
+      <button id="ordemPanelClose" class="theme-toggle w-8 h-8">✕</button>
+    </div>
+    <div class="p-4">
+      <p id="ordemConselho" class="hidden text-xs italic opacity-80 mb-4 p-3 rounded-lg" style="background: var(--color-bg);"></p>
+      <div id="ordemLista" class="space-y-3"></div>
+    </div>
+  </div>
+
+  <!-- Modal de info -->
+  <div id="infoOverlay" class="hidden fixed inset-0 bg-black/70 backdrop-blur-sm z-[70] flex items-center justify-center p-4">
+    <div class="rounded-xl max-w-md w-full p-6 relative" style="background: var(--color-surface);">
+      <button id="infoClose" class="absolute top-3 right-3 theme-toggle w-8 h-8">✕</button>
+      <h3 class="font-display text-2xl tracking-wide mb-3">Sobre essa página</h3>
+      <p id="infoText" class="text-sm opacity-90 leading-relaxed whitespace-pre-line"></p>
+    </div>
+  </div>
+
+<script>
+  // Texto explicativo dessa página, mostrado no botão de info (ⓘ). Preencha à vontade.
+  const INFO_TEXT = `Na página de catálogo, você poderá ver todos os animes já avaliados, com informações como: quantidade de episódios e filmes, se possui dublagem em português, qual estúdio o produziu, classificação indicativa (não oficial) e data de lançamento. Além disso, há uma classificação pessoal de prioridade, filtros estabelecidos por mim e, por fim, uma sinopse divertida e realista, escrita por um telespectador imparcial com o objetivo de te entreter um pouco enquanto você explora o site.
+
+Na parte superior da página, você encontra algumas ferramentas: um botão para alternar entre tema escuro e claro; uma barra de pesquisa, onde é possível buscar um anime específico ou um estúdio de sua preferência; um botão de organização, que permite alterar a ordem de exibição do catálogo, acompanhado de um botão para inverter essa ordem; e, por fim, um botão de filtro, que permite refinar os animes por prioridade, dublagem, classificação indicativa, onde assistir e, principalmente, por gênero (caso não entenda algum filtro específico, basta passar o mouse sobre ele por alguns instantes para ver uma breve explicação).`;
+</script>
+<script src="js/theme.js"></script>
+<script src="js/merge.js"></script>
+<script src="js/catalogo.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Essa pasta guarda imagens pra usar nas descrições dos gêneros (aquele tooltip
+que aparece quando alguém passa o mouse por cima de um gênero no filtro).
+
+Como usar:
+1. Salva a imagem aqui dentro (ex: isekai_piada.jpg)
+2. No js/generos.json, no gênero correspondente, preenche o campo "Imagem":
+   "Imagem": "imagens_generos/isekai_piada.jpg"
+
+Formatos aceitos: .jpg, .jpeg, .png, .gif (dá até pra usar gif animado!), .webp
+Dica: imagens muito grandes deixam o tooltip gigante — algo em torno de
+300-400px de largura já fica ótimo.
