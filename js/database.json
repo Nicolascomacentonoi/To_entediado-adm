@@ -2288,8 +2288,15 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
+      "generos": [
+        "jogos mortais",
+        "paranormal",
+        "ação",
+        "mistério",
+        "super poderes",
+        "sci-fi"
+      ],
+      "sinopse": "Instigado a baixar um misterioso jogo mobile chamado 'Darwins's Game', Kaname acaba se envolvendo com fenômenos estranhos e até mesmo uma perseguição de vida ou morte. Assim Kaname finalmente descobre a capacidade paranomal do aplicativo e sua natureza doentia: Um aplicativo que te concede poderes paranormais e força os participantes a participarem de combates e jogos estranhos. Agora cabe ao rapaz extrair o maximo potencial de sua habilidade de 'impressora 3d' para sobreviver e superar os deafios",
       "recomendacao": null,
       "onde_ver": [
         "Crunchyroll"
@@ -2297,13 +2304,13 @@
       "ordem": null,
       "data_lancamento": "04/01/2020",
       "estudio": [
-        "DMM pictures"
+        "Nexus"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 68,
