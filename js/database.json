@@ -2367,7 +2367,7 @@
         "delinquente",
         "super poderes"
       ],
-      "sinopse": "Souji Enishiro é um streamer troll, que pesca adversários usando rage bait e transmite suas lutas ao vivo, assim ganhando dinheiro usando sua natureza violênta para cubrir as despesas de sua irmãzinha hospitalizada. Porém seu mundo vira de cabeça para baixo quando ele descobre que sua irmã já havia morrido a tempos mesmo ainda recebendo menssagens dela, assim, ele acaba descobrindo a existencia de 'fantasmas virtuais', contas em redes sociais de pessoas mortas qeu ganham forma e poderes segundo devido a uma entidade malígna. Determinado, Souji desperta seus 'poderes virtuais' e decide usa-los para eliminar a entidade por trás da morte de sua irmã.",
+      "sinopse": "Souji Enishiro é um streamer troll, que pesca adversários usando rage bait e transmite suas lutas ao vivo, assim ganhando dinheiro usando sua natureza violênta para cubrir as despesas de sua irmãzinha hospitalizada. Porém seu mundo vira de cabeça para baixo quando ele descobre que sua irmã havia morrido a tempos, mesmo que ela ainda mandasse menssagens para ele. Assim, ele acaba descobrindo a existencia de 'fantasmas virtuais': contas em redes sociais de pessoas mortas qeu ganham forma e poderes segundo devido a uma entidade malígna. Determinado, Souji desperta seus 'poderes virtuais' e decide usa-los para eliminar a entidade por trás da morte de sua irmã.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2391,9 +2391,14 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai reverso",
+        "isekai",
+        "sobrenatural",
+        "ação"
+      ],
+      "sinopse": "Após ser derrotado em uma batalha lendária, o poderoso necromante de codnome 'Deus dos corpos' usa sua ultima cartada e reencarna em outra dimensão. No japão moderno, um jovem chamdo Polka Shinoyama é assassinado a sangue frio, dando espaço para a reencarnação do maior e unico necromante desse mundo. Assumindo sua nova identidade, o necrmonte descobre que Polka é alvo da yakusa devido sua linhagem, e agora cabe ao novo Polka lidar com essa situação e se proteger de um jeito... Unico. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2402,11 +2407,11 @@
       "estudio": [
         "Geek Toys"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 71,
