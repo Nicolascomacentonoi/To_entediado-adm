@@ -2497,7 +2497,7 @@
         "comédia",
         "romance"
       ],
-      "sinopse": "Depois de um pequeno cochilo durante seu espediente, Ichirou acorda em um mundo completamente diferente em uma aparencia diferente. Logo, ele percebe que está preso no do jogo de rpg que ele mesmo estava ajudando a desenvolver, como seu personagem de teste que CONVENIENTEMENTE se encotra no nível maximo. E bom... 'Escuta Peter, com grandes poderes, vem muitas pretendentes'.",
+      "sinopse": "Depois de um pequeno cochilo durante seu espediente, Ichirou acorda em um mundo completamente diferente em uma aparencia diferente. Logo, ele percebe que está preso dentro do jogo de rpg que ele mesmo estava ajudando a desenvolver, como seu personagem de teste que CONVENIENTEMENTE se encotra no nível maximo. E bom... 'Escuta Peter, com grandes poderes, vem muitas pretendentes'.",
       "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2522,9 +2522,14 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "jogos mentais",
+        "sobrenatural",
+        "mistério",
+        "drama"
+      ],
+      "sinopse": "Light Yagami é apenas um adolescente normal que subtamente se depara com um misterioso caderno que se diz ser capaz de matar qualquer um cujo o nome seja escrito no mesmo. Cético, ele decide testar só pelo meme com o nome de um bandido e… tcharam!  Funciona. Agora, como qualquer adolescente normal, o rapaz decide efrentar a polícia e o maior detetive do mundo em jogos mentais para manter sua identidade sob sigilo enquanto realiza seu maior sonho (que ele teve a uns 5 dias) de se tornar o deus do novo mundo.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -2533,11 +2538,11 @@
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 75,
