@@ -2419,11 +2419,20 @@
       "id_anilist": [
         6880
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "jogos mortais",
+        "paranormal",
+        "ação",
+        "mistério",
+        "romance",
+        "violência",
+        "shounen",
+        "super poderes"
+      ],
+      "sinopse": "Um misterioso incidente causou o massacre de todos os estudantes de uma sala de aula, e o principal suspeito é o unico sobrevivente: Ganta Igrashi, que é brutalmente amassado durante seu julgamento e instataneamente condenado à morte. Sem conseguir provar sua inocência, o pobre rapaz é levado para um prisão de segurança maxima chamada 'Deadman Wonderland' uma prisão doentia que usa seus detentos como participantes em realit shows sádicos e doentios, que também esconde seu verdadeiro propósito de desenvolver soldados com poderes paranormais de manipulação sanguinea. Agora junto de sua nova e misteriosa amiga, Ganta tenta sobreviver enquanto busca pela abominável entidade resposável pelo massacre de seus colegas.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2432,11 +2441,11 @@
       "estudio": [
         "Manglobe"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 72,
