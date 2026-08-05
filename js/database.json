@@ -2357,22 +2357,31 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "neo shounen",
+        "shounen",
+        "sobrenatural",
+        "ação",
+        "drama",
+        "escolar",
+        "delinquente",
+        "super poderes"
+      ],
+      "sinopse": "Souji Enishiro é um streamer troll, que pesca adversários usando rage bait e transmite suas lutas ao vivo, assim ganhando dinheiro usando sua natureza violênta para cubrir as despesas de sua irmãzinha hospitalizada. Porém seu mundo vira de cabeça para baixo quando ele descobre que sua irmã já havia morrido a tempos mesmo ainda recebendo menssagens dela, assim, ele acaba descobrindo a existencia de 'fantasmas virtuais', contas em redes sociais de pessoas mortas qeu ganham forma e poderes segundo devido a uma entidade malígna. Determinado, Souji desperta seus 'poderes virtuais' e decide usa-los para eliminar a entidade por trás da morte de sua irmã.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
-      "data_lancamento": "07/01/2025",
+      "data_lancamento": "10/01/2026",
       "estudio": [
-        "C2C"
+        "Synergy SP"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 70,
