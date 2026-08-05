@@ -2316,26 +2316,38 @@
       "id": 68,
       "titulo_referencia": "Date A Live",
       "id_anilist": [
-        15583
+        15583,
+        19163,
+        20741,
+        100722,
+        116605,
+        151380
       ],
       "dublagem": "não dublado",
-      "filmes": 5,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 1,
+      "generos": [
+        "harém",
+        "romance",
+        "ação",
+        "fantasia",
+        "sci-fi",
+        "comédia"
+      ],
+      "sinopse": "Catástrofes espirituais em formas de garotas fofas (para a surpresa de 0 pessoas) assolam o Japão com seus poderes misteriosos. Shidou é um jovem comum que acaba se envolvendo no meio de um desses desastres e acaba percebendo que essas catastrofes são apenas garotas incompreendidas, e acaba acalmando o monstro e fazendo-a se apaixonar por ele. Vendo isso, a tropa de supressão de desastres, liderado pela irmãzinha de Shidou (não me pergunte), decide usar o rapaz para suprimir essas calamidades através de um Date ao vivo, eu diria até... um Date a Live.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/04/2013",
       "estudio": [
-        "Production IMS"
+        "AIC PLUS+"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 58,
+      "manual_status": "Hiato"
     },
     {
       "id": 69,
