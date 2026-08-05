@@ -2552,9 +2552,15 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "culinária",
+        "fantasia",
+        "comédia",
+        "aventura",
+        "ação"
+      ],
+      "sinopse": "Um excentrico grupo de aventureiros se encontra em uma desesperadora situação de resgate na qual não há condições de se alimentarem propiamente. Sendo assim eles são obrigados a seguir as maluquices de seu lider e experimentar todo tipo de criatura bizarra enquanto procuram por sua companheira desaparecida.",
+      "recomendacao": "Máxima prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -2563,11 +2569,11 @@
       "estudio": [
         "Trigger"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 76,
