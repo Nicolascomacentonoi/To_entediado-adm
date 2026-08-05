@@ -2491,6 +2491,7 @@
       "generos": [
         "isekai",
         "harém",
+        "ecchi",
         "aventura",
         "fantasia",
         "ação",
@@ -2559,7 +2560,7 @@
         "aventura",
         "ação"
       ],
-      "sinopse": "Um excentrico grupo de aventureiros se encontra em uma desesperadora situação de resgate na qual não há condições de se alimentarem propiamente. Sendo assim eles são obrigados a seguir as maluquices de seu lider e experimentar todo tipo de criatura bizarra enquanto procuram por sua companheira desaparecida.",
+      "sinopse": "Um excentrico grupo de aventureiros se encontra em uma desesperadora situação de resgate na qual não há condições de se alimentarem propriamente. Sendo assim eles são obrigados a seguir as maluquices de seu lider e experimentar todo tipo de criatura bizarra enquanto procuram por sua companheira desaparecida.",
       "recomendacao": "Máxima prioridade",
       "onde_ver": [
         "Netflix"
@@ -2583,20 +2584,27 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "harém",
+        "fantasia",
+        "ação",
+        "romance",
+        "ecchi",
+        "sci-fi"
+      ],
+      "sinopse": "Imagine se seu papel na sociedade fosse decidido por uma bola de cristal, agora imagina se você fosse obrigado a fazer o completo oposto do que você sonha. Akuto se transfere para uma acadmia magica para usar sua fé e determinação para transformar o mundo em um lugar melhor, porém em seu primeiro dia e na frente de todos, ele recebe a profecia de se tornar o Lorde Demônio. Agora ele busca contrariar o destino e provar sua inocencia enquanto luta contra seus instintos malignos.",
+      "recomendacao": "Não veja",
       "onde_ver": [],
       "ordem": null,
       "data_lancamento": "02/04/2010",
       "estudio": [
         "Artland"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 77,
