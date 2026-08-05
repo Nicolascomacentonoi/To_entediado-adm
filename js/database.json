@@ -2431,7 +2431,7 @@
         "shounen",
         "super poderes"
       ],
-      "sinopse": "Um misterioso incidente causou o massacre de todos os estudantes de uma sala de aula, e o principal suspeito é o unico sobrevivente: Ganta Igrashi, que é brutalmente amassado durante seu julgamento e instataneamente condenado à morte. Sem conseguir provar sua inocência, o pobre rapaz é levado para um prisão de segurança maxima chamada 'Deadman Wonderland' uma prisão doentia que usa seus detentos como participantes em realit shows sádicos e doentios, que também esconde seu verdadeiro propósito de desenvolver soldados com poderes paranormais de manipulação sanguinea. Agora junto de sua nova e misteriosa amiga, Ganta tenta sobreviver enquanto busca pela abominável entidade resposável pelo massacre de seus colegas.",
+      "sinopse": "Um misterioso incidente causou o massacre de todos os estudantes de uma sala de aula, e o principal suspeito é o unico sobrevivente: Ganta Igrashi, que é brutalmente amassado durante seu julgamento e acaba condenado à morte. Sem conseguir provar sua inocência, o pobre rapaz é levado para um prisão de segurança maxima chamada 'Deadman Wonderland', uma prisão doentia que usa seus detentos como participantes em realit shows sádicos e doentios, que também esconde seu verdadeiro propósito de desenvolver soldados com poderes paranormais de manipulação sanguinea. Agora junto de sua nova e misteriosa amiga, Ganta tenta sobreviver enquanto busca pela abominável entidade resposável pelo massacre de seus colegas.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2455,22 +2455,30 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia romântica",
+        "harém",
+        "romance",
+        "comédia",
+        "escolar",
+        "fofo",
+        "slice of life"
+      ],
+      "sinopse": "Yuu é um desafortunado rapaz que herdou apenas a beleza de sua falecida e talentosa mãe, sendo forçado a ouvir todo tipo de desaforo e decepções quanto seu talento para qualquer coisa. Fadado à mediocridade, Yuu acaba sendo arrastado para uma escola de elite por um amigo de sua falecida mãe que se propôs a cuidar dele. Lá ele já é precionado e intimidado pelas 3 irmãs Mikadono, jovens de mais alto calibre e que são reconhecidas como absolutas em suas respectivas áreas de atuação: atuação, shogi e karatê. Porém o que nenhum deles imaginava, é que o bemfeitor do rapaz era na verdade o pai das garotas, e que ele irá morar com elas. Cansado de ser um estorvo, Yuu decide se dedicar para se tornar o suporte e agente das garotas (e figura materna).",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
-      "data_lancamento": "06/07/2025",
+      "data_lancamento": "10/07/2025",
       "estudio": [
-        "drop"
+        "P.A. Works"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 73,
