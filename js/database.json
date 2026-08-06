@@ -2643,13 +2643,31 @@
       "id": 78,
       "titulo_referencia": "Demon Slayer: Kimetsu no Yaiba",
       "id_anilist": [
-        101922
+        101922,
+        112151,
+        129874,
+        142329,
+        145139,
+        166240,
+        178788,
+        195200,
+        195201
       ],
       "dublagem": "dublado",
-      "filmes": 5,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 2,
+      "generos": [
+        "neo shounen",
+        "shounen",
+        "ação",
+        "sobrenatural",
+        "violência",
+        "aventura",
+        "drama",
+        "super poderes"
+        
+      ],
+      "sinopse": "Tanjiro é um jovem lenhador do interior que constantemente desce a montanha para vender lenha e sustentar sua grande e amável família. Porém, um dia retornando de uma das suas vendas, ele percebe algo aterrorizante: toda sua família havia sido brutalmente assassinada, com a excessão de sua irmãzinha. Enquanto tentava ajudala, o jovem percebe que sua irmã estva difernte, mas especificamente ele descobre que ela se tornou um Oni (equivalente a vampiro). Determinado a transform-la de volta ao normal, Tanjiro se alista como um caçador de Onis para encontrar o responsável e gentilmente desconectar sua cabeça do corpo.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll",
         "Netflix"
@@ -2659,11 +2677,11 @@
       "estudio": [
         "ufotable"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 79,
