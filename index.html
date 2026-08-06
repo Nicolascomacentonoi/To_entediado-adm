@@ -13,34 +13,36 @@
   }
 </script>
 </head>
-<body class="page-fade bg-[var(--color-bg)] text-[var(--color-text)] min-h-screen flex flex-col items-center justify-center px-6 relative">
+<body class="page-fade bg-[var(--color-bg)] text-[var(--color-text)] min-h-screen relative">
 
-  <div class="absolute top-5 right-5 flex gap-2">
-    <button id="themeToggle" class="theme-toggle" type="button">☀️</button>
-    <button id="infoToggle" class="theme-toggle" type="button" title="Sobre essa página">ⓘ</button>
-  </div>
+  <div class="page-frame">
+    <div class="absolute top-4 right-4 flex gap-2">
+      <button id="themeToggle" class="theme-toggle" type="button">☀️</button>
+      <button id="infoToggle" class="theme-toggle" type="button" title="Sobre essa página">ⓘ</button>
+    </div>
 
-  <div class="text-center max-w-xl w-full">
-    <h1 class="font-display text-7xl sm:text-8xl tracking-wide mb-2">Tô Entediado</h1>
-    
+    <div class="text-center max-w-xl w-full px-6">
+      <h1 class="font-display text-7xl sm:text-8xl tracking-wide mb-2">Tô Entediado</h1>
 
-    <form id="searchForm" class="flex gap-2 mb-8">
-      <input
-        id="searchInput"
-        type="text"
-        placeholder="Buscar um anime específico..."
-        class="flex-1 border rounded-lg px-4 py-3 text-sm focus:outline-none transition-colors"
-      >
-      <button type="submit" class="theme-toggle" aria-label="Buscar">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-        </svg>
-      </button>
-    </form>
 
-    <a href="catalogo.html" id="catalogoBtn" class="inline-block font-semibold rounded-lg px-8 py-3 transition-colors" style="background: var(--color-accent); color: #0a0a0a;">
-      Ir para o catálogo
-    </a>
+      <form id="searchForm" class="flex gap-2 mb-8">
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Buscar um anime específico..."
+          class="flex-1 border rounded-lg px-4 py-3 text-sm focus:outline-none transition-colors"
+        >
+        <button type="submit" class="theme-toggle" aria-label="Buscar">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+        </button>
+      </form>
+
+      <a href="catalogo.html" id="catalogoBtn" class="inline-block font-semibold rounded-lg px-8 py-3 transition-colors" style="background: var(--color-accent); color: #0a0a0a;">
+        Ir para o catálogo
+      </a>
+    </div>
   </div>
 
   <!-- Modal de info -->

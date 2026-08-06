@@ -70,7 +70,7 @@
       "Descrição": "Animes que agregam conhecimento e cultura",
       "Imagem": ""
     },
-        {
+    {
       "Nome": "escolar",
       "Descrição": "O ambiente mais tóxico e degradante da humanidade. Saudades",
       "Imagem": ""
@@ -117,12 +117,12 @@
     },
     {
       "Nome": "isekai",
-      "Descrição": "Já se imaginou sair da sua rotina chata para subitamente explorar um mundo e fantasia? Pff, esquisitão",
+      "Descrição": "Já se imaginou sair da sua rotina chata para subitamente explorar um mundo de fantasia? Pff, esquisitão",
       "Imagem": ""
     },
-        {
+    {
       "Nome": "isekai reverso",
-      "Descrição": "Criaturas fantasiosas se adptando ás bizarrices do século 21",
+      "Descrição": "Criaturas fantasiosas se adaptando às bizarrices do século 21",
       "Imagem": ""
     },
     {
@@ -130,14 +130,14 @@
       "Descrição": "Arriscando a vida em jogos perigosos para o entretenimento de terceiros, basicamente um programa do Faustão",
       "Imagem": ""
     },
-        {
+    {
       "Nome": "jogos mentais",
       "Descrição": "Trapaças, mentiras, estratégias e reviravoltas",
       "Imagem": ""
     },
     {
       "Nome": "magia",
-      "Descrição": "Eu sei que quase todos tem magia, mas esses tem o FOCO no desenvolvimento dela",
+      "Descrição": "Eu sei que quase todos têm magia, mas esses têm o FOCO no desenvolvimento dela",
       "Imagem": ""
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "Nome": "violência",
-      "Descrição": "Cenas e ação que podem acabar ficando gráficas de mais",
+      "Descrição": "Cenas e ação que podem acabar ficando gráficas demais",
       "Imagem": ""
     }
   ]
