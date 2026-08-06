@@ -19,12 +19,12 @@ let recomendacaoDescricoes = new Map();
 let classificacaoDescricoes = new Map();
 
 const TIER_COLORS = {
-  'Máxima prioridade': '#3b82f6', // azul
-  'Alta prioridade': '#22c55e',   // verde
-  'Média prioridade': '#eab308',  // amarelo
-  'Baixa prioridade': '#f97316',  // laranja
-  'Não veja': '#ef4444',          // vermelho
-  'Chinês': '#7f1d1d',            // vermelho escuro
+  'Máxima prioridade': '#025ff4', // azul
+  'Alta prioridade': '#00ff5e',   // verde
+  'Média prioridade': '#fff200',  // amarelo
+  'Baixa prioridade': '#ff6a00',  // laranja
+  'Não veja': '#ff0000',          // vermelho
+  'Chinês': '#270101',            // vermelho escuro
   'Veja o mangá': '#9ca3af',      // cinza
   'Veja o filme': '#443199'       // roxo
 };
