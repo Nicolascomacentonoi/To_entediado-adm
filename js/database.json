@@ -2614,9 +2614,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "fantasia",
+        "harém",
+        "ecchi",
+        "aventura",
+        "ação"
+        ]
+      ,
+      "sinopse": "Akira é o DEV de um jogo de MMORPG sandbox onde voc... Só que depois de 15 adiministrando esse jogo, ele cansa e decide só desliga a porra toda, ou era o que ele pensava. O veio acorda em um mundo estranho mas familiar, nada menos do que a bosta do jogo que ele criou, e como o Lorde Demônio. Intrigado por esse fenômeno, ele descide embaracar em uma aventura para investigar o que caralhos aconteceu enquanto coleciona companhias... femininas",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2625,7 +2633,7 @@
       "estudio": [
         "Ekachi Epilka"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
