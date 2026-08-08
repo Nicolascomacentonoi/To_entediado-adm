@@ -2685,13 +2685,21 @@
       "id": 79,
       "titulo_referencia": "Diabolik Lovers",
       "id_anilist": [
-        17513
+        17513,
+        21046
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "harém",
+        "fem-protag",
+        "sobrenatural",
+        "mistério",
+        "romance",
+        "drama"
+      ],
+      "sinopse": " Em busca de sua mãe desaparecida, Yui acaba em uma mansão misteriosa, onde supostamente sua mãe foi vista. Porém Yui é intimada por 6 rapazes esbeltos que possuem tanta personalidade quanto um dado de 6 lados. Ah, e eles são vampiros. ",
+      "recomendacao": "Não veja",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2700,11 +2708,11 @@
       "estudio": [
         "Zexcs"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 80,
@@ -2714,9 +2722,18 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "harém",
+        "romance",
+        "ecchi",
+        "ação",
+        "paternal",
+        "distopia"
+
+      ],
+      "sinopse": "Puta que pariu, le o titulo",
+      "recomendacao": "Não veja",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2725,23 +2742,33 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 81,
       "titulo_referencia": "DON'T TOY WITH ME, MISS NAGATORO",
       "id_anilist": [
-        120697
+        120697,
+        140596
       ],
-      "dublagem": "não dublado",
+      "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "ecchi",
+        "artes",
+        "escolar",
+        "fofo",
+        "slice of life"
+      ],
+      "sinopse": "'Ela pega no seu pé porque ela gosta de você', é a frase mais mentirosa que seu professor de história te contava só para não ter que lidar com o fato de a Maria Eduarda da sua sala enfiou a lapiseira no seu braço só por que você pediu 1 grafite... Enfim, com isso em mente, nosso jovem Naoto é mais um daqueles nerds esquisitinhos que adora desenhar, isso até que ele acaba conhecendo uma caloura com uma personalidade atrevida que começa a pergar em seu pé. Porém esse relacionamento começa a se desenvolver em algo mais fofo e menos problemático. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2750,11 +2777,11 @@
       "estudio": [
         "Telecom Animation Film"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 82,
