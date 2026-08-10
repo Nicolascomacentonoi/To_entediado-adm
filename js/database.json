@@ -2787,13 +2787,25 @@
       "id": 82,
       "titulo_referencia": "Dorohedoro",
       "id_anilist": [
-        105228
+        105228,
+        173172,
+        212618
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "mistério",
+        "ação",
+        "violência",
+        "distopia",
+        "cgi",
+        "magia",
+        "tensão",
+        "super poderes"
+      ],
+      "sinopse": "Magia é um tabu usado por feiticeiros para cometer os mais ediondos tipos de crimes. E nesse mundo maluco e caótico, Caiman é um misterioso homem cujo as memórias foram apagadas e que bizzarramente foi tranformado em um réptil humanoide, que busca desesperadomente descobrir a verdade e reverter seu estado. Para isso ele se aproveita de sua imunidade à magia para vira um caçador de Magos e buscar por pistas de quem pode ter o responsável",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -2802,11 +2814,11 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 83,
@@ -2816,47 +2828,71 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "drama",
+        "mistério",
+        "comédia",
+        "culinária"
+      ],
+      "sinopse": "Existem certas doenças que nem os melhores hospitais são capazes de curar ou sequer compreender, para isso existe um certo Dr bizzarro que mora em um templo isolado. Ramune é um médico excentrico que é o unico capaz identificar a causa de estranhas e sobrenaturais condições, geralmente atreladas a traumas ou situações especificas que acabam transformando algumas partes do paciente em... comidas japonesas. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "10/01/2021",
       "estudio": [
-        "Shin-Ei Animation"
+        "Platinum Vision"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 84,
       "titulo_referencia": "Dr. STONE",
       "id_anilist": [
-        105333
+        105333,
+        113936,
+        131518,
+        162670,
+        172019,
+        189117,
+        199221
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "educativo",
+        "jogos mentais",
+        "mistério",
+        "paranormal",
+        "ação",
+        "drama",
+        "aventura",
+        "comédia",
+        "administração",
+        "sci-fi"
+      ],
+      "sinopse": "O ano é 2019, e foi identificada uma misteriosa e poderoza luz que cobriu o planeta inteiro transformando todos os seres humanos em pedras. Milhares de anos se passam e o primeiro humano finalmente desperta: Senku o cientista, um jovem promissor no auge dos seus 15 anos que permanece determinado em restaurar a humanidade e sua tecnologia, além de descobrir a origem dessa misteriosa luz. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
-        "Crunchyroll"
+        "Crunchyroll",
+        "Netflix"
       ],
       "ordem": null,
       "data_lancamento": "05/07/2019",
       "estudio": [
         "TMS Entertainment"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 85,
