@@ -2875,7 +2875,8 @@
         "aventura",
         "comédia",
         "administração",
-        "sci-fi"
+        "sci-fi",
+        "family friendly"
       ],
       "sinopse": "O ano é 2019, e foi identificada uma misteriosa e poderoza luz que cobriu o planeta inteiro transformando todos os seres humanos em pedras. Milhares de anos se passam e o primeiro humano finalmente desperta: Senku o cientista, um jovem promissor no auge dos seus 15 anos que permanece determinado em restaurar a humanidade e sua tecnologia, além de descobrir a origem dessa misteriosa luz. ",
       "recomendacao": "Alta prioridade",
@@ -2898,13 +2899,25 @@
       "id": 85,
       "titulo_referencia": "Dragon Ball",
       "id_anilist": [
-        223
+        223,
+        813,
+        21175
       ],
       "dublagem": "dublado",
       "filmes": 21,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "shounen",
+        "aventura",
+        "ação",
+        "comédia",
+        "family friendly",
+        "paternal",
+        "porrada",
+        "sci-fi",
+        "super poderes"
+      ],
+      "sinopse": "Goku é apenas um bebê alienigêna que cai na terra em uma nave estranha. Após ter batido sua cabeça na aterriçagem, Goku é resgato por um velhinho que decide cuidar dele como seu neto. 12 anos se passam e o jovem se encontra com Bulma, uma jovem visionária que procura pelas lendárias esferas do dragão cujo o poder é capaz de realizar qualquer desejo. Intreigado pela história (e entediado), Goku decide embarcar nessa joranada para coletar essas misteriosas esferas enquanto enfrenta oponentes formidaveis e treina para ficar ainda mais forte. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2913,11 +2926,11 @@
       "estudio": [
         "Toei Animation"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Hiato"
     },
     {
       "id": 86,
