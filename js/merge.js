@@ -78,9 +78,8 @@ async function getAniListDataForIds(allIds) {
 // combina várias entradas da AniList (várias temporadas) num único resumo
 function combineAniListEntries(entries) {
   if (entries.length === 0) return null;
-  const sorted = [...entries].sort((a, b) => (a.seasonYear || 0) - (b.seasonYear || 0));
-  const first = sorted[0];
-  const totalEpisodes = sorted.reduce((sum, e) => sum + (e.episodes || 0), 0);
+  const first = entries[0]; // sempre o primeiro ID da lista id_anilist, na ordem que você escreveu
+  const totalEpisodes = entries.reduce((sum, e) => sum + (e.episodes || 0), 0);
 
   return {
     titulo: first.title?.english || first.title?.romaji || first.title?.native,

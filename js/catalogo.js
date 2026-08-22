@@ -219,6 +219,20 @@ function updateFiltroActiveCount() {
   document.getElementById('filtroActiveCount').textContent = total ? `(${total})` : '';
 }
 
+function limparFiltros() {
+  generoFiltroState.clear();
+  dublagemFiltroState.clear();
+  classificacaoFiltroState.clear();
+  recomendacaoFiltroState.clear();
+  ondeVerFiltroState.clear();
+  statusFiltroState.clear();
+
+  document.querySelectorAll('.genre-chip[data-state]').forEach(chip => delete chip.dataset.state);
+
+  updateFiltroActiveCount();
+  applyFiltersAndRender();
+}
+
 function toggleSimpleFilter(stateSet, valor, chipEl) {
   if (stateSet.has(valor)) {
     stateSet.delete(valor);
@@ -433,6 +447,7 @@ function closeModal() {
 
 document.getElementById('searchInput').addEventListener('input', applyFiltersAndRender);
 document.getElementById('sortSelect').addEventListener('change', applyFiltersAndRender);
+document.getElementById('limparFiltrosBtn').addEventListener('click', limparFiltros);
 document.getElementById('invertSortBtn').addEventListener('click', () => {
   sortDescending = !sortDescending;
   document.getElementById('invertSortBtn').textContent = sortDescending ? '↑' : '↓';

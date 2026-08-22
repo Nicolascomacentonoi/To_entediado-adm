@@ -30,7 +30,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 2,
@@ -60,7 +60,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 3,
@@ -127,7 +127,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 5,
@@ -203,7 +203,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 7,
@@ -235,7 +235,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 8,
@@ -267,7 +267,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 9,
@@ -394,7 +394,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 13,
@@ -405,6 +405,7 @@
       "dublagem": "dublado",
       "filmes": 1,
       "generos": [
+        "filme",
         "sci-fi",
         "drama",
         "ação",
@@ -455,7 +456,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 15,
@@ -485,7 +486,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 16,
@@ -518,7 +519,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 17,
@@ -639,7 +640,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 21,
@@ -709,7 +710,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 23,
@@ -742,7 +743,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 24,
@@ -867,7 +868,7 @@
       "manual_titulo": "Baki",
       "manual_capa": "imagens_manuais/Baki.jpg",
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 27,
@@ -897,7 +898,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 28,
@@ -930,7 +931,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 29,
@@ -1001,7 +1002,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 31,
@@ -1054,7 +1055,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": "49",
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 32,
@@ -1085,7 +1086,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 33,
@@ -1186,7 +1187,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 36,
@@ -1228,7 +1229,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 37,
@@ -1264,7 +1265,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 38,
@@ -1296,7 +1297,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 39,
@@ -1343,7 +1344,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 40,
@@ -1373,7 +1374,7 @@
       "manual_titulo": "Blue Lock",
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 41,
@@ -1403,7 +1404,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 42,
@@ -1468,7 +1469,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 44,
@@ -1499,7 +1500,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 45,
@@ -1535,7 +1536,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 46,
@@ -1570,7 +1571,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 47,
@@ -1601,7 +1602,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 48,
@@ -1631,7 +1632,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 49,
@@ -1703,7 +1704,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 51,
@@ -1779,7 +1780,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 53,
@@ -1815,7 +1816,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": 12,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 54,
@@ -1881,7 +1882,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 56,
@@ -1916,7 +1917,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 57,
@@ -1951,7 +1952,7 @@
       "manual_titulo": "Classroom of the Elite",
       "manual_capa": "imagens_manuais/Classroom of the Elite.jpg",
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 58,
@@ -2036,7 +2037,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 60,
@@ -2068,7 +2069,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 61,
@@ -2132,7 +2133,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 63,
@@ -2147,7 +2148,7 @@
         "escolar",
         "brainrot"
       ],
-      "sinopse": "Apenas um bando de adolescentes fazendo macaquices de adolescentes. CUIDADO SE VOCÊ FOR HOMEM - ALTAS CHANCES DE SE IDENTIFICAR ",
+      "sinopse": "Apenas um bando de adolescentes fazendo macaquices de adolescentes. CUIDADO SE VOCÊ FOR HOMEM - ALTAS CHANCES DE SE IDENTIFICAR",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2197,7 +2198,7 @@
       "manual_titulo": "Dandadan",
       "manual_capa": "imagens_manuais/Dandadan.jpg",
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 65,
@@ -2278,7 +2279,7 @@
       "manual_titulo": "Dark Gathering",
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 67,
@@ -2296,7 +2297,7 @@
         "super poderes",
         "sci-fi"
       ],
-      "sinopse": "Instigado a baixar um misterioso jogo mobile chamado 'Darwins's Game', Kaname acaba se envolvendo com fenômenos estranhos e até mesmo uma perseguição de vida ou morte. Assim Kaname finalmente descobre a capacidade paranormal do aplicativo e sua natureza doentia: Um aplicativo que te concede poderes paranormais e força os participantes a participarem de combates e jogos estranhos. Agora cabe ao rapaz extrair o máximo potencial de sua habilidade de 'impressora 3d' para sobreviver e superar os desafios",
+      "sinopse": "Instigado a baixar um misterioso jogo mobile chamado “Darwin's Game”, Kaname acaba se envolvendo com fenômenos estranhos e até mesmo uma perseguição de vida ou morte. Assim Kaname finalmente descobre a capacidade paranormal do aplicativo e sua natureza doentia: Um aplicativo que te concede poderes paranormais e força os participantes a participarem de combates e jogos estranhos. Agora cabe ao rapaz extrair o máximo potencial de sua habilidade de “impressora 3d” para sobreviver e superar os desafios.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2310,7 +2311,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 68,
@@ -2347,7 +2348,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": 58,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 69,
@@ -2367,7 +2368,7 @@
         "delinquente",
         "super poderes"
       ],
-      "sinopse": "Souji Enishiro é um streamer troll, que pesca adversários usando rage bait e transmite suas lutas ao vivo, assim ganhando dinheiro usando sua natureza violenta para cobrir as despesas de sua irmãzinha hospitalizada. Porém seu mundo vira de cabeça para baixo quando ele descobre que sua irmã havia morrido a tempos, mesmo que ela ainda mandasse mensagens para ele. Assim, ele acaba descobrindo a existência de 'fantasmas virtuais': contas em redes sociais de pessoas mortas que ganham forma e poderes devido a uma entidade maligna. Determinado, Souji desperta seus 'poderes virtuais' e decide usa-los para eliminar a entidade por trás da morte de sua irmã.",
+      "sinopse": "Souji Enishiro é um streamer troll, que pesca adversários usando rage bait e transmite suas lutas ao vivo, assim ganhando dinheiro usando sua natureza violenta para cobrir as despesas de sua irmãzinha hospitalizada. Porém seu mundo vira de cabeça para baixo quando ele descobre que sua irmã havia morrido há tempos, mesmo que ela ainda mandasse mensagens para ele. Assim, ele acaba descobrindo a existência de “fantasmas virtuais”: contas em redes sociais de pessoas mortas que ganham forma e poderes devido a uma entidade maligna. Determinado, Souji desperta seus “poderes virtuais” e decide usá-los para eliminar a entidade por trás da morte de sua irmã.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2381,7 +2382,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 70,
@@ -2397,7 +2398,7 @@
         "sobrenatural",
         "ação"
       ],
-      "sinopse": "Após ser derrotado em uma batalha lendária, o poderoso necromante de codnome 'Deus dos corpos' usa sua última cartada e reencarna em outra dimensão. No japão moderno, um jovem chamado Polka Shinoyama é assassinado a sangue frio, dando espaço para a reencarnação do maior e unico necromante desse mundo. Assumindo sua nova identidade, o necromante descobre que Polka é alvo da yakuza devido à sua linhagem, e agora cabe ao novo Polka lidar com essa situação e se proteger de um jeito... único. ",
+      "sinopse": "Após ser derrotado em uma batalha lendária, o poderoso necromante de codinome “Deus dos corpos” usa sua última cartada e reencarna em outra dimensão. No japão moderno, um jovem chamado Polka Shinoyama é assassinado a sangue frio, dando espaço para a reencarnação do maior e único necromante desse mundo. Assumindo sua nova identidade, o necromante descobre que Polka é alvo da yakuza devido à sua linhagem, e agora cabe ao novo Polka lidar com essa situação e se proteger de um jeito... único.",
       "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2411,7 +2412,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 71,
@@ -2431,7 +2432,7 @@
         "shounen",
         "super poderes"
       ],
-      "sinopse": "Um misterioso incidente causou o massacre de todos os estudantes de uma sala de aula, e o principal suspeito é o único sobrevivente: Ganta Igrashi, que é brutalmente amassado durante seu julgamento e acaba condenado à morte. Sem conseguir provar sua inocência, o pobre rapaz é levado para um prisão de segurança máxima chamada 'Deadman Wonderland', uma prisão doentia que usa seus detentos como participantes em reality shows sádicos e doentios, que também esconde seu verdadeiro propósito, que é desenvolver soldados com poderes paranormais de manipulação sanguínea. Agora junto de sua nova e misteriosa amiga, Ganta tenta sobreviver enquanto busca pela abominável entidade responsável pelo massacre de seus colegas.",
+      "sinopse": "Um misterioso incidente causou o massacre de todos os estudantes de uma sala de aula, e o principal suspeito é o único sobrevivente: Ganta Igrashi, que é brutalmente amassado durante seu julgamento e acaba condenado à morte. Sem conseguir provar sua inocência, o pobre rapaz é levado para um prisão de segurança máxima chamada “Deadman Wonderland”, uma prisão doentia que usa seus detentos como participantes em reality shows sádicos e doentios, que também esconde seu verdadeiro propósito, que é desenvolver soldados com poderes paranormais de manipulação sanguínea. Agora junto de sua nova e misteriosa amiga, Ganta tenta sobreviver enquanto busca pela abominável entidade responsável pelo massacre de seus colegas.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2445,7 +2446,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 72,
@@ -2478,7 +2479,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 73,
@@ -2498,7 +2499,7 @@
         "comédia",
         "romance"
       ],
-      "sinopse": "Depois de um pequeno cochilo durante seu expediente, Ichirou acorda em um mundo completamente diferente em uma aparência diferente. Logo, ele percebe que está preso dentro do jogo de rpg que ele mesmo estava ajudando a desenvolver, como seu personagem de teste que CONVENIENTEMENTE se encontra no nível máximo. E bom... 'Escuta Peter, com grandes poderes, vem muitas pretendentes'.",
+      "sinopse": "Depois de um pequeno cochilo durante seu expediente, Ichirou acorda em um mundo completamente diferente em uma aparência diferente. Logo, ele percebe que está preso dentro do jogo de rpg que ele mesmo estava ajudando a desenvolver, como seu personagem de teste que CONVENIENTEMENTE se encontra no nível máximo. E bom... “Escuta Peter, com grandes poderes, vem muitas pretendentes”.",
       "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2513,7 +2514,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 74,
@@ -2574,7 +2575,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 76,
@@ -2604,7 +2605,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 77,
@@ -2636,7 +2637,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 78,
@@ -2664,7 +2665,7 @@
         "drama",
         "super poderes"
       ],
-      "sinopse": "Tanjiro é um jovem lenhador do interior que constantemente desce a montanha para vender lenha e sustentar sua grande e amável família. Porém, um dia retornando de uma das suas vendas, ele percebe algo aterrorizante: toda sua família havia sido brutalmente assassinada, com a exceção de sua irmãzinha. Enquanto tentava ajudala, o jovem percebe que sua irmã estava diferente, mas especificamente ele descobre que ela se tornou um Oni (equivalente a vampiro). Determinado a transformá-la de volta ao normal, Tanjiro se alista como um caçador de Onis para encontrar o responsável e gentilmente desconectar sua cabeça do corpo.",
+      "sinopse": "Tanjiro é um jovem lenhador do interior que constantemente desce a montanha para vender lenha e sustentar sua grande e amável família. Porém, um dia retornando de uma das suas vendas, ele percebe algo aterrorizante: toda sua família havia sido brutalmente assassinada, com a exceção de sua irmãzinha. Enquanto tentava ajudá-la, o jovem percebe que sua irmã estava diferente, mas especificamente ele descobre que ela se tornou um Oni (equivalente a vampiro). Determinado a transformá-la de volta ao normal, Tanjiro se alista como um caçador de Onis para encontrar o responsável e gentilmente desconectar sua cabeça do corpo.",
       "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll",
@@ -2679,7 +2680,7 @@
       "manual_titulo": "Demon Slayer",
       "manual_capa": "imagens_manuais/Demon Slayer.jpg",
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 79,
@@ -2698,7 +2699,7 @@
         "romance",
         "drama"
       ],
-      "sinopse": " Em busca de sua mãe desaparecida, Yui acaba em uma mansão misteriosa, onde supostamente sua mãe foi vista. Porém Yui é intimada por 6 rapazes esbeltos que possuem tanta personalidade quanto um dado de 6 lados. Ah, e eles são vampiros. ",
+      "sinopse": "Em busca de sua mãe desaparecida, Yui acaba em uma mansão misteriosa, onde supostamente sua mãe foi vista. Porém Yui é intimada por 6 rapazes esbeltos que possuem tanta personalidade quanto um dado de 6 lados. Ah, e eles são vampiros.",
       "recomendacao": "Não veja",
       "onde_ver": [
         "Crunchyroll"
@@ -2730,9 +2731,8 @@
         "ação",
         "paternal",
         "distopia"
-
       ],
-      "sinopse": "Puta que pariu, le o titulo",
+      "sinopse": "Puta que pariu, lê o título",
       "recomendacao": "Não veja",
       "onde_ver": [
         "Crunchyroll"
@@ -2746,7 +2746,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 81,
@@ -2767,7 +2767,7 @@
         "fofo",
         "slice of life"
       ],
-      "sinopse": "'Ela pega no seu pé porque ela gosta de você', é a frase mais mentirosa que seu professor de história te contava só para não ter que lidar com o fato de a Maria Eduarda da sua sala enfiou a lapiseira no seu braço só por que você pediu 1 grafite... Enfim, com isso em mente, nosso jovem Naoto é mais um daqueles nerds esquisitinhos que adora desenhar, isso até que ele acaba conhecendo uma caloura com uma personalidade atrevida que começa a pergar em seu pé. Porém esse relacionamento começa a se desenvolver em algo mais fofo e menos problemático. ",
+      "sinopse": "“Ela pega no seu pé porque ela gosta de você”, é a frase mais mentirosa que seu professor de história te contava só para não ter que lidar com o fato de a Maria Eduarda da sua sala enfiou a lapiseira no seu braço só porque você pediu 1 grafite... Enfim, com isso em mente, nosso jovem Naoto é mais um daqueles nerds esquisitinhos que adora desenhar, isso até que ele acaba conhecendo uma caloura com uma personalidade atrevida que começa a pegar no seu pé. Porém esse relacionamento começa a se desenvolver em algo mais fofo e menos problemático.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2781,7 +2781,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 82,
@@ -2804,7 +2804,7 @@
         "tensão",
         "super poderes"
       ],
-      "sinopse": "Magia é um tabu usado por feiticeiros para cometer os mais ediondos tipos de crimes. E nesse mundo maluco e caótico, Caiman é um misterioso homem cujo as memórias foram apagadas e que bizzarramente foi tranformado em um réptil humanoide, que busca desesperadomente descobrir a verdade e reverter seu estado. Para isso ele se aproveita de sua imunidade à magia para vira um caçador de Magos e buscar por pistas de quem pode ter o responsável",
+      "sinopse": "Magia é um tabu usado por feiticeiros para cometer os mais hediondos tipos de crimes. E nesse mundo maluco e caótico, Caiman é um misterioso homem cujo as memórias foram apagadas e que bizarramente foi transformado em um réptil humanoide, que busca desesperadomente descobrir a verdade e reverter seu estado. Para isso ele se aproveita de sua imunidade à magia para vira um caçador de Magos e buscar por pistas de quem é o responsável.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Netflix"
@@ -2815,10 +2815,10 @@
         "MAPPA"
       ],
       "classificacao_indicativa": 16,
-      "manual_titulo": null,
-      "manual_capa": null,
+      "manual_titulo": "Dorohedoro",
+      "manual_capa": "imagens_manuais/Dorohedoro.jpg",
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 83,
@@ -2835,7 +2835,7 @@
         "comédia",
         "culinária"
       ],
-      "sinopse": "Existem certas doenças que nem os melhores hospitais são capazes de curar ou sequer compreender, para isso existe um certo Dr bizzarro que mora em um templo isolado. Ramune é um médico excentrico que é o unico capaz identificar a causa de estranhas e sobrenaturais condições, geralmente atreladas a traumas ou situações especificas que acabam transformando algumas partes do paciente em... comidas japonesas. ",
+      "sinopse": "Existem certas doenças que nem os melhores hospitais são capazes de curar ou sequer compreender, para isso existe um certo Dr. bizarro que mora em um templo isolado. Ramune é um médico excêntrico que é o único capaz de identificar a causa de estranhas e sobrenaturais condições, geralmente atreladas a traumas ou situações especificas que acabam transformando algumas partes do paciente em... comidas japonesas.",
       "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2849,7 +2849,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 84,
@@ -2878,7 +2878,7 @@
         "sci-fi",
         "family friendly"
       ],
-      "sinopse": "O ano é 2019, e foi identificada uma misteriosa e poderoza luz que cobriu o planeta inteiro transformando todos os seres humanos em pedras. Milhares de anos se passam e o primeiro humano finalmente desperta: Senku o cientista, um jovem promissor no auge dos seus 15 anos que permanece determinado em restaurar a humanidade e sua tecnologia, além de descobrir a origem dessa misteriosa luz. ",
+      "sinopse": "O ano é 2019 e uma misteriosa e repentina luz cobre toda a Terra, transformando todos os seres humanos em estatuas de pedras. Milhares de anos se passam e o primeiro humano finalmente desperta: Senku o cientista, um jovem promissor no auge dos seus 15 anos que permanece determinado em restaurar a humanidade e sua tecnologia, além de descobrir a origem dessa misteriosa luz.",
       "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll",
@@ -2916,7 +2916,7 @@
         "sci-fi",
         "super poderes"
       ],
-      "sinopse": "Goku é apenas um bebê alienigêna que cai na terra em uma nave estranha. Após ter batido sua cabeça na aterriçagem, Goku é resgato por um velhinho que decide cuidar dele como seu neto. 12 anos se passam e o jovem se encontra com Bulma, uma jovem visionária que procura pelas lendárias esferas do dragão cujo o poder é capaz de realizar qualquer desejo. Intreigado pela história (e entediado), Goku decide embarcar nessa joranada para coletar essas misteriosas esferas enquanto enfrenta oponentes formidaveis e treina para ficar ainda mais forte. ",
+      "sinopse": "Tal qual a história do Superman, um belo dia um velho acaba achando um bebê alienígena e decide que seria uma boa ideia cuidar dessa aberração. Agora criança, Son Goku se encontra com uma excêntrica e visionária jovem que procura pelas lendárias esferas do dragão cujo o poder é capaz de realizar qualquer desejo. Intrigado pela aventura (e entediado), Goku decide acompanhar Bulma e embarcar nessa jornada pelas esferas enquanto enfrenta oponentes formidáveis e treina para ficar ainda mais forte.",
       "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -2930,7 +2930,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 86,
@@ -2940,9 +2940,18 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "romance",
+        "ação",
+        "comédia",
+        "ecchi",
+        "comédia romântica",
+        "harém",
+        "escolar"
+      ],
+      "sinopse": "Ryuji é um caçador de relíquias certificado que ainda se encontra seguindo com a vida comum de um estudante do ensino médio. Só que essa folga acaba com a volta de sua prima distante que subitamente pede (obriga) pela ajuda de Ryuji para 'recuperar' um certo artefato, e com isso eu me refiro a roubar um item extremamente valioso de uma organização mafiosa... basicamente uma terça-feira média. Porém, para a surpresa de ambos, o artefato é na verdade um ovo de dragão que acaba chocando e se apegando a Ryuji. Ah, e o dragão obviamente é uma garota fofa.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -2951,36 +2960,47 @@
       "estudio": [
         "Studio Deen"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 87,
       "titulo_referencia": "EDENS ZERO",
       "id_anilist": [
-        119683
+        119683,
+        144932
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "shounen",
+        "sci-fi",
+        "fantasia",
+        "ação",
+        "comédia",
+        "ecchi",
+        "aventura",
+        "super poderes"
+      ],
+      "sinopse": "Shiki é o único humano em um planeta dominado por máquinas abandonadas que assumiram o papel de família para o rapaz que cresceu treinando e aprendendo com seu estranho avô. Certo dia Shiki é surpreendido com uma visita de uma streamer espacial e a primeira humana que visita a quele lugar em séculos. A garota é Rebecca, uma streamer de média relevância que explora o espaço em busca de conteúdo e que vê potencial na força e nos misteriosos poderes de Shiki. Agora motivado pelas palavras de seu avô, o jovem decide embarcar em uma jornada com Rebecca para descobrir sobre suas verdadeiras origens enquanto faz amigos pelo caminho.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
-        "Netflix"
+        "Netflix",
+        "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "11/04/2021",
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 88,
@@ -2989,23 +3009,30 @@
         21234
       ],
       "dublagem": "dublado",
-      "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 1,
+      "generos": [
+        "viagem no tempo",
+        "mistério",
+        "drama",
+        "escolar",
+        "sobrenatural"
+      ],
+      "sinopse": "Você é amaldiçoado (sem razão aparente) com uma misteriosa habilidade de voltar no tempo involuntariamente toda vez que um acidente está prestes a acontecer. Com essa estranha habilidade, Satoru vive sua vida sendo forçado a ajudar os outros ao seu redor, isso até ELE acabar envolvido em um terrível incidente no qual ele é acusado de matar sua própria mãe. Enquanto foragido ele começa a suspeitar que talvez essa situação tenha relação com o assassinato de uma antiga colega de sua classe, mas antes de conseguir chegar a uma conclusão, Satoru se encontra 18 anos no passado e aproveita para investigar por si mesmo.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
-        "Netflix"
+        "Netflix",
+        "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "08/01/2016",
       "estudio": [
-        "Brain's Base"
+        "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 89,
@@ -3015,9 +3042,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "meia-irmã é incesto?",
+        "artes",
+        "comédia romântica",
+        "comédia",
+        "ecchi",
+        "harém",
+        "romance"
+      ],
+      "sinopse": "Izumi é um jovem que trabalha como escritor de novels para sustentar si e sua meia-irmã reclusa após a morte de seus pais (sim você já sabe pra onde isso está indo). Focado em seu trabalho, Izumi se vê na necessidade de se encontrar com seu misterioso ilustrador: 'Eromanga-Sensei' (todos choram no cinema), porém o que ele não imaginava é que seu ilustrador é na verdade sua meia-irmã, e agora os dois vão ter que trabalhar juntos depois de anos sem interagirem um com o outro.",
+      "recomendacao": "Não veja",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3026,11 +3061,11 @@
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 90,
@@ -3038,25 +3073,33 @@
       "id_anilist": [
         6702
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 2,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "shounen",
+        "ação",
+        "fantasia",
+        "aventura",
+        "comédia",
+        "ecchi",
+        "super poderes"
+      ],
+      "sinopse": "Lucy é uma aventureira que está em busca de um famoso mago dracônico das chamas para conseguir uma chance de entrar para a grande e poderosa guilda de magos: Fairy Tail. Só que para a sua surpresa, o “poderoso” guerreiro é na verdade um completo idiota esquentado e sua guilda dos sonhos parece mais um manicômio do que qualquer coisa, mas quem sabe assim não é mais divertido?",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
-        "Crunchyroll",
-        "Netflix"
+        "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "12/10/2009",
       "estudio": [
-        "A-1 Pictures, Bridge"
+        "A-1 Pictures",
+        "Satelight"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "null"
     },
     {
       "id": 91,
@@ -3066,47 +3109,133 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [
-        "Netflix"
+      "generos": [
+        "fantasia",
+        "sci-fi",
+        "ação",
+        "distopia",
+        "drama",
+        "magia",
+        "mistério",
+        "super poderes"
       ],
-      "ordem": null,
+      "sinopse": "Sem muitas memórias de seu passado, Hakuno acorda em uma poça de seu próprio sangue em um ambiente familiar. Pouco tempo depois ele acaba descobrindo uma terrível verdade: Atualmente ele está preso em uma simulação de escala global e está participando de uma escalação para a Guerra do Santo Graal, a maior conquista que um humano pode alcançar. Não satisfeito com essa terrível realidade e com seus sentimentos de origem desconhecida, Hakuno decide fazer um pacto de mestre e servo com um servo de classe saber para alcançar o núcleo da simulação e desvendar a verdade.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [],
+      "ordem": {
+        "conselho": "Obra idependente, não precisa ter visto os outros Fates (embora seja aconselhavel)",
+        "sequencia": []
+      },
       "data_lancamento": "27/01/2018",
       "estudio": [
         "Shaft"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 92,
       "titulo_referencia": "Fate/kaleid liner Prisma☆Illya",
       "id_anilist": [
-        14829
+        14829,
+        20467,
+        20845,
+        21379,
+        101100,
+        118743,
+        138511
       ],
       "dublagem": "não dublado",
       "filmes": 4,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "magia",
+        "ação",
+        "comédia",
+        "romance",
+        "ecchi",
+        "fem-protag",
+        "drama",
+        "fofo",
+        "meia-irmã é incesto?",
+        "harém"
+      ],
+      "sinopse": "A secreta associação de magos envia 2 magas com varinhas mágicas para coletar as sete Cartas de Servo, artefatos místicos que contêm a essência de heróis lendários da história. Porém as magas orgulhosas e suas varinhas sencientes acabam brigando, fazendo com que as varinhas procurem por novas garotas mágicas. Illyasviel é apenas uma garota comum, com uma família amorosa e um crush... bom, tudo muda quando ela é escolhida pela varinha mágica Ruby para se tornar uma corajosa e fofa guerreira. (Como eu vou cupar elas se o meio irmão dela é um gosto-)",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+      "ordem": {
+        "conselho": "Ordem cronológica: ",
+        "sequencia": [
+          101100,
+          14829,
+          20467,
+          20845,
+          21379,
+          118743,
+          138511
+        ]
+      },
       "data_lancamento": "12/07/2013",
       "estudio": [
         "Silver Link"
       ],
-      "classificacao_indicativa": null,
-      "manual_titulo": null,
-      "manual_capa": null,
+      "classificacao_indicativa": 14,
+      "manual_titulo": "Fate/kaleid liner Prisma☆Illya",
+      "manual_capa": "imagens_manuais/Fate kaleid liner Prisma Illya.jpg",
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 335,
+      "titulo_referencia": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+      "id_anilist": [
+        101100,
+        14829,
+        20467,
+        20845,
+        21379,
+        118743,
+        138511
+      ],
+      "dublagem": "não dublado",
+      "filmes": 1,
+      "generos": [
+        "filme",
+        "magia",
+        "ação",
+        "drama",
+        "super poderes"
+      ],
+      "sinopse": "O mundo está morrendo, e Kiritsugo Emiya junto de seu filho tem o dever de impedir esse desastre. Kiritsugo infelizmente não resiste e passa seu legado para seu filho junto do terrível fardo de ter que sacrificar sua irmã adotada, Shirou agora se encontra em um terrível dilema: Seu sonho de “Herói da Justiça” que salva a todos, ou sua querida irmãzinha? Bom, seu corpo ainda é composto por lâminas e seu legado sempre será solitário",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": " É possível ver o filme de maneira idependente do resto (EXTREMAMENTE RECOMENDADO)",
+        "sequencia": [
+          101100,
+          14829,
+          20467,
+          20845,
+          21379,
+          118743,
+          138511
+        ]
+      },
+      "data_lancamento": "26/08/2017",
+      "estudio": [
+        "Silver Link"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+      "manual_capa": "imagens_manuais/Fate kaleid liner Prisma Illya Sekka no Chikai.jpg",
+      "manual_episodios": 1,
+      "manual_status": "Finalizado"
     },
     {
       "id": 93,
@@ -3114,11 +3243,21 @@
       "id_anilist": [
         356
       ],
-      "dublagem": "dublagem incompleta",
+      "dublagem": "dublado",
       "filmes": 3,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "magia",
+        "ação",
+        "drama",
+        "fantasia",
+        "harém",
+        "romance",
+        "violência",
+        "super poderes",
+        "shounen"
+      ],
+      "sinopse": "A história original de Fate/Stay night: Shirou é um jovem estudante extremamente gentil e complacente que sonha em se tornar um herói da justiça, que a muitos anos atrás, foi adotado por um mago e secretamente pratica magia de baixo nível. Sua pacata rotina girava em torno de ajudar os outros e praticar magia, mas isso muda quando Shirou acaba testemunhando um duelo intenso entre guerreiros misteriosos em sua escola, e logo decide fugir do local. Só que para seu infortúnio, aquele testemunho acaba sucedendo em uma série de eventos que acaba forçando Shirou a participar de uma lendária guerra entre magos para conquistar a maior fonte de poder já registrada: o Santo Graal. A guerra consiste em 7 magos que invocam 7 espiritos heróicos da história humana de classes distintas, sendo Shirou o mestre do servo de classe Saber.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3127,59 +3266,208 @@
       "estudio": [
         "Studio Deen"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 336,
+      "titulo_referencia": "Fate/stay night: Unlimited Blade Works",
+      "id_anilist": [
+        20792,
+        19603,
+        10087,
+        11741,
+        20791,
+        21718,
+        21719
+      ],
+      "dublagem": "não dublado",
+      "filmes": 2,
+      "generos": [
+        "magia",
+        "ação",
+        "drama",
+        "fantasia",
+        "harém",
+        "romance",
+        "violência",
+        "super poderes",
+        "shounen"
+      ],
+      "sinopse": "Uma das histórias alternativas de Fate/Stay night, essa focada no futuro de Shirou e Rin: Shirou é um jovem estudante extremamente gentil e complacente que sonha em se tornar um herói da justiça, que a muitos anos atrás, foi adotado por um mago e secretamente pratica magia de baixo nível. Sua pacata rotina girava em torno de ajudar os outros e praticar magia, mas isso muda quando Shirou acaba testemunhando um duelo intenso entre guerreiros misteriosos em sua escola, e logo decide fugir do local. Só que para seu infortúnio, aquele testemunho acaba sucedendo em uma série de eventos que acaba forçando Shirou a participar de uma lendária guerra entre magos para conquistar a maior fonte de poder já registrada: o Santo Graal. A guerra consiste em 7 magos que invocam 7 espiritos heróicos da história humana de classes distintas, sendo Shirou o mestre do servo de classe Saber.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Seguinte, é perfeitamente plausivel assistir essa série de forma idependente, mas caso você tenha gostado e queira saber mais sobre o universo, eu aconselho assistir Fate/stay night nessa ordem: ",
+        "sequencia": [
+          19603,
+          20792,
+          10087,
+          11741,
+          20791,
+          21718,
+          21719
+        ]
+      },
+      "data_lancamento": "05/04/2015",
+      "estudio": [
+        "ufotable"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": "Fate/stay night: Unlimited Blade Works",
+      "manual_capa": null,
+      "manual_episodios": 26,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 337,
+      "titulo_referencia": "Fate/stay night Movie: Heaven's Feel",
+      "id_anilist": [
+        20791,
+        20792,
+        19603,
+        10087,
+        11741,
+        21718,
+        21719
+      ],
+      "dublagem": "não dublado",
+      "filmes": 3,
+      "generos": [
+        "filme",
+        "magia",
+        "ação",
+        "drama",
+        "fantasia",
+        "good vibes",
+        "harém",
+        "romance",
+        "violência",
+        "super poderes"
+      ],
+      "sinopse": "Uma das histórias alternativas de Fate/Stay night, essa focada na triste história de Sakura: Shirou é um jovem estudante extremamente gentil e complacente que sonha em se tornar um herói da justiça, que a muitos anos atrás, foi adotado por um mago e secretamente pratica magia de baixo nível. Sua pacata rotina girava em torno de ajudar os outros e praticar magia, mas isso muda quando Shirou acaba testemunhando um duelo intenso entre guerreiros misteriosos em sua escola, e logo decide fugir do local. Só que para seu infortúnio, aquele testemunho acaba sucedendo em uma série de eventos que acaba forçando Shirou a participar de uma lendária guerra entre magos para conquistar a maior fonte de poder já registrada: o Santo Graal. A guerra consiste em 7 magos que invocam 7 espiritos heróicos da história humana de classes distintas, sendo Shirou o mestre do servo de classe Saber.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Seguinte, não é recomendado ver essa triologia de forma idependente, caso você queria entender alguma coisa eu aconselho assistir Fate/stay night nessa ordem: ",
+        "sequencia": [
+          19603,
+          20792,
+          10087,
+          11741,
+          20791,
+          21718,
+          21719
+        ]
+      },
+      "data_lancamento": "05/04/2015",
+      "estudio": [
+        "ufotable"
+      ],
+      "classificacao_indicativa": 18,
+      "manual_titulo": "Fate/stay night Movie: Heaven's Feel ",
+      "manual_capa": null,
+      "manual_episodios": 3,
+      "manual_status": "Finalizado"
     },
     {
       "id": 94,
       "titulo_referencia": "Fate/strange Fake",
       "id_anilist": [
-        166617
+        166617,
+        10087,
+        11741
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [],
-      "ordem": null,
-      "data_lancamento": "31/12/2023",
+      "generos": [
+        "ação",
+        "fantasia",
+        "magia",
+        "super poderes",
+        "violência"
+      ],
+      "sinopse": "A guerra pelo Santo Graal, uma batalha lendária que ocorre entre 7 magos escolhidos pelo próprio Graal que recebem selos de comando, runas místicas capazes de invocar e comandar um espirito heróico da humanidade (seja do passado ou do futuro); cada servo possui uma das 7 classes distintas: saber, archer, assassin, caster, berserk, lancer e rider, sendo que suas capacidades dependem de seus feitos em vida. Porém, essa guerra em questão é falsa, um ritual que tenta artificialmente controlar a guerra do santo graal, que por sua vez, acaba iniciando uma guerra sobreposta e veridica. Essa manipulação acaba afetando os padrões da guerra e ela acaba ficando meio... strange.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "É perfeitamente plausivel assistir esse Fate de maneira idependente, porém ele faz muita referencia a Fate zero, logo eu recomendo: ",
+        "sequencia": [
+          10087,
+          11741,
+          166617
+        ]
+      },
+      "data_lancamento": "03/01/2026",
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 95,
       "titulo_referencia": "Fate/Zero",
       "id_anilist": [
-        10087
+        10087,
+        19603,
+        20792,
+        11741,
+        20791,
+        21718,
+        21719
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ação",
+        "magia",
+        "good vibes",
+        "drama",
+        "fantasia",
+        "harém",
+        "romance",
+        "violência",
+        "super poderes"
+      ],
+      "sinopse": "A guerra pelo Santo Graal, uma batalha lendária que ocorre entre 7 magos escolhidos pelo próprio Graal que recebem selos de comando, runas místicas capazes de invocar e comandar um espirito heróico da humanidade (seja do passado ou do futuro); cada servo possui uma das 7 classes distintas: saber, archer, assassin, caster, berserk, lancer e rider, sendo que suas capacidades dependem de seus feitos em vida. Essa guerra em questão é conhecida como a Guerra de Fuyuki e ficou marcada como a mais brutal e violenta, onde acompanhamos a missão de Kiritsugu para alcançar a paz mundial.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+      "ordem": {
+        "conselho": "Fate/Zero é um prólogo de Fate/Stay night, fazendo com que venha em primeiro na ordem cronológica. Mas, eu pessoalmente acho mais interessante acompanhar essa série da seguinte forma (Inclusive esse também da pra ver de maneira idependente):",
+        "sequencia": [
+          19603,
+          20792,
+          10087,
+          11741,
+          20791,
+          21718,
+          21719
+        ]
+      },
       "data_lancamento": "02/10/2011",
       "estudio": [
         "ufotable"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 26,
+      "manual_status": "Finalizado"
     },
     {
       "id": 96,
@@ -3890,7 +4178,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "Hiato"
+      "manual_status": "Incompleto"
     },
     {
       "id": 124,
@@ -6118,28 +6406,33 @@
       "id": 210,
       "titulo_referencia": "Phoenix Wright: Ace Attorney − Spirit of Justice Prologue",
       "id_anilist": [
+        21360,
         101313,
-        97966,
-        21360
+        97966
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "mistério",
+        "comédia",
+        "drama",
+        "jogos mentais"
+      ],
+      "sinopse": "Phoenix é apenas um jovem promissor que sonha em defender pessoas inocentes nos julgamentos como o melhor advogado possível. O que será algo consideravelmente difícil quando todos os seus clientes são acusados de assassinato e do outro lado se encontra um promotor de extremo renome invicto com 3 testemunhas compradas, 2 provas forjadas e com o juiz dentro do bolso. Mas ele tem um dedo e ele vai PROTESTAR.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
-      "data_lancamento": "05/04/2016",
+      "data_lancamento": "02/04/2016",
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 211,
@@ -8320,11 +8613,21 @@
         162804,
         181641
       ],
-      "dublagem": "não dublado",
+      "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "ecchi",
+        "escolar",
+        "fofo",
+        "harém",
+        "meia-irmã é incesto?",
+        "slice of life"
+      ],
+      "sinopse": "Seirei Academy é uma das escola mais prestigiadas do Japão, onde só os melhores (e mais ricos) estudantes podem ter acesso. E entre esses alunos está Alya, a maior estrela da escola: inteligênte, elegante, russa, diciplinada e acima de tudo, cabelo colorido (literalmente um pokemon shiny). Só que existe uma coisa que capaz de abalar sua elegante rotina: um misterioso e preguiçoso colega que se senta ao seu lado, que por mais que ela tente discipliná-lo ou chamar sua atenção, ele simplesmente parece não se importar com sua presença ou fama, e algo que havia começado apenas por puro incomodo acaba se tornando uma obsessão e interesse pelo rapaz. Porém a frustração da garota acaba fazendo com que ela desabafe em voz alta e em russo, afinal quem é que saberia russo? ...Sim... ele mesmo.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -8333,11 +8636,11 @@
       "estudio": [
         "Doga Kobo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 298,
