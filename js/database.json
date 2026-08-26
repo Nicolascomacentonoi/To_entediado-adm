@@ -3477,7 +3477,9 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
+      "generos": [
+        "neo shounen"
+      ],
       "sinopse": null,
       "recomendacao": null,
       "onde_ver": [
@@ -3488,11 +3490,11 @@
       "estudio": [
         "David Production"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 97,
