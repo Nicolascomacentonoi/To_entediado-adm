@@ -3597,26 +3597,47 @@
       "id": 99,
       "titulo_referencia": "Full Metal Panic!",
       "id_anilist": [
-        71
+        71,
+        72,
+        73,
+        21451
       ],
-      "dublagem": "dublado",
+      "dublagem": "dublagem incompleta",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [
-        "Crunchyroll"
+      "generos": [
+        "militar",
+        "mecha",
+        "escolar",
+        "ação",
+        "comédia romântica",
+        "comedia",
+        "romance",
+        "ecchi",
+        "sci-fi"
       ],
-      "ordem": null,
+      "sinopse": "Mithril é uma organização militar secreta que protege o mundo de ameaças terroristas e de torcidas organizadas. Para isso, eles recrutam jovens soldados altamente treinados e os enviam em missões perigosas ao redor do mundo. Um desses soldados é Sousuke, um jovem soldado altamente treinado que é enviado para proteger Kaname, uma estudante do ensino médio que possui uma misteriosa habilidade de extremo valor, e que nem ela sabe que tem. Sousuke deve se infiltrar na escola de Kaname e protegê-la de qualquer ameaça enquanto enfrenta o maior terror de qualquer adolescente: se adaptar e sobreviver ao ensino médio.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+  
+      ],
+       "ordem": {
+        "conselho": "Esse anime possui 4 temporas, 3 sérias e ação e UMA de comédia, sendo que a unica que possui dublagem é a 2ª temporada (a de comédia)",
+        "sequencia": [
+                  71,
+        72,
+        73,
+        21451
+        ]
+      },
       "data_lancamento": "08/01/2002",
       "estudio": [
         "Gonzo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 100,
