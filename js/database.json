@@ -3473,7 +3473,11 @@
       "id": 96,
       "titulo_referencia": "Fire Force",
       "id_anilist": [
-        105310
+        105310,
+        114236,
+        149118,
+        179062,
+        3588
       ],
       "dublagem": "dublado",
       "filmes": 0,
@@ -3485,14 +3489,24 @@
         "super poderes",
         "sobrenatural",
         "ecchi",
-        "militar"
+        "militar",
+        "mistério",
+        "distopia"
       ],
-      "sinopse": null,
-      "recomendacao": null,
+      "sinopse": "A muito tempo atrás, misteriosamente a maior parte da humanidade foi simplesmente incinerada em um misterioso evento de combustão expontânea em massa, o que acabou forçando os sobreviventes a se reunirem em novas colonias naquele mundo de cinzas. Muitos anos depois, Tokyo é uma das poucas colonias que ainda restam no mundo que é alimentada por uma revolucionária fonte de energia perpétua. Porém, a capital ainda é assombrada com casos constantes de combustão expontanea que tranformam a vitima em uma espécie de zumbi flamejante, e como resposta a isso a capital conta com uma exepcional força de bombeiros capazes de confrontar esses seres usando seus misteriosos e relativamente comuns poderes de fogo. A história em questão acompanha a visão de um novo recruta apelidado de 'Pegadas do Diabo' que apenas quer se tornar um herói.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "Na verdade essa série é 100% idependente, mas só por curiosidade saiba que esse é um prólogo de Soul Eater, então... eu achei mais legal ver nessa ordem: ",
+        "sequencia": [        3588,105310,
+        114236,
+        149118,
+        179062
+
+        ]
+      },
       "data_lancamento": "06/07/2019",
       "estudio": [
         "David Production"
@@ -3500,20 +3514,32 @@
       "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
+      "manual_episodios": 73,
       "manual_status": "Finalizado"
     },
     {
       "id": 97,
       "titulo_referencia": "Food Wars!",
       "id_anilist": [
-        20923
+        20923,
+        21518,
+        99255,
+        100773,
+        109963,
+        114043
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "culinária",
+        "shounen",
+        "comédia",
+        "ecchi",
+        "escolar",
+        "harém"
+      ],
+      "sinopse": "Souma é filho de um grande chef de restaurante e sonha em herdar os negócios da família e superar seu pai. Só que derrepente, seu pai simplesmente some e suspende o restaurante, sugerindo que seu filho estude em uma academia gastronômica de elite alegando que só assim Souma conseguirá superá-lo. E depois de reclamar muito, ele decide que não vai só frequentar essa espelunca como vai virar o lugar de cabeça para baixo enquanto faz todos tirarem o chapéu... e as roupas (Seguinte, alguém achou que seria uma boa ideia que os 'impact frames' dos pratos fossem representados por gente sem roupa)",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll",
         "Netflix"
@@ -3523,23 +3549,36 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 98,
       "titulo_referencia": "Frieren: Beyond Journey’s End",
       "id_anilist": [
-        154587
+        154587,
+        182255,
+        209939
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "aventura",
+        "drama",
+        "ação",
+        "magia",
+        "comédia",
+        "romance",
+        "family friendly",
+        "fem-protag",
+        "fofo"
+      ],
+      "sinopse": " Depois de 10 longos anos de aventuras, Himmel e seus amigos retornam vitoriosos após finalmente derrotarem o Rei Demônio. Porém, o quão demorado pode ser 10 anos? Para Frieren, a maga elfa do grupo dos Heróis, esse tempo não representa nem 1% de sua expectativa de vida. O tempo continua passando e Frieren testemunha seus amigos envelhecendo tão rapido quanto estudantes de computação, até que Himmel finalmente morre de velhice. Após a morte seu querido amigo, Frieren começa a perceber o quanto ela se arrepende de não ter aproveitado esse curto tempo que ela poderia ter passado ao lado de Himmel. Agora pela primeira vez determinada, Frieren decide embarcar em uma jornada para buscar se redimir com Himmel no mundo dos mortos enquanto aprende a apreciar melhor os breves momentos ao lado das pessoas que ama. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3548,11 +3587,11 @@
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 99,
