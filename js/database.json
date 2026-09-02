@@ -107,6 +107,7 @@
       "generos": [
         "shounen",
         "sci-fi",
+        "fantasia moderna",
         "magia",
         "sobrenatural",
         "paranormal",
@@ -142,6 +143,7 @@
       "generos": [
         "paranormal",
         "sci-fi",
+        "fantasia moderna",
         "magia",
         "ação",
         "comédia",
@@ -247,6 +249,7 @@
       "filmes": 0,
       "generos": [
         "fantasia",
+        "fantasia moderna",
         "escolar",
         "ecchi",
         "harém",
@@ -440,7 +443,7 @@
       "generos": [
         "administração",
         "comédia",
-        "fantasia",
+        "fantasia moderna",
         "drama",
         "ecchi"
       ],
@@ -532,6 +535,7 @@
       "generos": [
         "drama",
         "escolar",
+        "fantasia moderna",
         "ação",
         "mistério",
         "romance",
@@ -1240,8 +1244,9 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [
+      "generos": ["fantasia moderna",
         "sobrenatural",
+        
         "ação",
         "paranormal",
         "sci-fi",
@@ -1278,6 +1283,7 @@
       "generos": [
         "comédia",
         "sobrenatural",
+        "fantasia moderna",
         "ação",
         "romance",
         "ecchi",
@@ -1758,6 +1764,7 @@
       "filmes": 0,
       "generos": [
         "shounen",
+        "fantasia moderna",
         "ecchi",
         "comédia",
         "comédia romântica",
@@ -1894,7 +1901,7 @@
       "filmes": 0,
       "generos": [
         "romance",
-        "fantasia",
+        "fantasia moderna",
         "escolar",
         "ação",
         "harém",
@@ -2587,7 +2594,7 @@
       "filmes": 0,
       "generos": [
         "harém",
-        "fantasia",
+        "fantasia moderna",
         "ação",
         "romance",
         "ecchi",
@@ -2907,6 +2914,7 @@
       "filmes": 21,
       "generos": [
         "shounen",
+        "fantasia moderna",
         "aventura",
         "ação",
         "comédia",
@@ -3484,6 +3492,7 @@
       "generos": [
         "neo shounen",
         "shounen",
+        "fantasia moderna",
         "ação",
         "comédia",
         "super poderes",
@@ -3610,7 +3619,7 @@
         "escolar",
         "ação",
         "comédia romântica",
-        "comedia",
+        "comédia",
         "romance",
         "ecchi",
         "sci-fi"
@@ -3643,26 +3652,43 @@
       "id": 100,
       "titulo_referencia": "Full-Time Magister",
       "id_anilist": [
-        99200
+        99200,
+        100294,
+        104745,
+        115800,
+        122671,
+        137726,
+        206354
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "fantasia moderna",
+        "magia",
+        "ação",
+        "mistério",
+        "escolar",
+        "family friendly",
+        "harém",
+        "shounen",
+        "super poderes"
+      ],
+      "sinopse": "Misteriosamente após ser transportado para outro mundo, Mo fan se encontra em um mundo beeem similar ao de onde pertence, onde sua vida continua pobre e miserável, com um pequeno diferencial de que aquele mundo possui magos, magia e magos que soltam magias. Chegando em sua nova escola, Mo fan descobre que todos possuem um certo nivel de compatibilidade magica, e que eles teriam que descobrir ao alisar uma bola magica. Quando chega sua vez, a turma acaba se distraindo com um aluno de outra turma com um poder muito raro, e enquanto isso, nosso protagonista tira um poder mais raro ainda. Agora Mo fan desenvolve o objetivo de se tornar um mago bem sucedido para sair da miséria enquanto descobre sobre os misterios por traz de seu isekai.",
+      "recomendacao": "Chinês",
       "onde_ver": [
-        "Crunchyroll"
+        
       ],
       "ordem": null,
       "data_lancamento": "01/09/2016",
       "estudio": [
         "Foch Films"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 101,
@@ -3671,10 +3697,18 @@
         5114
       ],
       "dublagem": "dublado",
-      "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 1,
+      "generos": [
+        "paranormal",
+        "ação",
+        "magia",
+        "drama",
+        "mistério",
+        "militar",
+        "sobrenatural"
+      ],
+      "sinopse": "'Nossa mãe morreu, mas e se tipo, a gente ressucitar ela? O que pode dar de errado?'(Deu MUITO errado). O alquimista de aço é o titulo que Edward Elric carrega como um dos alquimistas mais promissores da nação e que trabalha para o exército junto de seu irmão Alphonse. Porém oque eles escondem é seu verdadeiro objetivo de alcançar a pedra filosofal para finalmente recuperarem o que perderam naquele dia trágico. Porém eles descobrem que os misterios da alquimia vão muito além do que eles imaginam e que existe um grande perigo rastejando sobre as sombras da capital.",
+      "recomendacao": "Máxima prioridade",
       "onde_ver": [
         "Crunchyroll",
         "Netflix"
@@ -3684,11 +3718,11 @@
       "estudio": [
         "Bones"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 102,
@@ -3698,9 +3732,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "escolar",
+        "sobrenatural",
+        "slice of life",
+        "fofo",
+        "fem-protag",
+        "isekai reverso"
+      ],
+      "sinopse": "Um dos anjos mais promissores do Céu, Gabriel, decide descer pessoalmente à Terra para fazer uma pesquisa de campo e estudar mais sobre os seres humanos e expalhar a palavra do Senhor. Alguns meses se passam e Grabriel se encontra... Jogando LOL? Infelizmente parece que nossa querida anja acabou sendo corrompida pelos prazeres e mordomias da civilização, e agora se considera um anjo caido que se recusa a voltar para suas tarefas chatas. Uma situação tão deplorável e inesperada que até Vignette, uma literal demônio, acaba se incomadando com o jeito de Gabriel, ao ponto de tentar purificar-la de volta. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3709,23 +3751,35 @@
       "estudio": [
         "Doga Kobo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 103,
       "titulo_referencia": "Gachiakuta",
       "id_anilist": [
-        178025
+        178025,
+        204436
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "neo shounen",
+        "ação",
+        "comédia",
+        "distopia",
+        "drama",
+        "fantasia moderna",
+        "mistério",
+        "super poderes",
+        "sobrenatural",
+        "sci-fi"
+      ],
+      "sinopse": "Rudo é um jovem catador de lixo que vive sua vida roubando e reciclado tralha dos ricos de Florianopolis (ou coisa do tipo). Sua vida é bem precária e sofrida, mas ele tem o que mais importa no fim do dia: Família e amigos. Bom, pelo menos até seu pai ser brutalmente assassinado em sua frente, seus amigos abandonarem ele e ainda ser acusado pelo assassinato. Para finalizar com a cereja do bolo, Rudo é condenado ao exilio do Pariso e recebe uma confortável viagem de 3 km de pura queda livre direto para o inferno. Só que para sua surpresa (e nossa), Rudo sobrevive e percebe que ele acabou indo para um lugar pior o inferno: o Brás, onde acaba descobrindo a existencia de gigantes monstros. Quando tudo parecia perdido, um estiloso homem aparece e resgata Rudo usando um misterioso poder, depois ele acaba explicando como as coisas funcionam no mundo inferior: é cada um por si e cuidado com pessoas que querem saber mais sobre o paraíso. Diante dessa nova situação, Rudo decide se juntar aos 'Faixineiros' e lutar ao lado deles junto de seu novo poder de transformar qualquer objeto em uma arma especial.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3734,11 +3788,11 @@
       "estudio": [
         "Bones"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 104,
@@ -6241,7 +6295,7 @@
       ],
       "classificacao_indicativa": null,
       "manual_titulo": null,
-      "manual_capa": null,
+      "manual_capa": "imagens_manuais/One piece.jpg",
       "manual_episodios": null,
       "manual_status": null
     },
