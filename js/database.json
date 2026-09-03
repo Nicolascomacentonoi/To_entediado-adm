@@ -3802,9 +3802,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "escolar",
+        "videogames",
+        "harém",
+        "slice of life"
+      ],
+      "sinopse": "Tal qual um milagre, a garota mais bonita da escola vem até você para te convidar para participar do clube de videogames que ela está montando. Algo que seria um sonho para qualquer gamer existente acaba se tornando uma situação desesperadora para Keita Amano, um rapaz extremamente tímido e socialmente desajustado. Agora somos forçados a acompanhar esse cabaço saindo da toca para explorar o mundo do games junto de sua colega convenientemente linda e que convenintemente da bola pra ele",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3813,23 +3821,34 @@
       "estudio": [
         "Pine Jam"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 105,
       "titulo_referencia": "Gate",
       "id_anilist": [
-        20994
+        20994,
+        21364,
+        195496
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia moderna",
+        "comédia",
+        "ação",
+        "militar",
+        "fantasia",
+        "ecchi",
+        "isekai",
+        "isekai reverso"
+      ],
+      "sinopse": "De forma misteriosa e repentina, um gigante portal se abre no meio da ciadade de Tokyo e libera diversas criaturas e montros mágicos de outro mundo. 3 meses após a contensão do desastre, o governo começa a enviar equipes de expedição para o outro mundo para estabelecer conexões e decidir se um guerra seria o unico caminho. E Youji é o escolhido para liderar essa equipe, um sargento capaz e discplinado que é secretamente um otaku que adora mundos de fantasia, e agora cabe a esse homem estabelecer a coexistência entre os dois mundos.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3838,11 +3857,11 @@
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 106,
