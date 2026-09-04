@@ -3867,26 +3867,61 @@
       "id": 106,
       "titulo_referencia": "Gintama",
       "id_anilist": [
-        918
+        918,
+        7472,
+        9969,
+        15417,
+        15335,
+        20996,
+        97889,
+        99714,
+        100784,
+        101925,
+        126819,
+        114129
       ],
       "dublagem": "não dublado",
       "filmes": 10,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "brainrot",
+        "fantasia moderna",
+        "sci-fi",
+        "sobrenatural",
+        "ação",
+        "slice of life"
+      ],
+      "sinopse": "O japão feudal é invadido e dominado por forças alienígenas, que passam a governar o país pelas sombras e suprimir suas forças, banindo todas as armas brancas. Gintoki é um exentrico ronin com sua espada de madeira que possui uma agencia de Faz tudo, onde que por sua vez acaba atraindo mais dois companheiros tão esquisitos quanto: um aprendiz de samurai nerdola, e uma alienigena de força e apetite sobre humanos. Juntos eles formam a força de tarefa mais caótica e instavel da galaxia.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "Seguinte, esse daqui tem MUIIITO filler, então se você queiser uma experiência otimizada, eu recomndo você seguir esse guia para os ep:https://ovicio.com.br/guia-como-assistir-gintama-em-ordem-cronologica-sem-fillers/",
+        "sequencia": [        918,
+        7472,
+        9969,
+        15417,
+        15335,
+        20996,
+        97889,
+        99714,
+        100784,
+        101925,
+        126819,
+        114129
+
+        ]
+      },
       "data_lancamento": "04/04/2006",
       "estudio": [
         "Sunrise"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 107,
@@ -3894,11 +3929,20 @@
       "id_anilist": [
         108241
       ],
-      "dublagem": "não dublado",
+      "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "mistério",
+        "ação",
+        "super poderes",
+        "ecchi",
+        "romance",
+        "drama"
+
+      ],
+      "sinopse": "Repentinamente Shuuichi recebe um misterioso poder capaz de transforma-lo em uma espécie de fantasia de mascote super poderosa. E afim de manter esse segredo, ele opta por esconder isso o maximo possível. Isso até que Claire Aoki, uma garota que tinha acabado de ser salva pelo mascote, descobre a identidade do rapaz e ameaça expor sua identidade caso não ajude ela. Agora ambos buscam saber a verdade por trás do desaparecimento da irmã de Claire e da origem dos poderes de Shuuichi.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3907,11 +3951,11 @@
       "estudio": [
         "Pine Jam"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 108,
@@ -3921,9 +3965,17 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "good vibes",
+        "violência",
+        "ação",
+        "fantasia",
+        "aventura",
+        "drama",
+        "tensão"
+      ],
+      "sinopse": "Após testemunhar o brutal fim de tudo que amava nas mãos de goblins, um jovem sem nome acaba sendo adotado por misterioso Guru que viu potencial em seu ódio e determinação. Após anos de intenso treinamento, o jovem começa sua jornada para limpar o mundo dessa maligna praga que é comumente subestimada devido sua aparencia. Essa não é uma hitória de um aventureiro, mas sim de um Caçador de Goblins (PS: O anime deu um belo destaque nas cenas de amor desprovido de consentimento, o que é validamente um ponto bem desconfortável. Por isso eu recomendo o mangá.)",
+      "recomendacao": "Veja o mangá",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3932,11 +3984,11 @@
       "estudio": [
         "White Fox"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 109,
@@ -3946,32 +3998,47 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "romance",
+        "harém",
+        "ecchi",
+        "aventura",
+        "educativo"
+      ],
+      "sinopse": "Kintarou é um jovem mochileiro que viaja pelo Japão em sua irada bike em busca de experiências que não se adiquiri nas escolas. Especialista em quase todo tipo de trabalho de meio período, ele vive se esgueirando atrás de rabos de saia enquanto acaba em diferentes empregos, onde por mais que ele não consiga se manter por muito tempo devido sua personalidade, ele sempre acaba aprendendo alguma coisa nova.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [],
       "ordem": null,
       "data_lancamento": "28/10/1995",
       "estudio": [
-        "J.C.Staff"
+        "APPP"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 110,
       "titulo_referencia": "Grand Blue Dreaming",
       "id_anilist": [
-        100922
+        100922,
+        182309,
+        199111
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "ecchi",
+        "escolar",
+        "romance",
+        "slice of life"
+      ],
+      "sinopse": "Iori é um jovem que está prestes a estreiar sua vida universitária em uma cidade costeira onde seu tio possui uma loja de mergulho, na qual ele pretende se hospedar. Porém, ao chegar no local ele acaba se deparando com uma bizarra festa dos membros do clube de mergulho da mesma universidade dele, onde todos parecem beber vodka como se fosse água enquanto... nus. Bom, a vida é só uma, então Iori acaba se enturmando e participando do excentrico clube junto de seu novo amigo otaku e sua 'meia' prima tsundere. (Eu particularmente prefiro bem mais o mangá, mas o anime é bom tb).",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -3980,11 +4047,11 @@
       "estudio": [
         "Zero-G"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 111,
