@@ -4057,13 +4057,21 @@
       "id": 111,
       "titulo_referencia": "Great Pretender",
       "id_anilist": [
-        110349
+        110349,
+        170935
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "jogos mentais",
+        "aventura",
+        "ação",
+        "comédia",
+        "drama",
+        "mistério"
+      ],
+      "sinopse": "makoto é um jovem vigarista que vive de bater carteiras e enganar as pessoas, algo na qual ele é extremamente bom. Porém como a vida não é um morango, ele acaba sendo superado por um turista misterioso que inverte os papéis e chantageia o garoto. Agora sem opção, Makoto terá que apostar sua vida em um duelo de vigaristagens e ver quem é o maior vigarista no fim do dia. Isso é claro, enquanto ambos tentam enganar a própria Yakuza.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -4072,11 +4080,11 @@
       "estudio": [
         "Wit Studio"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 112,
