@@ -123,7 +123,12 @@
     },
     {
       "Nome": "harém",
-      "Descrição": "Sim-Sim, com certeza 5 garotas estão apaixonadas por esse cara, eu acredito",
+      "Descrição": "Não consegue escolher uma? E que tal todas? ",
+      "Imagem": ""
+    },
+        {
+      "Nome": "histórico",
+      "Descrição": "Animes que buscam retratar momentos históricos da nossa realidade, geralmente em um passado distante ou em alguma distorção dele",
       "Imagem": ""
     },
     {

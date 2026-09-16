@@ -4057,13 +4057,21 @@
       "id": 111,
       "titulo_referencia": "Great Pretender",
       "id_anilist": [
-        110349
+        110349,
+        170935
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+                "jogos mentais",
+        "aventura",
+        "ação",
+        "comédia",
+        "drama",
+        "mistério"
+      ],
+      "sinopse": "Makoto é um jovem vigarista que vive de bater carteiras e enganar as pessoas, algo na qual ele é extremamente bom. Porém como a vida não é um morango, ele acaba sendo superado por um turista misterioso que inverte os papéis e chantageia o garoto. Agora sem opção, Makoto terá que apostar sua vida em um duelo de vigaristagens e ver quem é o maior vigarista no fim do dia. Isso é claro, enquanto ambos tentam enganar a própria Yakuza.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -4072,11 +4080,11 @@
       "estudio": [
         "Wit Studio"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 112,
@@ -4084,11 +4092,20 @@
       "id_anilist": [
         245
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "ação",
+        "delinquente",
+        "drama",
+        "ecchi",
+        "educativo",
+        "escolar",
+        "porrada"
+      ],
+      "sinopse": "Eikichi Onizuka é um jovem adulto que possui o sonho de se tornar o maior professor do Japão. Um lindo sonho, mas com o depravado objetivo de pegar garotas jovens (ele tem 22 e elas 17... sei lá é meio esquisito mesmo). Porém ao chegar em sua primeria sala de aula, o jovem professor acaba se deparando com a pior e mais problematica sala de aula do estado, com o histórico de ameaçar e enlouquecer qualquer professor que ja tenha pisado por lá. Isso é, até eles conhecerem seu novo professor e Ex-delinquente, que decide tomar as rédeas dessa sala de aula do seu jeito, mesmo que para isso ele tenha que pular de contruções para salvar um aluno suicida. (Classico plot de Turma problemática x Professor problemático).",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4097,91 +4114,128 @@
       "estudio": [
         "Pierrot"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 113,
       "titulo_referencia": "Gurren Lagann",
       "id_anilist": [
-        2001
+        2001,
+        4107,
+        4565
       ],
       "dublagem": "dublado",
-      "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 2,
+      "generos": [
+        "mecha",
+        "aventura",
+        "ação",
+        "comédia","distopia",
+        "drama",
+        "ecchi",
+        "paranormal",
+        "romance",
+    "sci-fi",
+    "shounen",
+    "super poderes"
+        ]
+      ,
+    "sinopse": "Em um mundo onde a humanidade só conhece a escuriadão e sujeira do subsolo, Simon é apenas um jovem minerador talentoso e sem ambições que vive sendo atormentado por seu colega Kamina, que possui a ambição de subir até a superficie e conquistar sua liberdade. Porém tudo muda quando Simon acaba encontrando um mini meacha soterrado e subtamente tem sua vila invadida por uma fera gigante, onde ele é forçado a usar seu novo brinquedo para proteger sua casa e amigos. Agora, lideres da tropa de resistência, Simon e Kamina se unem aos rebeldes para tomar a Terra de volta das mãos das bestas-humanoides, usando seus mecchas roubados e sua determinação espiral.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "Bom, aqui você possui 3 opções: Ver o anime, Ver os 2 filmes (Remake do anime) ou ver tudo. Eu recomendo a ultima opção, mas ai vai do sua disposição: ",
+        "sequencia": [
+                  2001,
+        4107,
+        4565
+        ]
+      },
       "data_lancamento": "01/04/2007",
       "estudio": [
         "Gainax"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 27,
+      "manual_status": "Finalizado"
     },
     {
       "id": 114,
       "titulo_referencia": "Hajime no Ippo: The Fighting!",
       "id_anilist": [
-        19647,
-        5258,
         263,
-        12069,
-        264,
-        265
+        5258,
+        19647
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "porrada",
+        "ação",
+        "comédia",
+        "drama",
+        "esporte",
+        "romance"
+      ],
+      "sinopse": "Ippo é um bom e pacato estudante do ensino médio, sem muitas ambições e sempre ajudando sua mãe a administrar sua loja de pescaria. Infelizmente, sua honestidade e gentileza acaba tornando-o um alvo perfeito de bulling escolar, o que torna a vida do rapaz ainda mais dificil. Porém tudo muda quando um misterioso homem aparece, ele salva Ippo dos valentões e mostra para o jovem o potencial que o Boxe pode despertar em uma pessoa. Intrigado e inspirado, Ippo decide dar uma chance para o esporte enquanto descobre uma nova ambição e um talento nigualável para descer vagabundo na porrada.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
-        "Crunchyroll"
+        "Netflix" 
       ],
       "ordem": null,
       "data_lancamento": "04/10/2000",
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 115,
       "titulo_referencia": "Handa-kun",
       "id_anilist": [
-        21626
+        21626,
+        20722
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Handa é conhecido por toda a escola como o aluno de mais alto nível social, um rapaz charmoso, inteligente, talentoso e acima de tudo: Frio como o gelo. Porém a realidade é que Handa é extremamente paranóico e inseguro, e confude sua fama e apreciação com desprezo e bulling. Uma engraçada história de maus entendidos e jovens extremamente densos e burros.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "A obra em si é um prequel de Barakamon, mas ambas são perfeitamente independentes:",
+        "sequencia": [
+                  21626,
+        20722
+        ]
+      },
       "data_lancamento": "08/07/2016",
       "estudio": [
         "Diomedéa"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
     },
     {
       "id": 116,
@@ -4221,9 +4275,13 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Sakamoto é um jovem perfeito: bonito, inteligente, elegeante e misterioso. Desde seu primeiro dia de aula ele já havia conquistado o amor de todas as garotas e a inveja de todos os garotos. Será que Sakamoto conseguirá manter sua aura contra as pegadinhas e presepadas de seus colegas excentricos?  ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4232,23 +4290,37 @@
       "estudio": [
         "Deen"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 118,
       "titulo_referencia": "Hell’s Paradise",
       "id_anilist": [
-        128893
+        128893,
+        166613
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ação",
+        "aventura",
+        "histórico",
+        "drama",
+        "ecchi",
+        "good vibes",
+        "mistério",
+        "paranormal",
+        "romance",
+        "shounen",
+        "super poderes",
+        "sobrenatural"
+      ],
+      "sinopse": "Após ouvir os boatos sobre uma ilha misteriosa com propriedades mítsticas, o shogum enfim ordena uma expedição de pequena escala para a ilha, contendo 12 criminosos sentenciados à morte e 12 guardas para vigiar cada prisioneiro. O objetivo da expedição é usar peões descartaveis para encontrar o exilir da imortalidade para o shogum, e para aquele que o achar, a sentença de morte seria revogada. Entre esses peões se encontra Gabimaru, o ninja mais temido do país, que por algum motivo havia se entregado e buscava a sentença de morte, o que ninguém foi capaz de conceder-lhe (sim, tentaram matar o cara de tadas as formas e n conseguiram). Isso até que uma executora aparece e o convence de que ele ainda tem motivos para viver, e que para isso, ele terá que acompanhar-la até a ilha amaldiçoada. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4257,11 +4329,11 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 119,
