@@ -4343,9 +4343,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "romance",
+        "comédia romântica",
+        "hárem",
+        "escolar",
+        "mistério",
+        "meia-irmã é incesto?"
+      ],
+      "sinopse": "Nosso querido Keiki Kiryuu, assim como nós, sempre sonhou em receber cartinhas de amor e viver um lindo romance. O que realmente acontece! Keiki finalmente recebe uma carta de amor de uma adimiradora secreta, acompanahada de uma... calcinha? Bom, essa é a história sobre a bizarra jornada de Keiki para encontra a (respira fundo) cinderela da calcinha perdida, enquanto acaba descobrindo os estranhos segredos envolvendo os fetiches de suas amigas próximas. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4354,11 +4362,11 @@
       "estudio": [
         "Geek Toys"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 120,
@@ -4369,9 +4377,18 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "videogames",
+        "romance",
+        "comédia",
+        "comédia romântica",
+        "cgi",
+        "escolar",
+        "fofo",
+        "slice of life"
+      ],
+      "sinopse": "O ano é 1991, uma época onde a industria dos videogames se resumia a fliperamas e consoles arcaicos que eram limitados a jogos 2D. Nesse contexto, Haruno era mais um dos apaixonados por videogames que passavam o dia inteiro jogando em fliperamas e fazendo seu nome em duelos em jogos de luta. Porém, pela primeira vez, Haruno acaba sendo amassado por um oponente que se mostrava ser extremamente habilidoso no Street Fighter 2. E ainda mais surpreendente que isso, esse oponente não era nada menos que Akira, a garota perfeita de sua sala, o que só faz a indiguinação de Haruno crescer ainda mais. Acompanhe essa rivalidade fofa entre nerdolas enquanto desfruta dessa vibe nostalgica.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -4380,11 +4397,11 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 121,
