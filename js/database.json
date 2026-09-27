@@ -4063,14 +4063,14 @@
       "dublagem": "dublado",
       "filmes": 0,
       "generos": [
-        "jogos mentais",
+                "jogos mentais",
         "aventura",
         "ação",
         "comédia",
         "drama",
         "mistério"
       ],
-      "sinopse": "makoto é um jovem vigarista que vive de bater carteiras e enganar as pessoas, algo na qual ele é extremamente bom. Porém como a vida não é um morango, ele acaba sendo superado por um turista misterioso que inverte os papéis e chantageia o garoto. Agora sem opção, Makoto terá que apostar sua vida em um duelo de vigaristagens e ver quem é o maior vigarista no fim do dia. Isso é claro, enquanto ambos tentam enganar a própria Yakuza.",
+      "sinopse": "Makoto é um jovem vigarista que vive de bater carteiras e enganar as pessoas, algo na qual ele é extremamente bom. Porém como a vida não é um morango, ele acaba sendo superado por um turista misterioso que inverte os papéis e chantageia o garoto. Agora sem opção, Makoto terá que apostar sua vida em um duelo de vigaristagens e ver quem é o maior vigarista no fim do dia. Isso é claro, enquanto ambos tentam enganar a própria Yakuza.",
       "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
@@ -4092,11 +4092,20 @@
       "id_anilist": [
         245
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "ação",
+        "delinquente",
+        "drama",
+        "ecchi",
+        "educativo",
+        "escolar",
+        "porrada"
+      ],
+      "sinopse": "Eikichi Onizuka é um jovem adulto que possui o sonho de se tornar o maior professor do Japão. Um lindo sonho, mas com o depravado objetivo de pegar garotas jovens (ele tem 22 e elas 17... sei lá é meio esquisito mesmo). Porém ao chegar em sua primeria sala de aula, o jovem professor acaba se deparando com a pior e mais problematica sala de aula do estado, com o histórico de ameaçar e enlouquecer qualquer professor que ja tenha pisado por lá. Isso é, até eles conhecerem seu novo professor e Ex-delinquente, que decide tomar as rédeas dessa sala de aula do seu jeito, mesmo que para isso ele tenha que pular de contruções para salvar um aluno suicida. (Classico plot de Turma problemática x Professor problemático).",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4105,91 +4114,128 @@
       "estudio": [
         "Pierrot"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 113,
       "titulo_referencia": "Gurren Lagann",
       "id_anilist": [
-        2001
+        2001,
+        4107,
+        4565
       ],
       "dublagem": "dublado",
-      "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 2,
+      "generos": [
+        "mecha",
+        "aventura",
+        "ação",
+        "comédia","distopia",
+        "drama",
+        "ecchi",
+        "paranormal",
+        "romance",
+    "sci-fi",
+    "shounen",
+    "super poderes"
+        ]
+      ,
+    "sinopse": "Em um mundo onde a humanidade só conhece a escuriadão e sujeira do subsolo, Simon é apenas um jovem minerador talentoso e sem ambições que vive sendo atormentado por seu colega Kamina, que possui a ambição de subir até a superficie e conquistar sua liberdade. Porém tudo muda quando Simon acaba encontrando um mini meacha soterrado e subtamente tem sua vila invadida por uma fera gigante, onde ele é forçado a usar seu novo brinquedo para proteger sua casa e amigos. Agora, lideres da tropa de resistência, Simon e Kamina se unem aos rebeldes para tomar a Terra de volta das mãos das bestas-humanoides, usando seus mecchas roubados e sua determinação espiral.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "Bom, aqui você possui 3 opções: Ver o anime, Ver os 2 filmes (Remake do anime) ou ver tudo. Eu recomendo a ultima opção, mas ai vai do sua disposição: ",
+        "sequencia": [
+                  2001,
+        4107,
+        4565
+        ]
+      },
       "data_lancamento": "01/04/2007",
       "estudio": [
         "Gainax"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 27,
+      "manual_status": "Finalizado"
     },
     {
       "id": 114,
       "titulo_referencia": "Hajime no Ippo: The Fighting!",
       "id_anilist": [
-        19647,
-        5258,
         263,
-        12069,
-        264,
-        265
+        5258,
+        19647
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "porrada",
+        "ação",
+        "comédia",
+        "drama",
+        "esporte",
+        "romance"
+      ],
+      "sinopse": "Ippo é um bom e pacato estudante do ensino médio, sem muitas ambições e sempre ajudando sua mãe a administrar sua loja de pescaria. Infelizmente, sua honestidade e gentileza acaba tornando-o um alvo perfeito de bulling escolar, o que torna a vida do rapaz ainda mais dificil. Porém tudo muda quando um misterioso homem aparece, ele salva Ippo dos valentões e mostra para o jovem o potencial que o Boxe pode despertar em uma pessoa. Intrigado e inspirado, Ippo decide dar uma chance para o esporte enquanto descobre uma nova ambição e um talento nigualável para descer vagabundo na porrada.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
-        "Crunchyroll"
+        "Netflix" 
       ],
       "ordem": null,
       "data_lancamento": "04/10/2000",
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 115,
       "titulo_referencia": "Handa-kun",
       "id_anilist": [
-        21626
+        21626,
+        20722
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Handa é conhecido por toda a escola como o aluno de mais alto nível social, um rapaz charmoso, inteligente, talentoso e acima de tudo: Frio como o gelo. Porém a realidade é que Handa é extremamente paranóico e inseguro, e confude sua fama e apreciação com desprezo e bulling. Uma engraçada história de maus entendidos e jovens extremamente densos e burros.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+       "ordem": {
+        "conselho": "A obra em si é um prequel de Barakamon, mas ambas são perfeitamente independentes:",
+        "sequencia": [
+                  21626,
+        20722
+        ]
+      },
       "data_lancamento": "08/07/2016",
       "estudio": [
         "Diomedéa"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
     },
     {
       "id": 116,
@@ -4229,9 +4275,13 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Sakamoto é um jovem perfeito: bonito, inteligente, elegeante e misterioso. Desde seu primeiro dia de aula ele já havia conquistado o amor de todas as garotas e a inveja de todos os garotos. Será que Sakamoto conseguirá manter sua aura contra as pegadinhas e presepadas de seus colegas excentricos?  ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4240,23 +4290,37 @@
       "estudio": [
         "Deen"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 118,
       "titulo_referencia": "Hell’s Paradise",
       "id_anilist": [
-        128893
+        128893,
+        166613
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ação",
+        "aventura",
+        "histórico",
+        "drama",
+        "ecchi",
+        "good vibes",
+        "mistério",
+        "paranormal",
+        "romance",
+        "shounen",
+        "super poderes",
+        "sobrenatural"
+      ],
+      "sinopse": "Após ouvir os boatos sobre uma ilha misteriosa com propriedades mítsticas, o shogum enfim ordena uma expedição de pequena escala para a ilha, contendo 12 criminosos sentenciados à morte e 12 guardas para vigiar cada prisioneiro. O objetivo da expedição é usar peões descartaveis para encontrar o exilir da imortalidade para o shogum, e para aquele que o achar, a sentença de morte seria revogada. Entre esses peões se encontra Gabimaru, o ninja mais temido do país, que por algum motivo havia se entregado e buscava a sentença de morte, o que ninguém foi capaz de conceder-lhe (sim, tentaram matar o cara de tadas as formas e n conseguiram). Isso até que uma executora aparece e o convence de que ele ainda tem motivos para viver, e que para isso, ele terá que acompanhar-la até a ilha amaldiçoada. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4265,11 +4329,11 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 119,
@@ -4279,9 +4343,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "romance",
+        "comédia romântica",
+        "hárem",
+        "escolar",
+        "mistério",
+        "meia-irmã é incesto?"
+      ],
+      "sinopse": "Nosso querido Keiki Kiryuu, assim como nós, sempre sonhou em receber cartinhas de amor e viver um lindo romance. O que realmente acontece! Keiki finalmente recebe uma carta de amor de uma adimiradora secreta, acompanahada de uma... calcinha? Bom, essa é a história sobre a bizarra jornada de Keiki para encontra a (respira fundo) cinderela da calcinha perdida, enquanto acaba descobrindo os estranhos segredos envolvendo os fetiches de suas amigas próximas. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4290,11 +4362,11 @@
       "estudio": [
         "Geek Toys"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 120,
@@ -4305,9 +4377,18 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "videogames",
+        "romance",
+        "comédia",
+        "comédia romântica",
+        "cgi",
+        "escolar",
+        "fofo",
+        "slice of life"
+      ],
+      "sinopse": "O ano é 1991, uma época onde a industria dos videogames se resumia a fliperamas e consoles arcaicos que eram limitados a jogos 2D. Nesse contexto, Haruno era mais um dos apaixonados por videogames que passavam o dia inteiro jogando em fliperamas e fazendo seu nome em duelos em jogos de luta. Porém, pela primeira vez, Haruno acaba sendo amassado por um oponente que se mostrava ser extremamente habilidoso no Street Fighter 2. E ainda mais surpreendente que isso, esse oponente não era nada menos que Akira, a garota perfeita de sua sala, o que só faz a indiguinação de Haruno crescer ainda mais. Acompanhe essa rivalidade fofa entre nerdolas enquanto desfruta dessa vibe nostalgica.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -4316,23 +4397,36 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 121,
       "titulo_referencia": "High School DxD",
       "id_anilist": [
-        11617
+        11617,
+        15451,
+        20745,
+        97767
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "harém",
+        "ação",
+        "comédia",
+        "comédia romântica",
+        "escolar",
+        "sobrenatural",
+        "super poderes",
+        "romance"
+      ],
+      "sinopse": "Issei, assim como qualquer adolescente no auge da puberdade, só consegue pensar em safadezas e em se divertir com os amigos, vivendo tranquilamente como um estudante comum. Isso é, até que surpreendentemente uma linda garota se declara para Issei e pede para sair com o rapaz, que obviamente não hesita em aceitar. E o que parecia bom demais para ser verdade era realmente bom de mais para ser verdade, pois a garota se revela ser um anjo que só estava em busca da vida do garoto por considerar sua existencia 'muito perigosa'. Porém o plano é interrompido por Rias Gremory, a aluna modelo da mesma escola de Issei, que se revela ser uma demonio de alto nivel e salva o rapaz propondo um pacto para ele se tornar seu servo. Eu poderia me estender explicando como os mestres servos possuem poderes baseados em xadrez e como o protagonista possui um poder unico, mas a verdade é que ninguém liga para isso e a fanbase só ta lá pela safadeza desenfreada que se sucede.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4341,11 +4435,11 @@
       "estudio": [
         "TNK"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 122,
@@ -4353,11 +4447,18 @@
       "id_anilist": [
         8074
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "harém",
+        "distopia",
+        "ação",
+        "romance",
+        "violência","tensão"
+      ],
+      "sinopse": "O quão sensual pode ser uma apocalipse zumbi? A história acompanha a tragetória de um grupo de estudantes sobreviventes, que parecem mais aflingidos por triangulos amorosos do que os zumbis em si.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4366,23 +4467,33 @@
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 123,
       "titulo_referencia": "Horimiya",
       "id_anilist": [
-        124080
+        124080,
+        163132
+
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "escolar",
+        "slice of life",
+        "fofo",
+        "comédia",
+        "comédia romântica"
+
+      ],
+      "sinopse": "Hori é uma estudante de alto prestigio, sendo conhecida por sua carisma, inteligencia e beleza. Só que por trás disso, Hori esconde um lado caseiro e 'rustico' que tem vergonha de mostrar aos seus amigos. Porém seu segredo é comprometido assim que seu irmãozinho acaba levando um misterioso rapaz de tatuagens e piercings que revela ser na verdade so colega quieto e reservado de Hori: Miyamura. Parece que não era só a garota que escondia um lado selvagem. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4391,7 +4502,7 @@
       "estudio": [
         "CloverWorks"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
@@ -4405,9 +4516,13 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "ecchi",
+        "fem-protag"
+      ],
+      "sinopse": "Hibiki é uma garota que não possui auto controle quando o assunto é comida, o que acaba se voltando contra ela na briga contra a balança. Determinada a manter o shape, a garota decide se matricular em uma academia famosa chamada Sliverman Gym, recomendada por suas amigas que ja treinam lá. O que ela não esperava é que na verdade essa academia é lotada de esquisitões e fisioculturistas insanos. Será que ela vai conseguir sobreviver nesse ambiente? ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4416,73 +4531,106 @@
       "estudio": [
         "Doga Kobo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 125,
       "titulo_referencia": "How NOT to Summon a Demon Lord",
       "id_anilist": [
-        101004
+        101004,
+        117448,
+        210483
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "harém",
+        "ação",
+        "ecchi",
+        "romance",
+        "aventura",
+        "fantasia",
+        "comédia"
+      ],
+      "sinopse": "Cross Reverie é um MOORPG sand box onde voc... bem famoso, e entre a comunidade dos players existe uma lenda sobre o Rei demonio Diablo, o jogador top 1 da porra toda. Isso é, dentro do jogo, Takuma Sakamoto na vida real não passa de um perdedor nerdola que não ve a luz do Sol a dias. Porém, sua vida de merda é interrompida quando subtamente ele é encarnado no corpo de seu avatar em CR, atendendo a um feitiço de invocação feito por duas belas garotas do mundo fantasioso. O feitiço paraceia ser capaz de invocar uma poderosa criatura e forçar ela a se submeter ao usuario, só que os papeis acabam sendo invertidos por um dos artefatos lendario de Diablo, e agora Diablo viaja procuarando uma forma de desescravizar as pobres garotas enquanto aproveita seus novos poderes. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "05/07/2018",
       "estudio": [
-        "Tatsunoko Production"
+        "Ajia-Do"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 126,
       "titulo_referencia": "Hunter x Hunter",
       "id_anilist": [
+        11061,
         136
       ],
       "dublagem": "dublado",
       "filmes": 1,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [
-        "Netflix"
+      "generos": [
+        "shounen",
+        "ação",
+        "aventura",
+        "comédia",
+        "super poderes",
+        "fantasia moderna",
+        "drama",
+        "paranormal",
+        "violência"
       ],
-      "ordem": null,
+      "sinopse": "Aqueles que arriscam suas vidas para se aventurar em caçadas extraordinarias recebem o titulo de Hunter, um cargo de grande prestigio para os mais bravos e poderosos caçadores. E entre os maiores Hunters está Gin Friks, um caçador misterioso que abandonou seu filho Gon para ser criado por sua tia em uma ilha pacifica. Que após descobrir a verdade, decide seguir os passos de seu pai e se tornar um Hunter apropriado para 'caçar' seu pai arrombado junto de seus novos amigos excentricos. ",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix",
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Aqui você tem duas opções: a versão original de 1999, ou a versão remake mais atual de 2011. Eu recomendo a segunda que é mais completa: ",
+        "sequencia": [136, 11061]
+      },
       "data_lancamento": "02/10/2011",
       "estudio": [
         "Nippon Animation, Madhouse"
       ],
-      "classificacao_indicativa": null,
-      "manual_titulo": null,
+      "classificacao_indicativa": 14,
+      "manual_titulo": "Hunter X Hunter",
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 148,
+      "manual_status": "Incompleto"
     },
     {
       "id": 127,
       "titulo_referencia": "I Can't Understand What My Husband Is Saying",
       "id_anilist": [
-        20735
+        20735,
+        21000
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "slice of life",
+        "fofo",
+        "ecchi",
+        "comédia romântica"
+      ],
+      "sinopse": "'Eu não entendo os gostos do meu marido' é um pensamento comum entre casais modernos, principalmente quando seu conjulge é um otaku sem salvação. Mas como o amor envolve compreensão mutua, a história acompanha Kaoru em sua jornada de tentar entender melhor os gostos estranhos de seu marido. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4491,23 +4639,29 @@
       "estudio": [
         "Seven"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 128,
       "titulo_referencia": "I Parry Everything",
       "id_anilist": [
-        170695
+        170695,
+        196222
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "aventura",
+        "ação",
+        "comédia"
+      ],
+      "sinopse": "Noor é um homem que sempre sonhou em se tornar um grande aventureiro, mas atualmente não passa de um inutil devido sua incompatbilidade com qualquer arte de combate. Porém o rapaz se mantem firme e continua treinando a unica coisa que ele aparentemente consegue fazer: refletir ataques. Uma habilidade que normalmente seria considerada basica, mas enquanto salvava uma pobre donzela, ele mostrou que suas capacidades excedem muito o senso comum. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4516,11 +4670,11 @@
       "estudio": [
         "LIDENFILMS"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 129,
@@ -4531,22 +4685,30 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "magia",
+        "comédia",
+        "ação",
+        "fantasia",
+        "aventura",
+        "ecchi",
+        "harém"
+      ],
+      "sinopse": "Durante sua vida passada, Lloyd sempre viveu a merce de seu amor por magia mesmo sem possuir qualquer aptidão para tal. Só que agora em sua nova vida como principe, a carne caiu no prato certo e Llyod finalmente consiguirá aproveitar todo seu amor e conhecimento por magia em um corpo apto. E talvez suas capacidades acabem se excedendo além do que qualquer ser vivo já tenha imaginado.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "07/01/2024",
       "estudio": [
-        "TMS Entertainment"
+        "Tsumugi Akita Animation Lab"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 130,
@@ -4556,22 +4718,30 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "comédia",
+        "comédia romântica",
+        "fantasia",
+        "slice of life",
+        "fofo"
+      ],
+      "sinopse": "Enquanto fugia de agiotas, Charlotte acaba na porta de Allen, um feiticeiro tão poderoso que carrega o titulo de lorde demonio. Allen então ajuda a gorota e acaba se solidariezando com a garota depois de ouvir sua tragica história de vida. Agora depois de contratar a garota como empregada, cabe ao lorde demônio ensinar à garota sobre as coisas boas da vida.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/07/2024",
       "estudio": [
-        "Studio Comet"
+        "Zero-G",
+        "Digital Network Animation"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 131,
