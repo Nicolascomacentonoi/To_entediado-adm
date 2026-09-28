@@ -4751,22 +4751,31 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "yuri",
+        "isekai",
+        "romance",
+        "comédia romântica",
+        "comédia",
+        "fantasia",
+        "escolar",
+        "fem-protag"
+      ],
+      "sinopse": "Rei, uma das almadiçoadas CLTs, só consegue aproveitar seus pequenos momentos de descanso jogando seu jogo de romance favorito: Revolution. Isso até ela acordar em seu jogo favorito e se ver como a protagonsita do jogo: Rae Taylor. E sabendo de tudo que acontece no jogo, a primeira coisa que a esperta Rae faz é... se declarar para a vilã do jogo? A então ta bom né ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/10/2023",
       "estudio": [
-        "Diomedéa"
+        "Platinum Vision"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 132,
@@ -4776,28 +4785,38 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "comédia",
+        "ação",
+        "aventura",
+        "administração",
+        "ecchi",
+        "sci-fi",
+        "drama"
+      ],
+      "sinopse": "Após serem completamente solados pelo grandioso herói Leo, o exército da rainha demônio Echidina agora se encontra em frangalhos e miserável. Desesperados por recrutas eles acabam recebendo o curriculo de uma pessoa inusitada: o prório herói Leo em pessoa. Desprovido de vergonha o rapaz conta seu triste destino de ser abandonado toda vez que a humanidade alcançar a paz, declarando que agora ele prefere trocar de time de uma vez. Confusos, eles decidem dar uma chance ao herói, que parece carregar um fardo muito maior do que aparenta.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/04/2022",
       "estudio": [
-        "Lay-duce"
+        "EMT Squared"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 133,
       "titulo_referencia": "I'm Standing on a Million Lives",
       "id_anilist": [
-        116242
+        116242,
+        127366
       ],
       "dublagem": "dublado",
       "filmes": 0,
@@ -4810,7 +4829,7 @@
         "drama",
         "romance"
       ],
-      "sinopse": "Yuusuke é transportado para outro mundo, descobre que algumas colegas de classe já estavam lá e que ele terá que completar missões para salvar seu mundo, “mas, será que vale realmente a pena salvar esse mundo?”",
+      "sinopse": "Yuusuke repentinamente se encontra em outro mundo junto de suas colegas de classe, lá ele descobre que elas já estiveram em uma situação parecida, e que de vez em quando eles são convocados em outros mundos em grupo para completar missões e salvar seu próprio mundo de um futuro colapso. Yuusuke inicialmente se empolga com a ideia de aventura fantasiosa, mas se questiona se o mundo dele realmente merece ser salvo.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -4842,7 +4861,7 @@
         "magia",
         "romance"
       ],
-      "sinopse": "Em busca de evitar seu destino trágico, Aileen, uma ex-japonesa comum, busca abrigo no castelo do rei demônio. Assim sendo capaz de evitar o trágico final de ambos, enquanto desfrutam de um estranho romance.",
+      "sinopse": "Aileen repentinamente é possuida pelo assustador espirito de uma japonesa CLT que adorava o jogo no qual ela se encontra sendo a vila predestinada a morrer. Agora em busca de evitar seu destino trágico, Aileen busca abrigo no castelo do rei demônio, no qual também possui um destino injusto. Agora ambos enfrentam o roteiro enquanto desfrutam de um estranho romance.",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -4850,13 +4869,13 @@
       "ordem": null,
       "data_lancamento": "05/10/2022",
       "estudio": [
-        "ENGI"
+        "Maho Film"
       ],
       "classificacao_indicativa": "12",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 135,
