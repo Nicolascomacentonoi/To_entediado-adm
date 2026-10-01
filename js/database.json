@@ -4773,13 +4773,22 @@
       "id": 135,
       "titulo_referencia": "In Another World With My Smartphone",
       "id_anilist": [
-        98491
+        98491,
+        147571
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "harem",
+        "ação",
+        "comédia",
+        "comédia romântica",
+        "ecchi",
+        "aventura"
+      ],
+      "sinopse": "Touya Mochizuki tem sua pacata vida de estudante subtamente interrompida por um FODENDO raio que esvai a vida do rapaz instantaneament. No céu, Deus em pessoa diz que ACIDENTALMENTE matou o rapaz, e que por causa das regras, o maximo que o pai em pessoa pode fazer é conceder uma oportunidade para Touya viver uma vida de fantasia em outro mundo junto de um item pessoal da escolha do rapaz. Sem muito o que fazer, o rapaz aceita a proposta e escolhe seu iPhone como companheiro em sua nova vida. E entao começa a nova vida de Touya em outro mundo, presenteado com magia apelonas, sorte com garotas e, o mais inacreditável, um iphone com bateria infinita. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4788,11 +4797,11 @@
       "estudio": [
         "Production Reed"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 136,
