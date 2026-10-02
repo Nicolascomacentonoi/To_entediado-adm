@@ -4407,13 +4407,26 @@
       "id": 121,
       "titulo_referencia": "High School DxD",
       "id_anilist": [
-        11617
+        11617,
+        15451,
+        20745,
+        97767
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "harém",
+        "ação",
+        "comédia",
+        "comédia romântica",
+        "escolar",
+        "sobrenatural",
+        "super poderes",
+        "romance"
+      ],
+      "sinopse": "Issei, assim como qualquer adolescente no auge da puberdade, só consegue pensar em safadezas e em se divertir com os amigos, vivendo tranquilamente como um estudante comum. Isso é, até que surpreendentemente uma linda garota se declara para Issei e pede para sair com o rapaz, que obviamente não hesita em aceitar. E o que parecia bom demais para ser verdade era realmente bom de mais para ser verdade, pois a garota se revela ser um anjo que só estava em busca da vida do garoto por considerar sua existencia 'muito perigosa'. Porém o plano é interrompido por Rias Gremory, a aluna modelo da mesma escola de Issei, que se revela ser uma demonio de alto nivel e salva o rapaz propondo um pacto para ele se tornar seu servo. Eu poderia me estender explicando como os mestres servos possuem poderes baseados em xadrez e como o protagonista possui um poder unico, mas a verdade é que ninguém liga para isso e a fanbase só ta lá pela safadeza desenfreada que se sucede.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4422,11 +4435,11 @@
       "estudio": [
         "TNK"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 18,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 122,
@@ -4434,11 +4447,18 @@
       "id_anilist": [
         8074
       ],
-      "dublagem": "dublado",
+      "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ecchi",
+        "harém",
+        "distopia",
+        "ação",
+        "romance",
+        "violência","tensão"
+      ],
+      "sinopse": "O quão sensual pode ser uma apocalipse zumbi? A história acompanha a tragetória de um grupo de estudantes sobreviventes, que parecem mais aflingidos por triangulos amorosos do que os zumbis em si.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4447,23 +4467,33 @@
       "estudio": [
         "Madhouse"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 123,
       "titulo_referencia": "Horimiya",
       "id_anilist": [
-        124080
+        124080,
+        163132
+
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "escolar",
+        "slice of life",
+        "fofo",
+        "comédia",
+        "comédia romântica"
+
+      ],
+      "sinopse": "Hori é uma estudante de alto prestigio, sendo conhecida por sua carisma, inteligencia e beleza. Só que por trás disso, Hori esconde um lado caseiro e 'rustico' que tem vergonha de mostrar aos seus amigos. Porém seu segredo é comprometido assim que seu irmãozinho acaba levando um misterioso rapaz de tatuagens e piercings que revela ser na verdade so colega quieto e reservado de Hori: Miyamura. Parece que não era só a garota que escondia um lado selvagem. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4472,7 +4502,7 @@
       "estudio": [
         "CloverWorks"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
@@ -4486,9 +4516,13 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia",
+        "ecchi",
+        "fem-protag"
+      ],
+      "sinopse": "Hibiki é uma garota que não possui auto controle quando o assunto é comida, o que acaba se voltando contra ela na briga contra a balança. Determinada a manter o shape, a garota decide se matricular em uma academia famosa chamada Sliverman Gym, recomendada por suas amigas que ja treinam lá. O que ela não esperava é que na verdade essa academia é lotada de esquisitões e fisioculturistas insanos. Será que ela vai conseguir sobreviver nesse ambiente? ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4497,73 +4531,106 @@
       "estudio": [
         "Doga Kobo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 125,
       "titulo_referencia": "How NOT to Summon a Demon Lord",
       "id_anilist": [
-        101004
+        101004,
+        117448,
+        210483
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "harém",
+        "ação",
+        "ecchi",
+        "romance",
+        "aventura",
+        "fantasia",
+        "comédia"
+      ],
+      "sinopse": "Cross Reverie é um MOORPG sand box onde voc... bem famoso, e entre a comunidade dos players existe uma lenda sobre o Rei demonio Diablo, o jogador top 1 da porra toda. Isso é, dentro do jogo, Takuma Sakamoto na vida real não passa de um perdedor nerdola que não ve a luz do Sol a dias. Porém, sua vida de merda é interrompida quando subtamente ele é encarnado no corpo de seu avatar em CR, atendendo a um feitiço de invocação feito por duas belas garotas do mundo fantasioso. O feitiço paraceia ser capaz de invocar uma poderosa criatura e forçar ela a se submeter ao usuario, só que os papeis acabam sendo invertidos por um dos artefatos lendario de Diablo, e agora Diablo viaja procuarando uma forma de desescravizar as pobres garotas enquanto aproveita seus novos poderes. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "05/07/2018",
       "estudio": [
-        "Tatsunoko Production"
+        "Ajia-Do"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 126,
       "titulo_referencia": "Hunter x Hunter",
       "id_anilist": [
+        11061,
         136
       ],
       "dublagem": "dublado",
       "filmes": 1,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [
-        "Netflix"
+      "generos": [
+        "shounen",
+        "ação",
+        "aventura",
+        "comédia",
+        "super poderes",
+        "fantasia moderna",
+        "drama",
+        "paranormal",
+        "violência"
       ],
-      "ordem": null,
+      "sinopse": "Aqueles que arriscam suas vidas para se aventurar em caçadas extraordinarias recebem o titulo de Hunter, um cargo de grande prestigio para os mais bravos e poderosos caçadores. E entre os maiores Hunters está Gin Friks, um caçador misterioso que abandonou seu filho Gon para ser criado por sua tia em uma ilha pacifica. Que após descobrir a verdade, decide seguir os passos de seu pai e se tornar um Hunter apropriado para 'caçar' seu pai arrombado junto de seus novos amigos excentricos. ",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix",
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Aqui você tem duas opções: a versão original de 1999, ou a versão remake mais atual de 2011. Eu recomendo a segunda que é mais completa: ",
+        "sequencia": [136, 11061]
+      },
       "data_lancamento": "02/10/2011",
       "estudio": [
         "Nippon Animation, Madhouse"
       ],
-      "classificacao_indicativa": null,
-      "manual_titulo": null,
+      "classificacao_indicativa": 14,
+      "manual_titulo": "Hunter X Hunter",
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 148,
+      "manual_status": "Incompleto"
     },
     {
       "id": 127,
       "titulo_referencia": "I Can't Understand What My Husband Is Saying",
       "id_anilist": [
-        20735
+        20735,
+        21000
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "slice of life",
+        "fofo",
+        "ecchi",
+        "comédia romântica"
+      ],
+      "sinopse": "'Eu não entendo os gostos do meu marido' é um pensamento comum entre casais modernos, principalmente quando seu conjulge é um otaku sem salvação. Mas como o amor envolve compreensão mutua, a história acompanha Kaoru em sua jornada de tentar entender melhor os gostos estranhos de seu marido. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4572,23 +4639,29 @@
       "estudio": [
         "Seven"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 128,
       "titulo_referencia": "I Parry Everything",
       "id_anilist": [
-        170695
+        170695,
+        196222
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "aventura",
+        "ação",
+        "comédia"
+      ],
+      "sinopse": "Noor é um homem que sempre sonhou em se tornar um grande aventureiro, mas atualmente não passa de um inutil devido sua incompatbilidade com qualquer arte de combate. Porém o rapaz se mantem firme e continua treinando a unica coisa que ele aparentemente consegue fazer: refletir ataques. Uma habilidade que normalmente seria considerada basica, mas enquanto salvava uma pobre donzela, ele mostrou que suas capacidades excedem muito o senso comum. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4597,11 +4670,11 @@
       "estudio": [
         "LIDENFILMS"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 129,
@@ -4612,22 +4685,30 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "magia",
+        "comédia",
+        "ação",
+        "fantasia",
+        "aventura",
+        "ecchi",
+        "harém"
+      ],
+      "sinopse": "Durante sua vida passada, Lloyd sempre viveu a merce de seu amor por magia mesmo sem possuir qualquer aptidão para tal. Só que agora em sua nova vida como principe, a carne caiu no prato certo e Llyod finalmente consiguirá aproveitar todo seu amor e conhecimento por magia em um corpo apto. E talvez suas capacidades acabem se excedendo além do que qualquer ser vivo já tenha imaginado.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "07/01/2024",
       "estudio": [
-        "TMS Entertainment"
+        "Tsumugi Akita Animation Lab"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 130,
@@ -4637,22 +4718,30 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "comédia",
+        "comédia romântica",
+        "fantasia",
+        "slice of life",
+        "fofo"
+      ],
+      "sinopse": "Enquanto fugia de agiotas, Charlotte acaba na porta de Allen, um feiticeiro tão poderoso que carrega o titulo de lorde demonio. Allen então ajuda a gorota e acaba se solidariezando com a garota depois de ouvir sua tragica história de vida. Agora depois de contratar a garota como empregada, cabe ao lorde demônio ensinar à garota sobre as coisas boas da vida.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/07/2024",
       "estudio": [
-        "Studio Comet"
+        "Zero-G",
+        "Digital Network Animation"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 131,
@@ -4662,22 +4751,31 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "yuri",
+        "isekai",
+        "romance",
+        "comédia romântica",
+        "comédia",
+        "fantasia",
+        "fem-protag",
+        "escolar"
+      ],
+      "sinopse": "Rei Oohashi é uma pobre clt média japonesa que só consegue encontra paz em seus joguinhos virtuais, mais especificamente, em jogos de romance. Porém, logo após uma noite de sono, Rei acorda como Rae (não mudou muita coisa), a protagonista de seu jogo favorito de romance: Revolution. Considerando sua situação, ela decide fazer a coisa mais sensata que alguém poderia fazer: declarar seu amor pela... vilã? Parece que Rei sempre idolatrou Claire (a vilã), e agora elatem a chance de finalmente ficar ao seu lado, mesmo que de um jeito excêntrico. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/10/2023",
       "estudio": [
-        "Diomedéa"
+        "Platinum Vision"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 132,
@@ -4687,28 +4785,38 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fantasia",
+        "ação",
+        "comédia",
+        "administração",
+        "aventura",
+        "drama",
+        "mistério",
+        "sci-fi"
+      ],
+      "sinopse": "Após serem completamentamente solados pelo lendário herói Leo, o reino demoniaco é reduzido à miséria e começa um processo para reconstrução. Porém, durante um processo de recrutamento eles acabam recebendo um curriculo um tanto inusitado de niguém menos que o próprio herói Leo, que explica que simplesmente cansou de ser usado pelos humanos e que prefere trabalhar para os demônios. Embora tenha sido rejeitado pela rainha, ele acaba recebendo uma segunda chance dos outros comandantes que percebem o enorme potencial que o rapaz pode trazer para o reino demôniaco. Mas parece que existe algo mais profundo por trás desse herói.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/04/2022",
       "estudio": [
-        "Lay-duce"
+        "EMT Squared"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "incompleto"
     },
     {
       "id": 133,
       "titulo_referencia": "I'm Standing on a Million Lives",
       "id_anilist": [
-        116242
+        116242,
+        127366
       ],
       "dublagem": "dublado",
       "filmes": 0,
@@ -4718,10 +4826,9 @@
         "aventura",
         "ação",
         "comédia",
-        "drama",
-        "romance"
+        "drama"
       ],
-      "sinopse": "Yuusuke é transportado para outro mundo, descobre que algumas colegas de classe já estavam lá e que ele terá que completar missões para salvar seu mundo, “mas, será que vale realmente a pena salvar esse mundo?”",
+      "sinopse": "Yuusuke Yotsuya é um jovem pacato que odeia a cidade grande e as pessoas que la vivem. Para sua sorte, (eu acho) ele é subtamente transportado para um outro mundo fantasioso, onde ele acaba se encontrando com duas colegas de classe: Shindou, a garota popular da escola, e Iu, a garota esquisita da escola. Ambas parecem familiarizadas com a situação e logo explicam o que caralhos está ocorrendo: Aparentemente eles são ocasionalmente selecionados para formar uma equipe de rpg e completar missões naquele mundo, algo que é misteriosamente essencial para a sobrevivencia do mundo deles. Mas... será que Yuusuke realmente quer salvar seu mundo?",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -4731,11 +4838,11 @@
       "estudio": [
         "Maho Film"
       ],
-      "classificacao_indicativa": "16",
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 134,
@@ -4753,7 +4860,7 @@
         "magia",
         "romance"
       ],
-      "sinopse": "Em busca de evitar seu destino trágico, Aileen, uma ex-japonesa comum, busca abrigo no castelo do rei demônio. Assim sendo capaz de evitar o trágico final de ambos, enquanto desfrutam de um estranho romance.",
+      "sinopse": "Aileen é uma nobre que tem seu casamento real cancelado depois de ter tomado um pé na bunda do principe Cedric. Porém o mais surpreendendte é que ela já sabia que isso rira acontecer pois Aileen na verdade é uma japonesa reincarnada no corpo de uma vilâ de jogo de romance que é destinada a ser morta pela protagonista. COm isso em mente, Aileen decide buscar abrigo nas terras do Rei demônio, que possui um destino bem similar ao dela. E assim se começa o plano de Aileen de domesticar o Capeta em pessoa para evitar suas mortes. ",
       "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
@@ -4767,19 +4874,28 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
-    {
+{
       "id": 135,
       "titulo_referencia": "In Another World With My Smartphone",
       "id_anilist": [
-        98491
+        98491,
+        147571
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "harem",
+        "ação",
+        "comédia",
+        "comédia romântica",
+        "ecchi",
+        "aventura"
+      ],
+      "sinopse": "Touya Mochizuki tem sua pacata vida de estudante subtamente interrompida por um FODENDO raio que esvai a vida do rapaz instantaneament. No céu, Deus em pessoa diz que ACIDENTALMENTE matou o rapaz, e que por causa das regras, o maximo que o pai em pessoa pode fazer é conceder uma oportunidade para Touya viver uma vida de fantasia em outro mundo junto de um item pessoal da escolha do rapaz. Sem muito o que fazer, o rapaz aceita a proposta e escolhe seu iPhone como companheiro em sua nova vida. E entao começa a nova vida de Touya em outro mundo, presenteado com magia apelonas, sorte com garotas e, o mais inacreditável, um iphone com bateria infinita. ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4788,11 +4904,11 @@
       "estudio": [
         "Production Reed"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 136,

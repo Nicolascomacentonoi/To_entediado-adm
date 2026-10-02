@@ -250,6 +250,17 @@
       "Nome": "violência",
       "Descrição": "Cenas e ação que podem acabar ficando gráficas demais",
       "Imagem": ""
+    },
+        {
+      "Nome": "Yaoi",
+      "Descrição": "Gay",
+      "Imagem": ""
+    },
+        {
+      "Nome": "Yuri",
+      "Descrição": "Mulher gay",
+      "Imagem": ""
     }
+
   ]
 }
