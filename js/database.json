@@ -4914,13 +4914,24 @@
       "id": 136,
       "titulo_referencia": "In/Spectre",
       "id_anilist": [
-        107201
+        107201,
+        126529
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "mistério",
+        "romance",
+        "sobrenatural",
+        "comédia",
+        "drama",
+        "violência",
+        "tensão",
+        "super poderes"
+      ],
+      "sinopse": "A linha que separa o mundo dos humanos e o mundo dos Yokais é muito tênue, e para garantir a paz entre ambos os lados, existem aqueles que atuam como mediadores. Kotoko (kkkkkk ela n tem uma perna) é a mediadora da sabedoria, responsável por solucionar casos complicados envolvendo esses espiritos, e para ajudarla, Kurou Skuragawa entra em ação com sua força e imortalidade. Juntos eles resolvem casos sobrenaturais, e agora, enfretarão o maior desafio de suas vidas.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4929,11 +4940,11 @@
       "estudio": [
         "Brain's Base"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 137,
