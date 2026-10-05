@@ -4981,13 +4981,26 @@
       "id": 138,
       "titulo_referencia": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
       "id_anilist": [
-        20920
+        20920,
+        101167,
+        112124,
+        129196,
+        155211
       ],
-      "dublagem": "dublado",
-      "filmes": 5,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "dublagem": "dublagem incompleta",
+      "filmes": 1,
+      "generos": [  
+        "fantasia",
+        "aventura",
+        "ação",
+        "comédia",
+        "romance",
+        "drama",
+        "ecchi",
+        "harem"
+      ],
+      "sinopse": "Orario é uma cidade que reune aventureiros do mundo todo que sonham em acumular riquezas explorando a dugeon. E para auxiliar esses corjosos aventureiros, os deuses do olimpo desceram à terra para formar guildas e patrocinar seus filhos para que assim eles possam triunfar sobre o mal. Só que nem todas essas guildas possem essa... grandeza. Bel cranel é o unico filho da deusa Hestia, um corajoso e promissor aventureiro que sonha em se tornar um herói como nos contosde fadas. Porém seu sonho é ofuscado por Ais Wallenstein, uma lendária aventureira rank S, e a nova paixçao de Bell. E para a surpresa de sua Deusa ciumenta, parece que esse amor pode acabar ajudando o desenvolvimento de Bell, tipo, literalmente. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4996,11 +5009,11 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 139,
