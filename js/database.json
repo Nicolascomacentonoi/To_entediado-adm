@@ -4809,7 +4809,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "incompleto"
+      "manual_status": "Incompleto"
     },
     {
       "id": 133,
@@ -5004,9 +5004,16 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "fantasia",
+        "aventura",
+        "ação",
+        "romance",
+        "magia"
+      ],
+      "sinopse": "Taichi e Rin são amigos de infancia que, assim como qualquer dia normal, estavam voltando juntos para casa. Isso é, até que ambos são subtamente envocados para um outro mundo através de uma magia magica insana. Lá eles acabam se encontrando com alguns aventureiros que os guiam até uma guilda local para eles conseguirem medir suas aptidões magicas para ver o quão util seriam. E para a surpresa de todos (menos para quem leu o titulo do anime), ambos possuem um talento magico insano que ultrapassam o senso comum, fazendo com que ambos recebam um treinamento especial para controlarem seus poderes. Um tempo se passa e ambos já alcançam o nível suficiente para se aventurarem e buscarem a origem por traz de seu sequestro magico.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5015,11 +5022,11 @@
       "estudio": [
         "Encourage Films"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 140,
@@ -5029,47 +5036,61 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "culinária",
+        "comédia",
+        "fantasia",
+        "slice of life",
+        "sobrenatural"
+      ],
+      "sinopse": "Nobu é um misterioso buteco japonês que serve deliciosos pratos e bebidas para qulquer um que se considere cliente. E quando eu digo 'qualquer um' eu me refiro até a pessoas de um mundo paralelo. Junto de sua adoravél garçonete Shinobu, Nobuyuki busca sempre servir o prato certo para seus clientes antiquados, atraindo assim fama entre pessoas de todas as classes que buscam experimentar os pratos invadores de Nobu.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "13/04/2018",
       "estudio": [
-        "Aic Spirits, Macademia Animation"
+        "Sunrise"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 141,
       "titulo_referencia": "Isekai Quartet",
       "id_anilist": [
-        104454
+        104454,
+        110178,
+        194447
       ],
       "dublagem": "não dublado",
-      "filmes": 3,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 1,
+      "generos": [
+        "isekai",
+        "comédia",
+        "fantasia",
+        "slice of life"
+      ],
+      "sinopse": "Após apertarem um misterioso botão, 4 grupos de pessoas acabam sendo invocados em um mundo estranho, ou pelo menos estranho para a maioria deles. Esse é um corss-over slice-of-life dos maiores Isekais da geração: Re:zero, Konosuba, Tanya the evil e Overlord (posteriormente outros acabam se juntando: The Rising of the Shield Hero e The Eminence in Shadow ) ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "09/04/2019",
       "estudio": [
-        "Doga Kobo"
+        "Studio PuYUKAI"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 12,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 142,
