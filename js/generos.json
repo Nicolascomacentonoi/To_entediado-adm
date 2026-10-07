@@ -176,6 +176,11 @@
       "Descrição": "hmmmm, vou ter que ver um vídeo do core explicando teorias",
       "Imagem": ""
     },
+        {
+      "Nome": "musical",
+      "Descrição": "",
+      "Imagem": "imagens_generos/musical.png"
+    },
     {
       "Nome": "neo shounen",
       "Descrição": "...sua pacata vida é interrompida depois que alguém próximo morre e ele descobre que tem poderes sobrenaturais especiais e agora ele vai entrar em uma organização caçadora de criaturas sobrenaturais para lutar contra pessoas que querem o poder dele",

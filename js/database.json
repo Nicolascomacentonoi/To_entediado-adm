@@ -4946,7 +4946,7 @@
       "manual_episodios": null,
       "manual_status": "Incompleto"
     },
-    {
+{
       "id": 137,
       "titulo_referencia": "Interviews with Monster Girls",
       "id_anilist": [
@@ -4954,9 +4954,14 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "escolar",
+        "comédia",
+        "fantasia moderna"
+      ],
+      "sinopse": "Ajins são um grupo de pessoas com descendencias sobrenaturais, que recentemente, foram integradas na sociedade humana. E considerando suas diferentes e unicas capacidades, Takahashi é um  professor de biologia que possui extremo interesse em comprender melhor a natureza por traz dessas propriedades misticas. E para isso, ele decide se aproximar de suas estudantes Ajins para entrevista-las e compreender melhor os misterios que afrontam a ciência. Só que o que ele não imaginava é que as garotas são diferentes por motivos mais... da cabeça. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4965,23 +4970,36 @@
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"  
     },
     {
       "id": 138,
       "titulo_referencia": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
       "id_anilist": [
-        20920
+        20920,
+        101167,
+        112124,
+        129196,
+        155211
       ],
-      "dublagem": "dublado",
-      "filmes": 5,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "dublagem": "dublagem incompleta",
+      "filmes": 1,
+      "generos": [  
+        "fantasia",
+        "aventura",
+        "ação",
+        "comédia",
+        "romance",
+        "drama",
+        "ecchi",
+        "harem"
+      ],
+      "sinopse": "Orario é uma cidade que reune aventureiros do mundo todo que sonham em acumular riquezas explorando a dugeon. E para auxiliar esses corjosos aventureiros, os deuses do olimpo desceram à terra para formar guildas e patrocinar seus filhos para que assim eles possam triunfar sobre o mal. Só que nem todas essas guildas possem essa... grandeza. Bel cranel é o unico filho da deusa Hestia, um corajoso e promissor aventureiro que sonha em se tornar um herói como nos contosde fadas. Porém seu sonho é ofuscado por Ais Wallenstein, uma lendária aventureira rank S, e a nova paixçao de Bell. E para a surpresa de sua Deusa ciumenta, parece que esse amor pode acabar ajudando o desenvolvimento de Bell, tipo, literalmente. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -4990,11 +5008,11 @@
       "estudio": [
         "J.C.Staff"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 139,
@@ -5100,9 +5118,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "mistério",
+        "drama",
+        "sci-fi",
+        "romance",
+        "comédia",
+        "ecchi"
+        
+      ],
+      "sinopse": "'Setsuna' é um homem completamente desprovido de memórias ou roupas que acaba acordando na praia de uma ilha chamada Urashima. Lá ele começa a se lembrar brevemente de seu objetivo: ele é um viajante no tempo que está tentando salvar uma garota.E para isso, ele terá que investigar os mistérios daquela ilha enquanto tenta se lembrar se seu passado (no caso futuro). No processo ele acaba se envolvendo com uma garota chamada Rinne que desperta alguns sentimentos estranhos em Setsuna, que logo assume que ela é a garota a ser salva. Não só isso mas ele também vai conhecendo outros habitantes e descobre segredos cabulosos envolvendo exxperimentos e viagem no tempo.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5111,11 +5137,11 @@
       "estudio": [
         "feel."
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 143,
@@ -5126,26 +5152,39 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "musical",
+        "comédia",
+        "romance",
+        "drama",
+        "escolar"
+      ],
+      "sinopse": "Extremamente parecidos, os gemêos Qin Ze (garoto) e Qin Ya (garota) são divididos pelo sucesso, onde Ya é uma famosa idol e Ze só quer ter uma vida universitária normal. Porém a vida de Ze começa a seguir um rumo inesperado quando sua irmã obri- pede para o rapaz SUBISTITUIR ela em eventos (sim, o anime é sobre crossdressing) enquanto ela faz o mesmo por ele. E assim sucede de Ze redescobrir seu talento musical enquanto sua irmã continua usando a imagem dele para meter ele em enrrascadas. ",
+      "recomendacao": "Chinês",
       "onde_ver": [],
       "ordem": null,
-      "data_lancamento": "20/02/2021",
+      "data_lancamento": "27/12/2019",
       "estudio": [
-        "Haoliners Animation League"
+        "ASK Animation Studio"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 144,
       "titulo_referencia": "JoJo's Bizarre Adventure",
       "id_anilist": [
-        666
+        20474,
+        14719,
+        20799,21450,
+        102883,
+        131942,
+        146722,
+        190327,
+        210482
       ],
       "dublagem": "não dublado",
       "filmes": null,
