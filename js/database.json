@@ -1323,7 +1323,8 @@
         "ação",
         "sobrenatural",
         "comédia",
-        "ecchi"
+        "ecchi",
+        "shounen"
       ],
       "sinopse": "Rin era apenas um jovem comum que foi criado por um padre e se tornou um jovem gentil, mas violento. Porém seu mundo vira de ponta cabeça quando ele descobre sobre a existência de demônios e que ele inclusive é o próprio filho de Satã. Se recusando a obedecer seu pai de sangue, Rin decide treinar para se tornar um exorcista forte o suficiente pra cobrar a pensão.",
       "recomendacao": "Média prioridade",
@@ -3107,7 +3108,7 @@
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": "null"
+      "manual_status": "Finalizado"
     },
     {
       "id": 91,
@@ -3776,7 +3777,8 @@
         "mistério",
         "super poderes",
         "sobrenatural",
-        "sci-fi"
+        "sci-fi",
+        "shounen"
       ],
       "sinopse": "Rudo é um jovem catador de lixo que vive sua vida roubando e reciclado tralha dos ricos de Florianopolis (ou coisa do tipo). Sua vida é bem precária e sofrida, mas ele tem o que mais importa no fim do dia: Família e amigos. Bom, pelo menos até seu pai ser brutalmente assassinado em sua frente, seus amigos abandonarem ele e ainda ser acusado pelo assassinato. Para finalizar com a cereja do bolo, Rudo é condenado ao exilio do Pariso e recebe uma confortável viagem de 3 km de pura queda livre direto para o inferno. Só que para sua surpresa (e nossa), Rudo sobrevive e percebe que ele acabou indo para um lugar pior o inferno: o Brás, onde acaba descobrindo a existencia de gigantes monstros. Quando tudo parecia perdido, um estiloso homem aparece e resgata Rudo usando um misterioso poder, depois ele acaba explicando como as coisas funcionam no mundo inferior: é cada um por si e cuidado com pessoas que querem saber mais sobre o paraíso. Diante dessa nova situação, Rudo decide se juntar aos 'Faixineiros' e lutar ao lado deles junto de seu novo poder de transformar qualquer objeto em uma arma especial.",
       "recomendacao": "Alta prioridade",
@@ -5186,36 +5188,61 @@
         190327,
         210482
       ],
-      "dublagem": "não dublado",
+      "dublagem": "dublado",
       "filmes": null,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "ação",
+        "aventura",
+        "comédia",
+        "drama",
+        "delinquente",
+        "fem-protag",
+        "jogos mentais",
+        "mistério",
+        "super poderes",
+        "viagem no tempo",
+        "violência"
+      ],
+      "sinopse": "A caótica tragetória da família Joestar começa no século 19, quando George Joestar decide adotar um pobre órfão chamado Dio Brando, uma pessoa cuja a alma assusta até o diabo. Após isso, Jonathan Joestar (o herdeiro de George), da inicio à bizarra jornada de sua linhagem de guerreiros destinados a usar poderes místicos para lutarem contra forças do mal. Falando um pouco por cima, o anime acompanha as diferentes linhagens da familia Joestar, sendo cada 'parte' representada por um protagonista diferente com objetivos diferentes, sendo: impedir um irmão maluco; derrotar 4 seres semi-imortais pré-históricos; matar um vampiro homosexual; derrotar um serial-killer pevertido; derrubar o mafioso mais poderoso e feio da Italia para acabar com o tráfico de drogas; impedir um padre gay de resetar o mundo; e (respira fundo) recuperar as partes mumificadas de Jesus cristo espalhadas pelos Estados Unidos para impedir o presidente pedófilo.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
-        "Netflix"
+        "Netflix",
+        "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "06/10/2012",
       "estudio": [
         "David Production"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 145,
       "titulo_referencia": "JUJUTSU KAISEN",
       "id_anilist": [
-        113415
+        113415,
+        145064,
+        172463
       ],
       "dublagem": "dublado",
       "filmes": 2,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "neo shounen",
+        "ação",
+        "sobrenatural",
+        "drama",
+        "escolar",
+        "violência",
+        "super poderes",
+        "shounen"
+      ],
+      "sinopse": "Após receber a triste notícia que seu avô não tankou e foi de vasco, Yuji bate o recorde de ansiedade após descobrir que paralelamente a essa situação, seus amigos corriam perigo por brincar de charlie-charlie com o literal dedo do capeta. Sem escolha, Yuji corre até seus amigos e descobre em primeira mão o mundo das maldições e percebe que o unico jeito de lidar com essas maldições seria destruindo o dedo do diabo... no seu estomago. O tiro sai pela culatra e agora Yuji se tornou o hospedeiro da maior maldição da história: Sukuna, mas misteriosamente é capaz de controlar o mochila de criança. Vendo a situação, um poderoso feiticeiro chamado Gojo vê potencial no rapaz e decide treina-lo para usar esse poder a favor da humanidade. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5224,11 +5251,11 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 146,
