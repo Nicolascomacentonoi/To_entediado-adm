@@ -131,6 +131,11 @@
       "Descrição": "Animes que buscam retratar momentos históricos da nossa realidade, geralmente em um passado distante ou em alguma distorção dele",
       "Imagem": ""
     },
+        {
+      "Nome": "incesto",
+      "Descrição": "",
+      "Imagem": "imagens_generos/yuji.jpg"
+    },
     {
       "Nome": "isekai",
       "Descrição": "Já se imaginou sair da sua rotina chata para subitamente explorar um mundo de fantasia? Pff, esquisitão",

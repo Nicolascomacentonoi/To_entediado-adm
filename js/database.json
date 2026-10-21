@@ -4349,7 +4349,7 @@
         "ecchi",
         "romance",
         "comédia romântica",
-        "hárem",
+        "harém",
         "escolar",
         "mistério",
         "meia-irmã é incesto?"
@@ -4889,7 +4889,7 @@
       "filmes": 0,
       "generos": [
         "isekai",
-        "harem",
+        "harém",
         "ação",
         "comédia",
         "comédia romântica",
@@ -4998,7 +4998,7 @@
         "romance",
         "drama",
         "ecchi",
-        "harem"
+        "harém"
       ],
       "sinopse": "Orario é uma cidade que reúne aventureiros do mundo todo que sonham em acumular riquezas explorando a dungeon. E, para auxiliar esses corajosos aventureiros, os deuses do Olimpo desceram à Terra para formar guildas e patrocinar seus filhos para que, assim, eles possam triunfar sobre o mal. Só que nem todas essas guildas possuem essa... grandeza. Bell Cranel é o único filho da deusa Hestia, um corajoso e promissor aventureiro que sonha em se tornar um herói como nos contos de fadas. Porém, seu sonho é ofuscado por Ais Wallenstein, uma lendária aventureira rank S, e a nova paixão de Bell. E, para a surpresa de sua deusa ciumenta, parece que esse amor pode acabar ajudando o desenvolvimento de Bell, tipo, literalmente.",
       "recomendacao": "Média prioridade",
@@ -5258,70 +5258,79 @@
       "manual_status": "Incompleto"
     },
     {
-      "id": 146,
-      "titulo_referencia": "K",
-      "id_anilist": [
-        14467
-      ],
-      "dublagem": "não dublado",
-      "filmes": 2,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
-      "onde_ver": [
-        "Crunchyroll"
-      ],
-      "ordem": null,
-      "data_lancamento": "05/10/2012",
-      "estudio": [
-        "GoHands"
-      ],
-      "classificacao_indicativa": null,
-      "manual_titulo": null,
-      "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
-    },
-    {
       "id": 147,
       "titulo_referencia": "Kaguya-sama: Love is War",
       "id_anilist": [
+        101921,
+        112641, 
         125367,
         151384,
-        101921,
-        112641,
-        194884
+        194884,
+        205081
       ],
       "dublagem": "dublado",
       "filmes": 3,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romance",
+        "comédia romântica",
+        "comédia",
+        "escolar",
+        "fofo",
+        "slice of life",
+        "drama"
+      ],
+      "sinopse": " Miiyuki, vindo de origem humilde, conquistou o cargo de presidente do conselho estudantil da escola mais prestigiada do Japão após uma longa e dura tragetória, enquanto a vice presidente Kaguya é herdeira de uma das maiores empresas do Japão. Esses dois são um exemplo de perfeição e o orgulho da escola, além de serem adorados pelos alunos por suas personalidades descoladas e maduras. Porém o que as pessoas não imaginam é que apesar de suas origens, ambos acabam cultivando um interesse crescente um pelo outro, que infelizmente, não conseguem expressar de maneira honesta por puro orgulho e falta de experiência. Sendo assim, ambos não vem outra alternativa se não fazer o outro se confessar primeiro, afinal, o amor é uma guerra, e quem se confessar perde. ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
-      "ordem": null,
+        "ordem": {
+        "conselho": "",
+        "sequencia": [
+                  101921,
+        112641, 
+        125367,
+        151384,
+        194884,
+        205081
+
+        ]
+      },
       "data_lancamento": "12/01/2019",
       "estudio": [
         "A-1 Pictures"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios": 37,
+      "manual_status": "Incompleto"
     },
     {
       "id": 148,
       "titulo_referencia": "Kaiju No. 8",
       "id_anilist": [
-        153288
+        153288,
+        178754,
+        204362
       ],
       "dublagem": "dublado",
-      "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "filmes": 1,
+      "generos": [
+        "neo shounen",
+        "shounen",
+        "ação",
+        "comédia",
+        "drama",
+        "fantasia moderna",
+        "romance",
+        "sci-fi",
+        "super poderes",
+        "paranormal",
+        "distopia"
+      ],
+      "sinopse": "Em uma sociedade assolada por ataques constantes de Kaijus, existem diversos grupos governamentais responsáveis por conter essas ameaças, e entre eles, está a esquecida e pobre equipe de limpeza responsável por esquartejar e se livrar dos cadáveres colossais. Kafka Hibino tem 32 anos e é um desses faxineiros que até hoje sonha em se tornar um soldado de elite para lutar contra esses monstros junto de sua amiga de infância Mina Ashino, que atualmente, é uma dos maiores soldados do exército. Porém, quando Kafka estava prestes a prestar sua ultima tentativa de se alistar, ele acaba sendo possuido por um poder misterioso que lhe concede a capacidade de se tornar um kaiju humanoide de mais alto escalão em poder de luta. Agora junto de seu novo amigo, Kafka se junta ao exército para lutar contra Kaijus enquanto esconde seu poder pra não virar o trabalho de sua antiga equipe (entendeu? porque eles limpam Kaijus mortos). ",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5330,23 +5339,30 @@
       "estudio": [
         "Production I.G"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 149,
       "titulo_referencia": "Kakegurui",
       "id_anilist": [
-        98314
+        98314,
+        100876
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "jogos mentais",
+        "ecchi",
+        "escolar",
+        "esporte",
+        "mistério"
+      ],
+      "sinopse": "Similar a uma escola pública brasileira, a escola Hakkaou Private Academy prepara seus alunos para o mundo real, operando normalmente durante o dia, mas se transformando em um fodendo cassino de noite. A escola propõe que os estudantes, por serem todos de famílias ricas, devem desenvolver lábia e sagacidade apostando dinheiro com seus colegas, para assim, se tornarem herdeiros capazes de tocar os negócios da família. E para manter a ordem, exitem 3 regras: indepente da aposta, ela deve ser cumprida; você perde instântaneamente se for pego trapaceando; e se você acumular muitas dívidas... você perde sua alforria. Assustador né? A não ser que você tenha fetiche em adrenalina de aposta... é bem estranho mesmo",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -5355,11 +5371,11 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 150,
@@ -5369,9 +5385,16 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ação",
+        "sobrenatural",
+        "romance",
+        "mistério",
+        "drama"
+
+      ], 
+      "sinopse": "Por ter herdado poderes de vento ao invés de fogo, Kazuma acaba sendo expulso do famigerado clã Kannagi em desgraça depois de ser solado por sua prima mais nova. Porém, anos se passam e é registrado um estranho números de membros do clã Kanngi sendo mortos por magia de vento, que rapidamente passam a suspeitar que Kazuma possa estar se vingando do clã. Agora, depois de muito tempo, Kazuma é obrigado a voltar para casa e trabalhar com a herdeira (sua prima) para achar o verdadeiro culpado. Mas é claro que ele não fará isso sem farmar aura e... seduzir a prima? ",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5380,11 +5403,11 @@
       "estudio": [
         "Gonzo"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 151,
