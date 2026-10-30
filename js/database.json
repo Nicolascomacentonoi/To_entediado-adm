@@ -5417,23 +5417,28 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "shounen",
+        "ação",
+        "super poderes",
+        "violência"
+      ],
+      "sinopse": "Kohachi Inugami é um detetive especializado em casos sobrenaturais, e se encontra a caminho de um vilarejo distante para investigar um caso de uma possível aparição de um chupa cu- cabra. Durante sua estadia, Kohachi se encontra com um jovem curioso e decide recruta-lo como ajudante temporário, o rapaz se chama Dorotabu e apresenta claros sinais de abuso e exclusão. Ao longo da investigação, Dorotabu descobre sua própria natureza e percebe que ele mesmo é o monstro responsável pelo caso, porém logo é corrigido pelo detetive que explica para o jovem que existem muitas outras pessoas com origens sobrenaturais como ele, incluindo o próprio Kohachi que se revela ser um derivado de Tanuki. Após desvendarem o caso, Kohachi oferece para Dorotabou um cargo de assistente em sua agência, para que assim ele possa achar um novo propósito enquanto descobre mais sobre sua origem.",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
-        "Crunchyroll",
-        "Netflix"
+        "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "10/01/2021",
       "estudio": [
         "Ajia-Do"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 152,
@@ -5443,9 +5448,18 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "isekai",
+        "slice of life",
+        "ação",
+        "fantasia",
+        "furry",
+        "comédia",
+        "brainrot",
+        "ecchi"
+      ],
+      "sinopse": "Afim de proteger seu reino de uma terrível ameaça, a princesa acaba realizando um ritual paa invocar o mais forte guerreiro de um mundo paralelo, o que ela não esperava era invocar Genzou Shibata, o fodendo campeão de peso pesado mudial em luta livre, que para o azar da pobre princesa, parecia estar pouco se fodendo para esse papinho de herói. A verdade é que Genzou sempre sonhou em abrir uma pet shop e passar sua vida rodeado de animais fofos, mas foi forçado a ganhar dinheiro usando seu incrível talento como lutador. Porém agora ele finalmente está no lugar certo, um mundo onde ele pode ser amigo de demi-humanos e... acaricia-los? Pera isso ta ficando estranho.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5454,23 +5468,35 @@
       "estudio": [
         "ENGI"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 153,
       "titulo_referencia": "KENGAN ASHURA Part I",
       "id_anilist": [
-        100891
+        100891,
+        111048,
+        146638,
+        169692
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
+      "generos": [
+        "porrada",
+        "ação",
+        "cgi",
+        "comédia",
+        "drama",
+        "mistério",
+        "esporte",
+        "violência"
+      ],
       "sinopse": "No mundo das grandes empresas, acordos e negócios são fechados através reuniões formais e muita persuasão, ou pelo menos é isso que as pessoas normais pensam. Nesse mundo, as acordos são fechados através de duelos travados por gladiadores recrutados por ambos os lados, acontece que essa cultura foi criada a muitas gerações atrás como um método para resolver conflitos e acordos entres os nobres. E quem acaba descobrindo isso é Kazuo Yamashita, um pobre pai solteiro de meia idade que é inesperadamente envolvido nesses esquemas e acaba recebendo um gladiador de estimação para participar desses duelos no lugar de seu chefe. O que Yamashita não esperava seria a dificuldade em lidar com Ouma Tokita, um gladiador desconhecido mas que possui uma força digna do titulo de 'Ashura'. Agora os dois são obrigados a trabalhar em equipe para cumprir com as misteriosas expectativas do chefe enquanto se fortalecem ao longo das batalhas",
-      "recomendacao": null,
+    "recomendacao": "Veja o mangá",
       "onde_ver": [
         "Netflix"
       ],
@@ -5480,10 +5506,10 @@
         "Larx Entertainment"
       ],
       "classificacao_indicativa": null,
-      "manual_titulo": null,
+      "manual_titulo": "Kengan Ashura",
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 154,
