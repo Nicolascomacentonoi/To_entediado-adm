@@ -5519,9 +5519,17 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "mistério",
+        "drama",
+        "romance",
+        "comédia",
+        "escolar",
+        "paranormal",
+        "sci-fi"
+      ],
+      "sinopse": "'Para alcançar a paz, os humanos devem compartilhar sua dor' esse é o objetivo do Kizuna Project, que busca desenvolver uma tecnologia capaz conectar as pessoas para acabar com os conflitos. E para completar essa pesquisa, um experimento é iniciado onde 7 individuos juvenis e excentricos são raptad- convidados para compartilharem seus fardos como Kiznavers (e todos choram no cinema). Entre eles se destaca Katsuhira Agata, um jovem de passado nebuloso que perdeu sua capacidade de sentir dor, o que acabou moldando sua personalidade complacente e indiferente. Agora forçado a participar deste experimento, Katsuhira decide aproveitar essa oportunidade para entender melhor as pessoas enquanto tenta recuperar seus sentimentos no processo. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5530,11 +5538,11 @@
       "estudio": [
         "Trigger"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "14",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 155,
