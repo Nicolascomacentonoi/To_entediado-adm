@@ -5552,9 +5552,16 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "comédia romântica",
+        "comédia",
+        "romance",
+        "slice of life",
+        "escolar",
+        "fofo"
+      ],
+      "sinopse": "HitoHito Tadano é um cara mediano e comum, cujo o unico objetivo é desfrutar sua nova vida no ensino médio, ou pelo menos era esse o plano até o destino cruzar seu caminho com Shouko Komi, a super idol e estrela da escola devido a sua aparencia fenomenal e personalidade fria e reservada. Porém, graças à sua alta perspcácia e capacidade de ler o clima, Tadano percebe que toda essa frieza é na verdade ansiedade social, e assim descobre que Komi é na verdade uma garota amével e amigavel mas que sofre de um transtorno sério que a impede de se comunicar com as pessoas ao seu redor. Assim sendo, Tadano se comove e decide usar suas capacidades comunicaivas para ajudar Komi a realizar seu sonho de fazer 100 amigos, que acaba de descer para 99. O que ambos não contavam é que essa escola é basicamente um hospicio.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Netflix"
       ],
@@ -5563,11 +5570,11 @@
       "estudio": [
         "OLM"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 156,
