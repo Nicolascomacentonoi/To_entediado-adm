@@ -5614,22 +5614,29 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "fofo",
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "slice of life",
+        "escolar"
+      ],
+      "sinopse": "Facilmente confundido com um elemento de cenário, Junta Shiarishi é um estudante que apenas busca desfrutar sua estreia no ensino médio, mas possui uma estranha circunstancia que o torna praticamente invisível para os outros ao seu arredor. Porém existe uma pessoa que faz questão de notar sua presença: Nagisa Kubo, sua colega de classe que se recusa a deixar o pobre garoto apodrecer na solidão. ",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "11/01/2023",
       "estudio": [
-        "Quad"
+        "Pine Jam"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": "Livre",
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 158,
