@@ -5548,7 +5548,8 @@
       "id": 155,
       "titulo_referencia": "Komi Can’t Communicate",
       "id_anilist": [
-        133965
+        133965,
+        142984
       ],
       "dublagem": "dublado",
       "filmes": 0,
@@ -5580,13 +5581,17 @@
       "id": 156,
       "titulo_referencia": "KONOSUBA -God's blessing on this wonderful world!",
       "id_anilist": [
-        21202
+        21202,
+        21699,
+        102976,
+        136804,
+        187924
       ],
       "dublagem": "dublado",
       "filmes": 3,
       "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "sinopse": "Após sofrer uma morte patética, Kazuma Satou se encontra no limbo diante de uma bela deusa que lhe oferece a opção de reencarnar normalmente (chato), ou ser transferido para um mundo de fantasia com algum objeto de sua escolha para lutar contra o mau e etc (super legal). Após escolher sabiamente, Kauzuma comprova que um raio não cai duas vezes no mesmo lugar, e decide escolher a própria deusa Aqua como seu 'objeto de apoio'. Porém para seu infortunio, Aqua fora de seu posto não passa de um peso morto, e agora, ambos terão que trabalhar juntos para formar uma equipe esquisita e embracarem em uma jornada para... não morrerem de fome",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
@@ -5595,11 +5600,11 @@
       "estudio": [
         "Studio Deen"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
-      "manual_episodios": null,
-      "manual_status": null
+      "manual_episodios":"31",
+      "manual_status": "Incompleto"
     },
     {
       "id": 157,
