@@ -660,6 +660,7 @@
         "comédia",
         "romance",
         "ecchi",
+        "criminal",
         "comédia romântica",
         "mistério"
       ],
@@ -1428,6 +1429,7 @@
         "drama",
         "mistério",
         "comédia",
+        "criminal",
         "sci-fi"
       ],
       "sinopse": "Em um mundo onde humanos e furries se encontram em constante conflito, Michiru era apenas uma jovem humana que misteriosamente acaba se tornando um guaxinim humanoide. Agora ela se refugia em Anima City, uma cidade onde furries se escondem, e lá, junto de um lobo humanoide, busca a verdade enquanto tenta se adaptar à sua nova vida.",
@@ -1558,6 +1560,7 @@
       "dublagem": "dublado",
       "filmes": 1,
       "generos": [
+        "criminal",
         "sobrenatural",
         "ação",
         "super poderes",
@@ -2090,6 +2093,7 @@
       "generos": [
         "sci-fi",
         "ação",
+        "criminal",
         "drama",
         "aventura"
       ],
@@ -2223,6 +2227,7 @@
       "generos": [
         "jogos mortais",
         "jogos mentais",
+        "criminal",
         "drama",
         "violência",
         "mistério",
@@ -2533,8 +2538,10 @@
       "dublagem": "dublado",
       "filmes": 0,
       "generos": [
+
         "jogos mentais",
         "sobrenatural",
+        "criminal",
         "mistério",
         "drama"
       ],
@@ -3022,6 +3029,7 @@
       "generos": [
         "viagem no tempo",
         "mistério",
+        "criminal",
         "drama",
         "escolar",
         "sobrenatural"
@@ -4066,6 +4074,7 @@
       "filmes": 0,
       "generos": [
                 "jogos mentais",
+                "criminal",
         "aventura",
         "ação",
         "comédia",
@@ -5419,6 +5428,7 @@
       "filmes": 0,
       "generos": [
         "sobrenatural",
+        "criminal",
         "shounen",
         "ação",
         "super poderes",
@@ -5646,9 +5656,16 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "ação",
+        "mistério",
+        "criminal",
+        "delinquente",
+        "distopia",
+       "sci-fi"
+      ],
+      "sinopse": "O ano é 2052 e uma subta noticia choca o mundo: Deniz Skinner, o genio por trás de uma droga (legal) revolucionária chamada Hapna, revela que seu remédio que supostamente era apenas um analgésico perfeito era na verdade um veneno extremamente elaborado, e que todos que tomaram a droga iriam morrer dentro de 1 mes caso não consigam pegar a cura dele, em outra palavras, ele propos um pega pega valendo a vida de milhares de pessoas. Em resposta a isso, o governo decide formar um esquadrão descartável responsável por localizar e perseguir Deniz, um esquadrão composto por criminosos e pessoas envolvidas com o crime (basicamente o Esquadrão Suicida). E entre eles se destaca um BRASILEIRO muito pilantra que tem fetiche em escapar de prisões.",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Max"
       ],
@@ -5657,36 +5674,48 @@
       "estudio": [
         "MAPPA"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 16,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Finalizado"
     },
     {
       "id": 159,
       "titulo_referencia": "Link Click",
       "id_anilist": [
-        126403
+        126403,
+        136484,
+        170166,
+        191832
       ],
-      "dublagem": "não dublado",
+      "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "viagem no tempo",
+        "sobrenatural",
+        "criminal",
+        "ação",
+        "criminal",
+        "drama",
+        "mistério",
+        "super poderes"
+      ],
+      "sinopse": "Indo contra todas as forças do universo, vamos falar do primeiro e unico anime chines bom: Dizem que uma foto vale mais que mil palavras, e logo, elas podem conter inumeros segredos escondidos. Para isso, existe um boato de uma loja de fotografias administrada por uma bruxa que pode descobrir esses segredos perdidos. Mas a verdade é que a loja conta com Cheng Xiaoshi e Lu Guang, dois amigos com poderes misterios que permitem ver o momento em que a foto foi tirada a partir dos olhos do fotógrafo, com Xiaoshi na operação e Lu Guang guiando seu amigo para que ele não cometa erros. Porém viajar ao passado possui riscos graves, e uma pequena alteração pode fud- acabar com a nossa linha do tempo, por isso 2 regras: Voce só tem 12 horas e NADA DE MUDAR O PASSADO... mesmo que ele possa ser doloroso",
+      "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "30/04/2021",
       "estudio": [
-        "Haoliners Animation League"
+        "LAN Studio"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 160,
@@ -7004,6 +7033,7 @@
         "mistério",
         "comédia",
         "drama",
+        "criminal",
         "jogos mentais"
       ],
       "sinopse": "Phoenix é apenas um jovem promissor que sonha em defender pessoas inocentes nos julgamentos como o melhor advogado possível. O que será consideravelmente difícil quando todos os seus clientes são acusados de assassinato e, do outro lado, se encontra um promotor de extremo renome, invicto, com 3 testemunhas compradas, 2 provas forjadas e o juiz dentro do bolso. Mas ele tem um dedo e ele vai PROTESTAR.",
