@@ -5760,22 +5760,31 @@
       ],
       "dublagem": "não dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "romeu e julieta",
+        "ação",
+        "comédia",
+        "comédia romântica",
+        "criminal",
+        "ecchi","fantasia moderna",
+        "fofo",
+        "romance"
+      ],
+      "sinopse": "O que aconteceria se o Ranger vermelho se apaixonase por uma comandante do exército do mau? Bom, ta aí a resposta",
+      "recomendacao": "Média prioridade",
       "onde_ver": [
         "Crunchyroll"
       ],
       "ordem": null,
       "data_lancamento": "08/04/2022",
       "estudio": [
-        "Toei Animation"
+        "Project No.9"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status": "Incompleto"
     },
     {
       "id": 162,
