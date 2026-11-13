@@ -5664,7 +5664,7 @@
         "distopia",
        "sci-fi"
       ],
-      "sinopse": "O ano é 2052 e uma subta noticia choca o mundo: Deniz Skinner, o genio por trás de uma droga (legal) revolucionária chamada Hapna, revela que seu remédio que supostamente era apenas um analgésico perfeito era na verdade um veneno extremamente elaborado, e que todos que tomaram a droga iriam morrer dentro de 1 mes caso não consigam pegar a cura dele, em outra palavras, ele propos um pega pega valendo a vida de milhares de pessoas. Em resposta a isso, o governo decide formar um esquadrão descartável responsável por localizar e perseguir Deniz, um esquadrão composto por criminosos e pessoas envolvidas com o crime (basicamente o Esquadrão Suicida). E entre eles se destaca um BRASILEIRO muito pilantra que tem fetiche em escapar de prisões.",
+      "sinopse": "O ano é 2052 e uma subta noticia choca o mundo: Deniz Skinner revela que seu remédio Hapna, que supostamente era apenas um analgésico perfeito, era na verdade um veneno extremamente elaborado, e que todos que tomaram a droga iriam começar a morrer em 1 mes caso não consigam pegar a cura que está dcom ele, em outra palavras, ele propoe um pega pega valendo a vida de milhares de pessoas. Em resposta a isso, o governo decide formar um esquadrão descartável responsável por localizar e perseguir Deniz, um esquadrão composto por criminosos e pessoas envolvidas com o crime (basicamente o Esquadrão Suicida). E entre eles se destaca um BRASILEIRO muito pilantra que tem fetiche em escapar de prisões.",
       "recomendacao": "Alta prioridade",
       "onde_ver": [
         "Max"
@@ -5725,22 +5725,32 @@
       ],
       "dublagem": "dublado",
       "filmes": 0,
-      "generos": [],
-      "sinopse": null,
-      "recomendacao": null,
+      "generos": [
+        "sobrenatural",
+        "ação",
+        "comédia",
+        "delinquente",
+        "drama",
+        "escolar",
+        "harém",
+        "porrada",
+        "romance"
+      ],
+      "sinopse": "Já desejou acordar em um corpo diferente? Um corpo atraente, forte e atlético... Uma fantasia bem depreciativa, mas que acaba se tornando a realidade de Park Hyung Suk. Nosso menino Park, que não passava de mais uma vitima de bulliyng, misteriosamente acorda em um corpo completamente diferente logo antes de começar sua vida em uma nova escola, e como ele não é trouxa, ele decide aproveitar ao máximo sua nova vida feliz e popular. Mas como o mundo não é um morango, ainda parece existir uma condição: toda vez que ele dorme, ele acorda em outro corpo, alternando entre seu corpo original e o bonitão no lugar onde ele deixou eles. E como se não bastase, parece existir mais uma condição: atrair confusão.",
+      "recomendacao": "Baixa prioridade",
       "onde_ver": [
         "Netflix"
       ],
       "ordem": null,
       "data_lancamento": "08/12/2022",
       "estudio": [
-        "Mir"
+        "Studio Mir"
       ],
-      "classificacao_indicativa": null,
+      "classificacao_indicativa": 14,
       "manual_titulo": null,
       "manual_capa": null,
       "manual_episodios": null,
-      "manual_status": null
+      "manual_status":"Incompleto"
     },
     {
       "id": 161,
